@@ -1,0 +1,29 @@
+[
+  {
+    "Version": "0.3",
+    "Name": "Messiah",
+    "Structures": [
+      {
+        "StructureID": 0,
+        "StructureType": "AltCorp_Shuttle_CECA",
+        "Tag": "Tarantula",
+        "Invulnerable": false,
+        "SystemsOnline": false,
+        "DoorsLocked": false,
+		"SecurityPanelsLocked": true,
+        "HealthMultiplier": 0.32,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": []
+      }
+    ],
+    "Invulnerable": false,
+    "SystemsOnline": false,
+    "DoorsLocked": false,
+    "HealthMultiplier": 0.32,
+    "DockingControlsDisabled": false,
+    "AirPressure": 0,
+    "AirQuality": 0
+  }
+]

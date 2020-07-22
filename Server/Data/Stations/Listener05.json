@@ -1,0 +1,25 @@
+{
+  "Version": "0.3",
+  "Name": "",
+  "Structures": [
+    {
+      "StructureID": 0,
+      "StructureType": "Asteroid05",
+      "Invulnerable": false,
+      "SystemsOnline": false,
+      "DoorsLocked": false,
+      "HealthMultiplier": 0.5,
+      "DockingControlsDisabled": false,
+      "AirPressure": 0,
+      "AirQuality": 0,
+      "DockingPorts": []
+    }
+  ],
+  "Invulnerable": false,
+  "SystemsOnline": false,
+  "DoorsLocked": false,
+  "HealthMultiplier": 0.5,
+  "DockingControlsDisabled": false,
+  "AirPressure": 0,
+  "AirQuality": 0
+}

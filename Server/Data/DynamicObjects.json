@@ -1,0 +1,5762 @@
+[
+  {
+    "ItemID": 123,
+    "ItemType": 1700,
+    "PrefabPath": "Prefabs/Prop/Cosmetic/Posters/Generic_Cosmetic_Poster_Bethyr",
+    "MetaGUID": "fcd70268805f6f647b7ed5a7397c3ff9",
+    "DefaultAuxData": {
+      "SubType": 9,
+      "Look": "",
+      "Category": 0,
+      "ItemType": 1700,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1700,
+      "SubType": 9,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 124,
+    "ItemType": 1700,
+    "PrefabPath": "Prefabs/Prop/Cosmetic/Posters/Generic_Cosmetic_Poster_Burner",
+    "MetaGUID": "a8973810da932f14a9815fd80563c089",
+    "DefaultAuxData": {
+      "SubType": 21,
+      "Look": "",
+      "Category": 0,
+      "ItemType": 1700,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1700,
+      "SubType": 21,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 125,
+    "ItemType": 1700,
+    "PrefabPath": "Prefabs/Prop/Cosmetic/Posters/Generic_Cosmetic_Poster_Everest",
+    "MetaGUID": "d98f01b1799b5d0419d836d93662fde7",
+    "DefaultAuxData": {
+      "SubType": 22,
+      "Look": "",
+      "Category": 0,
+      "ItemType": 1700,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1700,
+      "SubType": 22,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 126,
+    "ItemType": 1700,
+    "PrefabPath": "Prefabs/Prop/Cosmetic/Posters/Generic_Cosmetic_Poster_Hellion",
+    "MetaGUID": "7da7099649c55184a912fb281cc44895",
+    "DefaultAuxData": {
+      "SubType": 23,
+      "Look": "",
+      "Category": 0,
+      "ItemType": 1700,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1700,
+      "SubType": 23,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 127,
+    "ItemType": 1700,
+    "PrefabPath": "Prefabs/Prop/Cosmetic/Posters/Generic_Cosmetic_Poster_Turret",
+    "MetaGUID": "2dbb08a781635704798f0e2aaa07cf0e",
+    "DefaultAuxData": {
+      "SubType": 25,
+      "Look": "",
+      "Category": 0,
+      "ItemType": 1700,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1700,
+      "SubType": 25,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 128,
+    "ItemType": 1700,
+    "PrefabPath": "Prefabs/Prop/Cosmetic/Posters/Generic_Cosmetic_Poster_CrewQuarters",
+    "MetaGUID": "2dc2e0c7e9dc5104a987b13543dc474f",
+    "DefaultAuxData": {
+      "SubType": 24,
+      "Look": "",
+      "Category": 0,
+      "ItemType": 1700,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1700,
+      "SubType": 24,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 129,
+    "ItemType": 1700,
+    "PrefabPath": "Prefabs/Prop/Cosmetic/Posters/Generic_Cosmetic_Poster_SonsOfEarth",
+    "MetaGUID": "c4f39628e1d7545499b514904330b5da",
+    "DefaultAuxData": {
+      "SubType": 26,
+      "Look": "",
+      "Category": 0,
+      "ItemType": 1700,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1700,
+      "SubType": 26,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 55,
+    "ItemType": 1700,
+    "PrefabPath": "Prefabs/Prop/Cosmetic/AltCorp_Cosmetic_Basketball01",
+    "MetaGUID": "f57956ba0a3444f4aae873780baa9efa",
+    "DefaultAuxData": {
+      "SubType": 2,
+      "Look": "",
+      "Category": 0,
+      "ItemType": 1700,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": true,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1700,
+      "SubType": 2,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 56,
+    "ItemType": 1700,
+    "PrefabPath": "Prefabs/Prop/Cosmetic/AltCorp_Cosmetic_BasketballHoop01",
+    "MetaGUID": "c027ec39ff8cd1943b15c766f0828799",
+    "DefaultAuxData": {
+      "SubType": 4,
+      "Look": "",
+      "Category": 0,
+      "ItemType": 1700,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1700,
+      "SubType": 4,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 57,
+    "ItemType": 1700,
+    "PrefabPath": "Prefabs/Prop/Cosmetic/AltCorp_Cosmetic_Cup01",
+    "MetaGUID": "55ab1b6a98441ef4990237c2029a0451",
+    "DefaultAuxData": {
+      "SubType": 12,
+      "Look": "",
+      "Category": 0,
+      "ItemType": 1700,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1700,
+      "SubType": 12,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 58,
+    "ItemType": 1700,
+    "PrefabPath": "Prefabs/Prop/Cosmetic/AltCorp_Flag01",
+    "MetaGUID": "14aac41ab805cb04eaa27773c0649cfd",
+    "DefaultAuxData": {
+      "SubType": 1,
+      "Look": "",
+      "Category": 0,
+      "ItemType": 1700,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1700,
+      "SubType": 1,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 59,
+    "ItemType": 1700,
+    "PrefabPath": "Prefabs/Prop/Cosmetic/Generic_Cosmetic_CoffeeMachine01",
+    "MetaGUID": "9b8bca53cc6aee743b63c634d8b642b2",
+    "DefaultAuxData": {
+      "SubType": 13,
+      "Look": "",
+      "Category": 0,
+      "ItemType": 1700,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1700,
+      "SubType": 13,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 60,
+    "ItemType": 1700,
+    "PrefabPath": "Prefabs/Prop/Cosmetic/Generic_Cosmetic_LavaLamp01",
+    "MetaGUID": "e47e61cdc2d864540bcd93692e542982",
+    "DefaultAuxData": {
+      "SubType": 5,
+      "Look": "",
+      "Category": 0,
+      "ItemType": 1700,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1700,
+      "SubType": 5,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 61,
+    "ItemType": 1700,
+    "PrefabPath": "Prefabs/Prop/Cosmetic/Generic_Cosmetic_Picture_Acteon",
+    "MetaGUID": "9d99904ce576d7e4980289a91aff78e8",
+    "DefaultAuxData": {
+      "SubType": 11,
+      "Look": "",
+      "Category": 0,
+      "ItemType": 1700,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1700,
+      "SubType": 11,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 62,
+    "ItemType": 1700,
+    "PrefabPath": "Prefabs/Prop/Cosmetic/Generic_Cosmetic_Picture_Atlas_Large",
+    "MetaGUID": "96b307e976ac1fc4b995d68b8e0c8f20",
+    "DefaultAuxData": {
+      "SubType": 11,
+      "Look": "",
+      "Category": 0,
+      "ItemType": 1700,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1700,
+      "SubType": 11,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 63,
+    "ItemType": 1700,
+    "PrefabPath": "Prefabs/Prop/Cosmetic/Generic_Cosmetic_Statue01",
+    "MetaGUID": "1bbb2304ae6c1d34c8798bed1a33174d",
+    "DefaultAuxData": {
+      "SubType": 3,
+      "Look": "",
+      "Category": 0,
+      "ItemType": 1700,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1700,
+      "SubType": 3,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 64,
+    "ItemType": 1700,
+    "PrefabPath": "Prefabs/Prop/Cosmetic/Generic_Cosmetic_TeslaLamp01",
+    "MetaGUID": "d6c6717b1f649b24d8f35aabf426140a",
+    "DefaultAuxData": {
+      "SubType": 10,
+      "Look": "",
+      "Category": 0,
+      "ItemType": 1700,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1700,
+      "SubType": 10,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 65,
+    "ItemType": 1700,
+    "PrefabPath": "Prefabs/Prop/Cosmetic/Generic_Plants_ZhikkaLeaf01",
+    "MetaGUID": "a1dd2e050e510254a884a862b6e3b678",
+    "DefaultAuxData": {
+      "SubType": 7,
+      "Look": "",
+      "Category": 0,
+      "ItemType": 1700,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1700,
+      "SubType": 7,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 66,
+    "ItemType": 1700,
+    "PrefabPath": "Prefabs/Prop/Cosmetic/MedicalCorp_Cosmetic_PlantCanister01",
+    "MetaGUID": "0c6ab18105145864a8bafde13f02791a",
+    "DefaultAuxData": {
+      "SubType": 8,
+      "Look": "",
+      "Category": 0,
+      "ItemType": 1700,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1700,
+      "SubType": 8,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 67,
+    "ItemType": 1700,
+    "PrefabPath": "Prefabs/Prop/Cosmetic/MedicalCorp_Cosmetic_PlantRing01",
+    "MetaGUID": "3139a11a04df9cc4986a72814e2da40e",
+    "DefaultAuxData": {
+      "SubType": 6,
+      "Look": "",
+      "Category": 0,
+      "ItemType": 1700,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1700,
+      "SubType": 6,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 122,
+    "ItemType": 1700,
+    "PrefabPath": "Prefabs/Prop/Cosmetic/Generic_Transport_Box",
+    "MetaGUID": "2fa5f1d0d7094034e81852ab499535c3",
+    "DefaultAuxData": {
+      "SubType": 20,
+      "Look": "",
+      "Category": 0,
+      "ItemType": 1700,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [
+        {
+          "ID": 1,
+          "ItemTypes": [
+            900,
+            1300,
+            1001,
+            1301,
+            1800,
+            1801,
+            2000,
+            200,
+            202,
+            203,
+            300,
+            201,
+            1400,
+            1500,
+            1600,
+            2000
+          ],
+          "GenericSubTypes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            9,
+            10,
+            11,
+            12,
+            15,
+            21,
+            23,
+            24,
+            25,
+            26,
+            27,
+            16
+          ],
+          "MachineryPartTypes": [
+            2,
+            6,
+            10,
+            11,
+            12,
+            13,
+            17,
+            19,
+            23,
+            28,
+            29,
+            9
+          ],
+          "SpawnItem": {
+            "Type": 0,
+            "SubType": 0,
+            "PartType": 0,
+            "Tier": 0
+          }
+        },
+        {
+          "ID": 2,
+          "ItemTypes": [
+            900,
+            1300,
+            1001,
+            1301,
+            1800,
+            1801,
+            2000,
+            200,
+            202,
+            203,
+            300,
+            201,
+            1400,
+            1500,
+            1600,
+            2000
+          ],
+          "GenericSubTypes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            9,
+            10,
+            11,
+            12,
+            15,
+            21,
+            23,
+            24,
+            25,
+            26,
+            27,
+            16
+          ],
+          "MachineryPartTypes": [
+            2,
+            6,
+            10,
+            11,
+            12,
+            13,
+            17,
+            19,
+            23,
+            28,
+            29,
+            9
+          ],
+          "SpawnItem": {
+            "Type": 0,
+            "SubType": 0,
+            "PartType": 0,
+            "Tier": 0
+          }
+        },
+        {
+          "ID": 3,
+          "ItemTypes": [
+            900,
+            1300,
+            1001,
+            1301,
+            1800,
+            1801,
+            2000,
+            200,
+            202,
+            203,
+            300,
+            201,
+            1400,
+            1500,
+            1600,
+            2000
+          ],
+          "GenericSubTypes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            9,
+            10,
+            11,
+            12,
+            15,
+            21,
+            23,
+            24,
+            25,
+            26,
+            27,
+            16
+          ],
+          "MachineryPartTypes": [
+            2,
+            6,
+            10,
+            11,
+            12,
+            13,
+            17,
+            19,
+            23,
+            28,
+            29,
+            9
+          ],
+          "SpawnItem": {
+            "Type": 0,
+            "SubType": 0,
+            "PartType": 0,
+            "Tier": 0
+          }
+        },
+        {
+          "ID": 4,
+          "ItemTypes": [
+            900,
+            1300,
+            1001,
+            1301,
+            1800,
+            1801,
+            2000,
+            200,
+            202,
+            203,
+            300,
+            201,
+            1400,
+            1500,
+            1600,
+            2000
+          ],
+          "GenericSubTypes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            9,
+            10,
+            11,
+            12,
+            15,
+            21,
+            23,
+            24,
+            25,
+            26,
+            27,
+            16
+          ],
+          "MachineryPartTypes": [
+            2,
+            6,
+            10,
+            11,
+            12,
+            13,
+            17,
+            19,
+            23,
+            28,
+            29,
+            9
+          ],
+          "SpawnItem": {
+            "Type": 0,
+            "SubType": 0,
+            "PartType": 0,
+            "Tier": 0
+          }
+        },
+        {
+          "ID": 5,
+          "ItemTypes": [
+            900,
+            1300,
+            1001,
+            1301,
+            1800,
+            1801,
+            2000,
+            200,
+            202,
+            203,
+            300,
+            201,
+            1400,
+            1500,
+            1600,
+            2000
+          ],
+          "GenericSubTypes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            9,
+            10,
+            11,
+            12,
+            15,
+            21,
+            23,
+            24,
+            25,
+            26,
+            27,
+            16
+          ],
+          "MachineryPartTypes": [
+            2,
+            6,
+            10,
+            11,
+            12,
+            13,
+            17,
+            19,
+            23,
+            28,
+            29,
+            9
+          ],
+          "SpawnItem": {
+            "Type": 0,
+            "SubType": 0,
+            "PartType": 0,
+            "Tier": 0
+          }
+        },
+        {
+          "ID": 6,
+          "ItemTypes": [
+            900,
+            1300,
+            1001,
+            1301,
+            1800,
+            1801,
+            2000,
+            200,
+            202,
+            203,
+            300,
+            201,
+            1400,
+            1500,
+            1600,
+            2000
+          ],
+          "GenericSubTypes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            9,
+            10,
+            11,
+            12,
+            15,
+            21,
+            23,
+            24,
+            25,
+            26,
+            27,
+            16
+          ],
+          "MachineryPartTypes": [
+            2,
+            6,
+            10,
+            11,
+            12,
+            13,
+            17,
+            19,
+            23,
+            28,
+            29,
+            9
+          ],
+          "SpawnItem": {
+            "Type": 0,
+            "SubType": 0,
+            "PartType": 0,
+            "Tier": 0
+          }
+        },
+        {
+          "ID": 7,
+          "ItemTypes": [
+            900,
+            1300,
+            1001,
+            1301,
+            1800,
+            1801,
+            2000,
+            200,
+            202,
+            203,
+            300,
+            201,
+            1400,
+            1500,
+            1600,
+            2000
+          ],
+          "GenericSubTypes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            9,
+            10,
+            11,
+            12,
+            15,
+            21,
+            23,
+            24,
+            25,
+            26,
+            27,
+            16
+          ],
+          "MachineryPartTypes": [
+            2,
+            6,
+            10,
+            11,
+            12,
+            13,
+            17,
+            19,
+            23,
+            28,
+            29,
+            9
+          ],
+          "SpawnItem": {
+            "Type": 0,
+            "SubType": 0,
+            "PartType": 0,
+            "Tier": 0
+          }
+        },
+        {
+          "ID": 8,
+          "ItemTypes": [
+            900,
+            1300,
+            1001,
+            1301,
+            1800,
+            1801,
+            2000,
+            200,
+            202,
+            203,
+            300,
+            201,
+            1400,
+            1500,
+            1600,
+            2000
+          ],
+          "GenericSubTypes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            9,
+            10,
+            11,
+            12,
+            15,
+            21,
+            23,
+            24,
+            25,
+            26,
+            27,
+            16
+          ],
+          "MachineryPartTypes": [
+            2,
+            6,
+            10,
+            11,
+            12,
+            13,
+            17,
+            19,
+            23,
+            28,
+            29,
+            9
+          ],
+          "SpawnItem": {
+            "Type": 0,
+            "SubType": 0,
+            "PartType": 0,
+            "Tier": 0
+          }
+        },
+        {
+          "ID": 9,
+          "ItemTypes": [
+            900,
+            1300,
+            1001,
+            1301,
+            1800,
+            1801,
+            2000,
+            200,
+            202,
+            203,
+            300,
+            201,
+            1400,
+            1500,
+            1600,
+            2000
+          ],
+          "GenericSubTypes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            9,
+            10,
+            11,
+            12,
+            15,
+            21,
+            23,
+            24,
+            25,
+            26,
+            27,
+            16
+          ],
+          "MachineryPartTypes": [
+            2,
+            6,
+            10,
+            11,
+            12,
+            13,
+            17,
+            19,
+            23,
+            28,
+            29,
+            9
+          ],
+          "SpawnItem": {
+            "Type": 0,
+            "SubType": 0,
+            "PartType": 0,
+            "Tier": 0
+          }
+        },
+        {
+          "ID": 10,
+          "ItemTypes": [
+            900,
+            1300,
+            1001,
+            1301,
+            1800,
+            1801,
+            2000,
+            200,
+            202,
+            203,
+            300,
+            201,
+            1400,
+            1500,
+            1600,
+            2000
+          ],
+          "GenericSubTypes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            9,
+            10,
+            11,
+            12,
+            15,
+            21,
+            23,
+            24,
+            25,
+            26,
+            27,
+            16
+          ],
+          "MachineryPartTypes": [
+            2,
+            6,
+            10,
+            11,
+            12,
+            13,
+            17,
+            19,
+            23,
+            28,
+            29,
+            9
+          ],
+          "SpawnItem": {
+            "Type": 0,
+            "SubType": 0,
+            "PartType": 0,
+            "Tier": 0
+          }
+        },
+        {
+          "ID": 11,
+          "ItemTypes": [
+            900,
+            1300,
+            1001,
+            1301,
+            1800,
+            1801,
+            2000,
+            200,
+            202,
+            203,
+            300,
+            201,
+            1400,
+            1500,
+            1600,
+            2000
+          ],
+          "GenericSubTypes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            9,
+            10,
+            11,
+            12,
+            15,
+            21,
+            23,
+            24,
+            25,
+            26,
+            27,
+            16
+          ],
+          "MachineryPartTypes": [
+            2,
+            6,
+            10,
+            11,
+            12,
+            13,
+            17,
+            19,
+            23,
+            28,
+            29,
+            9
+          ],
+          "SpawnItem": {
+            "Type": 0,
+            "SubType": 0,
+            "PartType": 0,
+            "Tier": 0
+          }
+        },
+        {
+          "ID": 12,
+          "ItemTypes": [
+            900,
+            1300,
+            1001,
+            1301,
+            1800,
+            1801,
+            2000,
+            200,
+            202,
+            203,
+            300,
+            201,
+            1400,
+            1500,
+            1600,
+            2000
+          ],
+          "GenericSubTypes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            9,
+            10,
+            11,
+            12,
+            15,
+            21,
+            23,
+            24,
+            25,
+            26,
+            27,
+            16
+          ],
+          "MachineryPartTypes": [
+            2,
+            6,
+            10,
+            11,
+            12,
+            13,
+            17,
+            19,
+            23,
+            28,
+            29,
+            9
+          ],
+          "SpawnItem": {
+            "Type": 0,
+            "SubType": 0,
+            "PartType": 0,
+            "Tier": 0
+          }
+        },
+        {
+          "ID": 13,
+          "ItemTypes": [
+            900,
+            1300,
+            1001,
+            1301,
+            1800,
+            1801,
+            2000,
+            200,
+            202,
+            203,
+            300,
+            201,
+            1400,
+            1500,
+            1600,
+            2000
+          ],
+          "GenericSubTypes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            9,
+            10,
+            11,
+            12,
+            15,
+            21,
+            23,
+            24,
+            25,
+            26,
+            27,
+            16
+          ],
+          "MachineryPartTypes": [
+            2,
+            6,
+            10,
+            11,
+            12,
+            13,
+            17,
+            19,
+            23,
+            28,
+            29,
+            9
+          ],
+          "SpawnItem": {
+            "Type": 0,
+            "SubType": 0,
+            "PartType": 0,
+            "Tier": 0
+          }
+        },
+        {
+          "ID": 14,
+          "ItemTypes": [
+            900,
+            1300,
+            1001,
+            1301,
+            1800,
+            1801,
+            2000,
+            200,
+            202,
+            203,
+            300,
+            201,
+            1400,
+            1500,
+            1600,
+            2000
+          ],
+          "GenericSubTypes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            9,
+            10,
+            11,
+            12,
+            15,
+            21,
+            23,
+            24,
+            25,
+            26,
+            27,
+            16
+          ],
+          "MachineryPartTypes": [
+            2,
+            6,
+            10,
+            11,
+            12,
+            13,
+            17,
+            19,
+            23,
+            28,
+            29,
+            9
+          ],
+          "SpawnItem": {
+            "Type": 0,
+            "SubType": 0,
+            "PartType": 0,
+            "Tier": 0
+          }
+        },
+        {
+          "ID": 15,
+          "ItemTypes": [
+            900,
+            1300,
+            1001,
+            1301,
+            1800,
+            1801,
+            2000,
+            200,
+            202,
+            203,
+            300,
+            201,
+            1400,
+            1500,
+            1600,
+            2000
+          ],
+          "GenericSubTypes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            9,
+            10,
+            11,
+            12,
+            15,
+            21,
+            23,
+            24,
+            25,
+            26,
+            27,
+            16
+          ],
+          "MachineryPartTypes": [
+            2,
+            6,
+            10,
+            11,
+            12,
+            13,
+            17,
+            19,
+            23,
+            28,
+            29,
+            9
+          ],
+          "SpawnItem": {
+            "Type": 0,
+            "SubType": 0,
+            "PartType": 0,
+            "Tier": 0
+          }
+        },
+        {
+          "ID": 16,
+          "ItemTypes": [
+            900,
+            1300,
+            1001,
+            1301,
+            1800,
+            1801,
+            2000,
+            200,
+            202,
+            203,
+            300,
+            201,
+            1400,
+            1500,
+            1600,
+            2000
+          ],
+          "GenericSubTypes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            9,
+            10,
+            11,
+            12,
+            15,
+            21,
+            23,
+            24,
+            25,
+            26,
+            27,
+            16
+          ],
+          "MachineryPartTypes": [
+            2,
+            6,
+            10,
+            11,
+            12,
+            13,
+            17,
+            19,
+            23,
+            28,
+            29,
+            9
+          ],
+          "SpawnItem": {
+            "Type": 0,
+            "SubType": 0,
+            "PartType": 0,
+            "Tier": 0
+          }
+        },
+        {
+          "ID": 17,
+          "ItemTypes": [
+            900,
+            1300,
+            1001,
+            1301,
+            1800,
+            1801,
+            2000,
+            200,
+            202,
+            203,
+            300,
+            201,
+            1400,
+            1500,
+            1600,
+            2000
+          ],
+          "GenericSubTypes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            9,
+            10,
+            11,
+            12,
+            15,
+            21,
+            23,
+            24,
+            25,
+            26,
+            27,
+            16
+          ],
+          "MachineryPartTypes": [
+            2,
+            6,
+            10,
+            11,
+            12,
+            13,
+            17,
+            19,
+            23,
+            28,
+            29,
+            9
+          ],
+          "SpawnItem": {
+            "Type": 0,
+            "SubType": 0,
+            "PartType": 0,
+            "Tier": 0
+          }
+        },
+        {
+          "ID": 18,
+          "ItemTypes": [
+            900,
+            1300,
+            1001,
+            1301,
+            1800,
+            1801,
+            2000,
+            200,
+            202,
+            203,
+            300,
+            201,
+            1400,
+            1500,
+            1600,
+            2000
+          ],
+          "GenericSubTypes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            9,
+            10,
+            11,
+            12,
+            15,
+            21,
+            23,
+            24,
+            25,
+            26,
+            27,
+            16
+          ],
+          "MachineryPartTypes": [
+            2,
+            6,
+            10,
+            11,
+            12,
+            13,
+            17,
+            19,
+            23,
+            28,
+            29,
+            9
+          ],
+          "SpawnItem": {
+            "Type": 0,
+            "SubType": 0,
+            "PartType": 0,
+            "Tier": 0
+          }
+        }
+      ],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1700,
+      "SubType": 20,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 116,
+    "ItemType": 1700,
+    "PrefabPath": "Prefabs/Prop/Scrap/Generic_Scrap_BrokenArmature",
+    "MetaGUID": "d5d528e38d5eb654e9add0a2738b5c92",
+    "DefaultAuxData": {
+      "SubType": 14,
+      "Look": "",
+      "Category": 0,
+      "ItemType": 1700,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1700,
+      "SubType": 14,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 117,
+    "ItemType": 1700,
+    "PrefabPath": "Prefabs/Prop/Scrap/Generic_Scrap_ShatteredPlating",
+    "MetaGUID": "9970387bdd5532c4d826efa9df025243",
+    "DefaultAuxData": {
+      "SubType": 15,
+      "Look": "",
+      "Category": 0,
+      "ItemType": 1700,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1700,
+      "SubType": 15,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 118,
+    "ItemType": 1700,
+    "PrefabPath": "Prefabs/Prop/Scrap/Generic_Scrap_FriedElectronics",
+    "MetaGUID": "934d680b12490c847a1ed593a9b92d1d",
+    "DefaultAuxData": {
+      "SubType": 16,
+      "Look": "",
+      "Category": 0,
+      "ItemType": 1700,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1700,
+      "SubType": 16,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 119,
+    "ItemType": 1700,
+    "PrefabPath": "Prefabs/Prop/Scrap/Generic_Scrap_DamagedTransmiter",
+    "MetaGUID": "d3264d6d861f0f347ab2adb5869234cb",
+    "DefaultAuxData": {
+      "SubType": 17,
+      "Look": "",
+      "Category": 0,
+      "ItemType": 1700,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1700,
+      "SubType": 17,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 120,
+    "ItemType": 1700,
+    "PrefabPath": "Prefabs/Prop/Scrap/Generic_Scrap_RupturedInsulation",
+    "MetaGUID": "428002aabb1f2d54283429644ce92bdc",
+    "DefaultAuxData": {
+      "SubType": 18,
+      "Look": "",
+      "Category": 0,
+      "ItemType": 1700,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1700,
+      "SubType": 18,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 121,
+    "ItemType": 1700,
+    "PrefabPath": "Prefabs/Prop/Scrap/Generic_Scrap_BurnedPDU",
+    "MetaGUID": "2424c3d46d5334a49af74e934adbd533",
+    "DefaultAuxData": {
+      "SubType": 19,
+      "Look": "",
+      "Category": 0,
+      "ItemType": 1700,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1700,
+      "SubType": 19,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 51,
+    "ItemType": 203,
+    "PrefabPath": "Prefabs/Weapons/Military/MilitaryCorp_HandGun_Ammo01",
+    "MetaGUID": "3b1dd50702288504792fe10a7420474f",
+    "DefaultAuxData": {
+      "BulletCount": 15,
+      "MaxBulletCount": 15,
+      "Category": 8,
+      "ItemType": 203,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 203,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 44,
+    "ItemType": 202,
+    "PrefabPath": "Prefabs/Weapons/Military/MilitaryCorp_RailgunSniper01_Magazine",
+    "MetaGUID": "74eecbd9c087c374b96060ca876a7723",
+    "DefaultAuxData": {
+      "BulletCount": 5,
+      "MaxBulletCount": 5,
+      "Category": 8,
+      "ItemType": 202,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 202,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 32,
+    "ItemType": 201,
+    "PrefabPath": "Prefabs/Weapons/Military/Military_AssaultRifle_Magazine",
+    "MetaGUID": "f8141c2e246e93945883890025794094",
+    "DefaultAuxData": {
+      "BulletCount": 20,
+      "MaxBulletCount": 20,
+      "Category": 8,
+      "ItemType": 201,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 201,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 80,
+    "ItemType": 1801,
+    "PrefabPath": "Prefabs/Weapons/Military/MilitaryCorp_Weapons_EMPGrenade01",
+    "MetaGUID": "d35ebff0346ef1a4398a99394b885714",
+    "DefaultAuxData": {
+      "IsActive": false,
+      "DetonationTime": 5.0,
+      "Category": 1,
+      "ItemType": 1801,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 14.0,
+      "Health": 14.0,
+      "Armor": 0.0,
+      "Damageable": true,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 10.0,
+      "ExplosionDamageType": 4
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1801,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 79,
+    "ItemType": 1900,
+    "PrefabPath": "Prefabs/Weapons/Military/MilitaryCorp_Weapons_DeployableTurret01",
+    "MetaGUID": "47478e954d3d69e45bafb1277a4f4f91",
+    "DefaultAuxData": {
+      "IsActive": false,
+      "Damage": 10.0,
+      "Category": 1,
+      "ItemType": 1900,
+      "Tier": 1,
+      "TierMultipliers": [
+        1.2,
+        1.4,
+        1.8,
+        2.0
+      ],
+      "AuxValues": [
+        7.0,
+        9.0,
+        11.0,
+        20.0
+      ],
+      "MaxHealth": 150.0,
+      "Health": 150.0,
+      "Armor": 0.0,
+      "Damageable": true,
+      "Repairable": true,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 25.0,
+      "ExplosionRadius": 5.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1900,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 77,
+    "ItemType": 1800,
+    "PrefabPath": "Prefabs/Weapons/Military/MilitaryCorp_Weapons_Grenade01",
+    "MetaGUID": "ce5f055e2ed38a14bb93778d4a9d6ba4",
+    "DefaultAuxData": {
+      "IsActive": false,
+      "DetonationTime": 5.0,
+      "Category": 1,
+      "ItemType": 1800,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 14.0,
+      "Health": 14.0,
+      "Armor": 0.0,
+      "Damageable": true,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 103.0,
+      "ExplosionRadius": 6.0,
+      "ExplosionDamageType": 1
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1800,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 49,
+    "ItemType": 103,
+    "PrefabPath": "Prefabs/Weapons/Military/MilitaryCorp_HandGun01",
+    "MetaGUID": "041b8b6d82fb17840ad25f5cb4a75a45",
+    "DefaultAuxData": {
+      "CurrentMod": -1,
+      "weaponMods": [
+        {
+          "Damage": 16.0,
+          "Range": 1000.0,
+          "PowerCons": 0.0,
+          "RateOfFire": 0.333
+        },
+        {
+          "Damage": 14.0,
+          "Range": 1000.0,
+          "PowerCons": 0.0,
+          "RateOfFire": 0.125
+        }
+      ],
+      "Category": 1,
+      "ItemType": 103,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [
+        {
+          "ID": 1,
+          "ItemTypes": [
+            203
+          ],
+          "GenericSubTypes": [],
+          "MachineryPartTypes": [],
+          "SpawnItem": {
+            "Type": 0,
+            "SubType": 0,
+            "PartType": 0,
+            "Tier": 0
+          }
+        }
+      ],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 103,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 50,
+    "ItemType": 104,
+    "PrefabPath": "Prefabs/Weapons/Military/MilitaryCorp_HandGun02",
+    "MetaGUID": "e9620ecc97f0e7941ac8fdbb3ffe14e6",
+    "DefaultAuxData": {
+      "CurrentMod": -1,
+      "weaponMods": [
+        {
+          "Damage": 28.0,
+          "Range": 1000.0,
+          "PowerCons": 0.0,
+          "RateOfFire": 0.55
+        }
+      ],
+      "Category": 1,
+      "ItemType": 104,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [
+        {
+          "ID": 1,
+          "ItemTypes": [
+            203
+          ],
+          "GenericSubTypes": [],
+          "MachineryPartTypes": [],
+          "SpawnItem": {
+            "Type": 0,
+            "SubType": 0,
+            "PartType": 0,
+            "Tier": 0
+          }
+        }
+      ],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 104,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 45,
+    "ItemType": 102,
+    "PrefabPath": "Prefabs/Weapons/Military/MilitaryCorp_RailgunSniper01",
+    "MetaGUID": "7ec81cfc74c3a5545aba21b141d7d51a",
+    "DefaultAuxData": {
+      "CurrentMod": -1,
+      "weaponMods": [
+        {
+          "Damage": 75.0,
+          "Range": 1000.0,
+          "PowerCons": 0.0,
+          "RateOfFire": 1.666
+        }
+      ],
+      "Category": 1,
+      "ItemType": 102,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [
+        {
+          "ID": 1,
+          "ItemTypes": [
+            202
+          ],
+          "GenericSubTypes": [],
+          "MachineryPartTypes": [],
+          "SpawnItem": {
+            "Type": 0,
+            "SubType": 0,
+            "PartType": 0,
+            "Tier": 0
+          }
+        }
+      ],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 102,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 41,
+    "ItemType": 101,
+    "PrefabPath": "Prefabs/Weapons/Military/Military_AssaultRailgun01",
+    "MetaGUID": "4685ecc43a0944b4e81e5ceafe316543",
+    "DefaultAuxData": {
+      "CurrentMod": -1,
+      "weaponMods": [
+        {
+          "Damage": 21.0,
+          "Range": 1000.0,
+          "PowerCons": 0.0,
+          "RateOfFire": 0.1
+        }
+      ],
+      "Category": 1,
+      "ItemType": 101,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [
+        {
+          "ID": 1,
+          "ItemTypes": [
+            201
+          ],
+          "GenericSubTypes": [],
+          "MachineryPartTypes": [],
+          "SpawnItem": {
+            "Type": 0,
+            "SubType": 0,
+            "PartType": 0,
+            "Tier": 0
+          }
+        }
+      ],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 101,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 131,
+    "ItemType": 105,
+    "PrefabPath": "Prefabs/Weapons/Military/Military_AssaultRailgun02",
+    "MetaGUID": "f6b45366e9703774eaafbc8e0cb63fd9",
+    "DefaultAuxData": {
+      "CurrentMod": -1,
+      "weaponMods": [
+        {
+          "Damage": 25.0,
+          "Range": 1000.0,
+          "PowerCons": 0.0,
+          "RateOfFire": 0.119
+        }
+      ],
+      "Category": 1,
+      "ItemType": 105,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [
+        {
+          "ID": 1,
+          "ItemTypes": [
+            201
+          ],
+          "GenericSubTypes": [],
+          "MachineryPartTypes": [],
+          "SpawnItem": {
+            "Type": 0,
+            "SubType": 0,
+            "PartType": 0,
+            "Tier": 0
+          }
+        }
+      ],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 105,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 136,
+    "ItemType": 600,
+    "PrefabPath": "Models/MachineryParts/MilitaryCorp_Parts_MilitaryNaniteCore_MDL",
+    "MetaGUID": "31ce0b0cf97309648afe5e5a648b138f",
+    "DefaultAuxData": {
+      "PartType": 29,
+      "Category": 2,
+      "ItemType": 600,
+      "Tier": 1,
+      "TierMultipliers": [
+        1.0,
+        1.25,
+        1.875,
+        3.0
+      ],
+      "AuxValues": [
+        8.0,
+        10.0,
+        15.0,
+        24.0
+      ],
+      "MaxHealth": 30000.0,
+      "Health": 30000.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": true,
+    "CompoundType": {
+      "Type": 600,
+      "SubType": 0,
+      "PartType": 29,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 2,
+    "ItemType": 100,
+    "PrefabPath": "Prefabs/Weapons/Alt_Corp/AltCorp_Rifle01",
+    "MetaGUID": "14bc385afc9d2454994577bc9c02e9fb",
+    "DefaultAuxData": {
+      "CurrentMod": -1,
+      "weaponMods": [
+        {
+          "Damage": 20.0,
+          "Range": 1000.0,
+          "PowerCons": 0.0,
+          "RateOfFire": 0.4
+        },
+        {
+          "Damage": 18.0,
+          "Range": 1000.0,
+          "PowerCons": 0.0,
+          "RateOfFire": 0.2
+        }
+      ],
+      "Category": 1,
+      "ItemType": 100,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [
+        {
+          "ID": 1,
+          "ItemTypes": [
+            200
+          ],
+          "GenericSubTypes": [],
+          "MachineryPartTypes": [],
+          "SpawnItem": {
+            "Type": 0,
+            "SubType": 0,
+            "PartType": 0,
+            "Tier": 0
+          }
+        }
+      ],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 100,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 3,
+    "ItemType": 200,
+    "PrefabPath": "Prefabs/Weapons/Alt_Corp/AltCorp_Rifle01Magazine",
+    "MetaGUID": "b3bf4d34fdab6574b8fb994e53ffc8ce",
+    "DefaultAuxData": {
+      "BulletCount": 20,
+      "MaxBulletCount": 20,
+      "Category": 8,
+      "ItemType": 200,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 200,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 81,
+    "ItemType": 1002,
+    "PrefabPath": "Prefabs/Tools/AltCorp_RefinedCanister",
+    "MetaGUID": "e535a8df7fbb5a143b20da3bbba8b165",
+    "DefaultAuxData": {
+      "CargoCompartment": {
+        "ID": 1,
+        "AllowedResources": [
+          102,
+          101,
+          104,
+          100,
+          103,
+          201,
+          200,
+          202,
+          203,
+          105,
+          106,
+          108,
+          107
+        ],
+        "AllowOnlyOneType": false,
+        "Capacity": 100.0,
+        "Name": "Refined Canister",
+        "Type": 13,
+        "Resources": [
+          {
+            "ResourceType": 101,
+            "Quantity": 0.0,
+            "SpawnSettings": [
+              {
+                "Case": 0,
+                "Tag": "StartingScene",
+                "MinQuantity": 12.5,
+                "MaxQuantity": 12.5
+              },
+              {
+                "Case": 0,
+                "Tag": "*",
+                "MinQuantity": 0.0,
+                "MaxQuantity": 30.0
+              }
+            ]
+          },
+          {
+            "ResourceType": 102,
+            "Quantity": 0.0,
+            "SpawnSettings": [
+              {
+                "Case": 0,
+                "Tag": "StartingScene",
+                "MinQuantity": 0.0,
+                "MaxQuantity": 0.0
+              },
+              {
+                "Case": 0,
+                "Tag": "*",
+                "MinQuantity": 0.0,
+                "MaxQuantity": 10.0
+              }
+            ]
+          },
+          {
+            "ResourceType": 100,
+            "Quantity": 0.0,
+            "SpawnSettings": [
+              {
+                "Case": 0,
+                "Tag": "StartingScene",
+                "MinQuantity": 20.0,
+                "MaxQuantity": 20.0
+              },
+              {
+                "Case": 0,
+                "Tag": "*",
+                "MinQuantity": 0.0,
+                "MaxQuantity": 30.0
+              }
+            ]
+          },
+          {
+            "ResourceType": 104,
+            "Quantity": 0.0,
+            "SpawnSettings": [
+              {
+                "Case": 0,
+                "Tag": "StartingScene",
+                "MinQuantity": 17.5,
+                "MaxQuantity": 17.5
+              },
+              {
+                "Case": 0,
+                "Tag": "*",
+                "MinQuantity": 0.0,
+                "MaxQuantity": 30.0
+              }
+            ]
+          },
+          {
+            "ResourceType": 103,
+            "Quantity": 0.0,
+            "SpawnSettings": [
+              {
+                "Case": 0,
+                "Tag": "StartingScene",
+                "MinQuantity": 0.0,
+                "MaxQuantity": 0.0
+              },
+              {
+                "Case": 0,
+                "Tag": "*",
+                "MinQuantity": 0.0,
+                "MaxQuantity": 40.0
+              }
+            ]
+          }
+        ]
+      },
+      "Category": 6,
+      "ItemType": 1002,
+      "Tier": 1,
+      "TierMultipliers": [
+        1.0,
+        1.3,
+        2.0,
+        3.0
+      ],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1002,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 83,
+    "ItemType": 1500,
+    "PrefabPath": "Prefabs/Tools/AltCorp_AsteroidScanner01",
+    "MetaGUID": "8f164c502b7f36a47bb7872ea34386f8",
+    "DefaultAuxData": {
+      "timeToScan": 0.0,
+      "penetrationLevel": 0,
+      "Category": 3,
+      "ItemType": 1500,
+      "Tier": 1,
+      "TierMultipliers": [
+        1.0,
+        1.0
+      ],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1500,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 84,
+    "ItemType": 700,
+    "PrefabPath": "Prefabs/Tools/AltCorp_HandDrill",
+    "MetaGUID": "e4936b63403f88243b429d7f3526dc4b",
+    "DefaultAuxData": {
+      "BatteryConsumption": 1.0,
+      "DrillingStrength": 3.0,
+      "Category": 4,
+      "ItemType": 700,
+      "Tier": 1,
+      "TierMultipliers": [
+        1.0,
+        1.3,
+        2.0,
+        3.0
+      ],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [
+        {
+          "ID": 1,
+          "ItemTypes": [
+            900
+          ],
+          "GenericSubTypes": [],
+          "MachineryPartTypes": [],
+          "SpawnItem": {
+            "Type": 0,
+            "SubType": 0,
+            "PartType": 0,
+            "Tier": 0
+          }
+        },
+        {
+          "ID": 2,
+          "ItemTypes": [
+            1000
+          ],
+          "GenericSubTypes": [],
+          "MachineryPartTypes": [],
+          "SpawnItem": {
+            "Type": 0,
+            "SubType": 0,
+            "PartType": 0,
+            "Tier": 0
+          }
+        },
+        {
+          "ID": 3,
+          "ItemTypes": [],
+          "GenericSubTypes": [
+            27
+          ],
+          "MachineryPartTypes": [],
+          "SpawnItem": {
+            "Type": 0,
+            "SubType": 0,
+            "PartType": 0,
+            "Tier": 0
+          }
+        }
+      ],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": true,
+    "CompoundType": {
+      "Type": 700,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 85,
+    "ItemType": 1000,
+    "PrefabPath": "Prefabs/Tools/AltCorp_OreCannister01",
+    "MetaGUID": "988de41e733d3cd45a8c6eda010749e2",
+    "DefaultAuxData": {
+      "CargoCompartment": {
+        "ID": 1,
+        "AllowedResources": [
+          1,
+          2,
+          3,
+          4,
+          6,
+          7,
+          8,
+          9
+        ],
+        "AllowOnlyOneType": false,
+        "Capacity": 150.0,
+        "Name": "Canister",
+        "Type": 6,
+        "Resources": [
+          {
+            "ResourceType": 1,
+            "Quantity": 0.0,
+            "SpawnSettings": [
+              {
+                "Case": 0,
+                "Tag": "StartingScene",
+                "MinQuantity": 30.0,
+                "MaxQuantity": 30.0
+              },
+              {
+                "Case": 0,
+                "Tag": "*",
+                "MinQuantity": 0.0,
+                "MaxQuantity": 25.0
+              }
+            ]
+          },
+          {
+            "ResourceType": 2,
+            "Quantity": 0.0,
+            "SpawnSettings": [
+              {
+                "Case": 0,
+                "Tag": "StartingScene",
+                "MinQuantity": 0.0,
+                "MaxQuantity": 0.0
+              },
+              {
+                "Case": 0,
+                "Tag": "*",
+                "MinQuantity": 0.0,
+                "MaxQuantity": 30.0
+              },
+              {
+                "Case": 0,
+                "Tag": "Spawn222",
+                "MinQuantity": 40.0,
+                "MaxQuantity": 40.0
+              },
+              {
+                "Case": 0,
+                "Tag": "Spawn221",
+                "MinQuantity": 40.0,
+                "MaxQuantity": 40.0
+              }
+            ]
+          },
+          {
+            "ResourceType": 3,
+            "Quantity": 0.0,
+            "SpawnSettings": [
+              {
+                "Case": 0,
+                "Tag": "StartingScene",
+                "MinQuantity": 12.5,
+                "MaxQuantity": 12.5
+              },
+              {
+                "Case": 0,
+                "Tag": "*",
+                "MinQuantity": 0.0,
+                "MaxQuantity": 40.0
+              }
+            ]
+          },
+          {
+            "ResourceType": 4,
+            "Quantity": 0.0,
+            "SpawnSettings": [
+              {
+                "Case": 0,
+                "Tag": "StartingScene",
+                "MinQuantity": 30.0,
+                "MaxQuantity": 30.0
+              },
+              {
+                "Case": 0,
+                "Tag": "*",
+                "MinQuantity": 0.0,
+                "MaxQuantity": 50.0
+              }
+            ]
+          }
+        ]
+      },
+      "Category": 6,
+      "ItemType": 1000,
+      "Tier": 1,
+      "TierMultipliers": [
+        1.0,
+        1.33333337,
+        2.0,
+        3.0
+      ],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": true,
+    "CompoundType": {
+      "Type": 1000,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 86,
+    "ItemType": 900,
+    "PrefabPath": "Prefabs/Tools/AltCorp_Parts_Battery01",
+    "MetaGUID": "804eda8c14ae5d644a923d9e16c543f0",
+    "DefaultAuxData": {
+      "CurrentPower": 100.0,
+      "MaxPower": 100.0,
+      "Category": 3,
+      "ItemType": 900,
+      "Tier": 1,
+      "TierMultipliers": [
+        1.0,
+        2.0,
+        4.0,
+        8.0
+      ],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": true,
+    "CompoundType": {
+      "Type": 900,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 134,
+    "ItemType": 1700,
+    "PrefabPath": "Prefabs/Tools/AltCorp_DiamondCoreDrillBit",
+    "MetaGUID": "ffcb05a6d12473140a8bcc660f9433f8",
+    "DefaultAuxData": {
+      "SubType": 27,
+      "Look": "",
+      "Category": 4,
+      "ItemType": 1700,
+      "Tier": 1,
+      "TierMultipliers": [
+        1.0,
+        0.75,
+        0.5,
+        0.25
+      ],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.05,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": true,
+    "CompoundType": {
+      "Type": 1700,
+      "SubType": 27,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 135,
+    "ItemType": 1001,
+    "PrefabPath": "Prefabs/Tools/AltCorp_ResourceContainer01",
+    "MetaGUID": "0638b434752f78a4dae3a8544cf7fc42",
+    "DefaultAuxData": {
+      "CargoCompartment": {
+        "ID": 1,
+        "AllowedResources": [
+          100,
+          101,
+          102,
+          103,
+          104,
+          999
+        ],
+        "AllowOnlyOneType": false,
+        "Capacity": 5.0,
+        "Name": "RefinedResources",
+        "Type": 2,
+        "Resources": [
+          {
+            "ResourceType": 100,
+            "Quantity": 0.0,
+            "SpawnSettings": [
+              {
+                "Case": 0,
+                "Tag": "StartingScene",
+                "MinQuantity": 3.0,
+                "MaxQuantity": 3.0
+              },
+              {
+                "Case": 0,
+                "Tag": "*",
+                "MinQuantity": 3.0,
+                "MaxQuantity": 6.0
+              },
+              {
+                "Case": 0,
+                "Tag": "Spawn211",
+                "MinQuantity": 3.0,
+                "MaxQuantity": 3.0
+              }
+            ]
+          },
+          {
+            "ResourceType": 103,
+            "Quantity": 0.0,
+            "SpawnSettings": [
+              {
+                "Case": 0,
+                "Tag": "StartingScene",
+                "MinQuantity": 1.5,
+                "MaxQuantity": 1.5
+              },
+              {
+                "Case": 0,
+                "Tag": "*",
+                "MinQuantity": 1.0,
+                "MaxQuantity": 2.0
+              },
+              {
+                "Case": 0,
+                "Tag": "Spawn211",
+                "MinQuantity": 2.0,
+                "MaxQuantity": 2.0
+              }
+            ]
+          }
+        ]
+      },
+      "Category": 6,
+      "ItemType": 1001,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": true,
+    "CompoundType": {
+      "Type": 1001,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 89,
+    "ItemType": 1600,
+    "PrefabPath": "Test/Vepenz/AltCorp_LogPanel01",
+    "MetaGUID": "896633c75f9b15a45847632bf50ed002",
+    "DefaultAuxData": {
+      "logID": 4,
+      "Category": 0,
+      "ItemType": 1600,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1600,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 91,
+    "ItemType": 300,
+    "PrefabPath": "Models/Units/Characters/AltCorp_PressurisedSuite01",
+    "MetaGUID": "ec346b95b7193584b9c73e24673156eb",
+    "DefaultAuxData": {
+      "InventorySlots": [
+        {
+          "SlotID": 1,
+          "SlotType": 1,
+          "ItemTypes": [
+            100,
+            101,
+            102,
+            700,
+            1000,
+            1002,
+            2001,
+            2000,
+            1100,
+            103,
+            104,
+            105
+          ],
+          "MustBeEmptyToRemoveOutfit": true
+        },
+        {
+          "SlotID": 2,
+          "SlotType": 2,
+          "ItemTypes": [
+            400,
+            402
+          ],
+          "MustBeEmptyToRemoveOutfit": true
+        },
+        {
+          "SlotID": 3,
+          "SlotType": 2,
+          "ItemTypes": [
+            500,
+            502
+          ],
+          "MustBeEmptyToRemoveOutfit": true
+        },
+        {
+          "SlotID": 4,
+          "SlotType": 1,
+          "ItemTypes": [
+            1100,
+            1000,
+            1002,
+            400,
+            500,
+            401,
+            501,
+            1500,
+            2000,
+            2001,
+            402,
+            500
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 5,
+          "SlotType": 1,
+          "ItemTypes": [
+            1100,
+            1000,
+            1002,
+            400,
+            500,
+            401,
+            501,
+            1500,
+            2000,
+            2001,
+            402,
+            502
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 6,
+          "SlotType": 1,
+          "ItemTypes": [
+            1100,
+            1000,
+            1002,
+            400,
+            500,
+            401,
+            501,
+            1500,
+            2000,
+            2001,
+            402,
+            502
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 7,
+          "SlotType": 1,
+          "ItemTypes": [
+            100,
+            101,
+            102,
+            1000,
+            103,
+            104,
+            1002,
+            2000,
+            1100,
+            105
+          ],
+          "MustBeEmptyToRemoveOutfit": true
+        },
+        {
+          "SlotID": 8,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1700,
+            1400,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 9,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1700,
+            1400,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 10,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1700,
+            1400,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 11,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1700,
+            1400,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 12,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1700,
+            1400,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 13,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1700,
+            1400,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 14,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1700,
+            1400,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 15,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1700,
+            1400,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 16,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1700,
+            1400,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 17,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1700,
+            1400,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 18,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1700,
+            1400,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 19,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1700,
+            1400,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 20,
+          "SlotType": 1,
+          "ItemTypes": [
+            1300,
+            1301,
+            1001
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 21,
+          "SlotType": 1,
+          "ItemTypes": [
+            1300,
+            1301,
+            1001
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 22,
+          "SlotType": 1,
+          "ItemTypes": [
+            1300,
+            1301,
+            1001
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 23,
+          "SlotType": 1,
+          "ItemTypes": [
+            1300,
+            1301,
+            1001
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 24,
+          "SlotType": 1,
+          "ItemTypes": [
+            200,
+            201,
+            202,
+            203,
+            204
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 25,
+          "SlotType": 1,
+          "ItemTypes": [
+            200,
+            201,
+            202,
+            203,
+            204
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 26,
+          "SlotType": 1,
+          "ItemTypes": [
+            200,
+            201,
+            202,
+            203,
+            204
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 27,
+          "SlotType": 1,
+          "ItemTypes": [
+            200,
+            201,
+            202,
+            203,
+            204
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 28,
+          "SlotType": 1,
+          "ItemTypes": [
+            200,
+            201,
+            202,
+            203,
+            204
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 29,
+          "SlotType": 1,
+          "ItemTypes": [
+            200,
+            201,
+            202,
+            203,
+            204
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        }
+      ],
+      "DamageReductionTorso": 4.0,
+      "DamageReductionAbdomen": 4.0,
+      "DamageReductionArms": 4.0,
+      "DamageReductionLegs": 4.0,
+      "DamageResistanceTorso": 0.2,
+      "DamageResistanceAbdomen": 0.5,
+      "DamageResistanceArms": 1.0,
+      "DamageResistanceLegs": 0.8,
+      "CollisionResistance": 0.8,
+      "Category": 5,
+      "ItemType": 300,
+      "Tier": 1,
+      "TierMultipliers": [
+        1.0,
+        1.5,
+        2.0
+      ],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 2.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": true,
+    "CompoundType": {
+      "Type": 300,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 92,
+    "ItemType": 400,
+    "PrefabPath": "Models/Units/Characters/AltCorp_PressurisedHelmet01",
+    "MetaGUID": "de6a5001b0d6b6440920c01dc0812a1d",
+    "DefaultAuxData": {
+      "IsLightActive": false,
+      "IsVisorActive": false,
+      "IsVisorToggleable": true,
+      "DamageReduction": 4.0,
+      "DamageResistance": 0.15,
+      "LightPowerConsumption": 0.02,
+      "HUDPowerConsumption": 0.01,
+      "Category": 5,
+      "ItemType": 400,
+      "Tier": 1,
+      "TierMultipliers": [
+        1.0,
+        1.5,
+        2.0
+      ],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 2.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [
+        {
+          "ID": 1,
+          "ItemTypes": [
+            900
+          ],
+          "GenericSubTypes": [],
+          "MachineryPartTypes": [],
+          "SpawnItem": {
+            "Type": 0,
+            "SubType": 0,
+            "PartType": 0,
+            "Tier": 1
+          }
+        }
+      ],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": true,
+    "CompoundType": {
+      "Type": 400,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 93,
+    "ItemType": 500,
+    "PrefabPath": "Models/Units/Characters/AltCorp_PressurisedJetPack01",
+    "MetaGUID": "1780f3c6589f0a240b2e647483107d8a",
+    "DefaultAuxData": {
+      "OxygenCompartment": {
+        "ID": 0,
+        "AllowedResources": [
+          100
+        ],
+        "AllowOnlyOneType": true,
+        "Capacity": 10.0,
+        "Name": "Jetpack Oxygen",
+        "Type": 5,
+        "Resources": [
+          {
+            "ResourceType": 100,
+            "Quantity": 0.0,
+            "SpawnSettings": [
+              {
+                "Case": 0,
+                "Tag": "StartingScene",
+                "MinQuantity": 9.0,
+                "MaxQuantity": 9.0
+              },
+              {
+                "Case": 0,
+                "Tag": "*",
+                "MinQuantity": 5.0,
+                "MaxQuantity": 10.0
+              }
+            ]
+          }
+        ]
+      },
+      "PropellantCompartment": {
+        "ID": 1,
+        "AllowedResources": [
+          103
+        ],
+        "AllowOnlyOneType": true,
+        "Capacity": 5.0,
+        "Name": "Jetpack Fuel",
+        "Type": 4,
+        "Resources": [
+          {
+            "ResourceType": 103,
+            "Quantity": 0.0,
+            "SpawnSettings": [
+              {
+                "Case": 0,
+                "Tag": "StartingScene",
+                "MinQuantity": 2.5,
+                "MaxQuantity": 2.5
+              },
+              {
+                "Case": 0,
+                "Tag": "*",
+                "MinQuantity": 1.0,
+                "MaxQuantity": 3.0
+              }
+            ]
+          }
+        ]
+      },
+      "OxygenConsumption": 0.005,
+      "PropellantConsumption": 0.005,
+      "Category": 5,
+      "ItemType": 500,
+      "Tier": 1,
+      "TierMultipliers": [
+        1.0,
+        1.4,
+        2.0
+      ],
+      "AuxValues": [
+        1.0,
+        1.3,
+        2.0
+      ],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 2.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": true,
+    "CompoundType": {
+      "Type": 500,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 94,
+    "ItemType": 301,
+    "PrefabPath": "Models/Units/Characters/AltCorp_EVA01_EVASuit01",
+    "MetaGUID": "e242513f097884345962020c105906f8",
+    "DefaultAuxData": {
+      "InventorySlots": [
+        {
+          "SlotID": 1,
+          "SlotType": 1,
+          "ItemTypes": [
+            100,
+            101,
+            102,
+            700,
+            103,
+            104,
+            2000,
+            2001,
+            1000,
+            1002,
+            1100,
+            105
+          ],
+          "MustBeEmptyToRemoveOutfit": true
+        },
+        {
+          "SlotID": 2,
+          "SlotType": 2,
+          "ItemTypes": [
+            401
+          ],
+          "MustBeEmptyToRemoveOutfit": true
+        },
+        {
+          "SlotID": 3,
+          "SlotType": 2,
+          "ItemTypes": [
+            501
+          ],
+          "MustBeEmptyToRemoveOutfit": true
+        },
+        {
+          "SlotID": 4,
+          "SlotType": 1,
+          "ItemTypes": [
+            1100,
+            1500,
+            1000,
+            1002,
+            400,
+            500,
+            401,
+            501,
+            2000,
+            2001,
+            402,
+            502
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 5,
+          "SlotType": 1,
+          "ItemTypes": [
+            1100,
+            1500,
+            1000,
+            1002,
+            400,
+            500,
+            401,
+            501,
+            2000,
+            2001,
+            402,
+            502
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 6,
+          "SlotType": 1,
+          "ItemTypes": [
+            1100,
+            1500,
+            1000,
+            1002,
+            400,
+            500,
+            401,
+            501,
+            2000,
+            2001,
+            402,
+            502
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 7,
+          "SlotType": 1,
+          "ItemTypes": [
+            100,
+            101,
+            102,
+            1000,
+            103,
+            104,
+            1002,
+            2000,
+            1100,
+            105
+          ],
+          "MustBeEmptyToRemoveOutfit": true
+        },
+        {
+          "SlotID": 8,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1400,
+            1700,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 9,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1400,
+            1700,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 10,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1400,
+            1700,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 11,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1400,
+            1700,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 12,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1400,
+            1700,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 13,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1400,
+            1700,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 14,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1400,
+            1700,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 15,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1400,
+            1700,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 16,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1400,
+            1700,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 17,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1400,
+            1700,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 18,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1400,
+            1700,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 19,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1400,
+            1700,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 20,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1400,
+            1700,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 21,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1400,
+            1700,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 22,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1400,
+            1700,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 23,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1400,
+            1700,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 24,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1400,
+            1700,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 25,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1400,
+            1700,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 26,
+          "SlotType": 1,
+          "ItemTypes": [
+            1300,
+            1301,
+            1001
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 27,
+          "SlotType": 1,
+          "ItemTypes": [
+            1300,
+            1301,
+            1001
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 28,
+          "SlotType": 1,
+          "ItemTypes": [
+            1300,
+            1301,
+            1001
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 29,
+          "SlotType": 1,
+          "ItemTypes": [
+            1300,
+            1301,
+            1001
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 30,
+          "SlotType": 1,
+          "ItemTypes": [
+            1300,
+            1301,
+            1001
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 31,
+          "SlotType": 1,
+          "ItemTypes": [
+            1300,
+            1301,
+            1001
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 32,
+          "SlotType": 1,
+          "ItemTypes": [
+            200,
+            201,
+            202,
+            203,
+            204
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 33,
+          "SlotType": 1,
+          "ItemTypes": [
+            200,
+            201,
+            202,
+            203,
+            204
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 34,
+          "SlotType": 1,
+          "ItemTypes": [
+            200,
+            201,
+            202,
+            203,
+            204
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 35,
+          "SlotType": 1,
+          "ItemTypes": [
+            200,
+            201,
+            202,
+            203,
+            204
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        }
+      ],
+      "DamageReductionTorso": 0.0,
+      "DamageReductionAbdomen": 0.0,
+      "DamageReductionArms": 0.0,
+      "DamageReductionLegs": 0.0,
+      "DamageResistanceTorso": 0.2,
+      "DamageResistanceAbdomen": 0.5,
+      "DamageResistanceArms": 1.0,
+      "DamageResistanceLegs": 0.8,
+      "CollisionResistance": 0.5,
+      "Category": 5,
+      "ItemType": 301,
+      "Tier": 1,
+      "TierMultipliers": [
+        1.0,
+        1.5,
+        2.0,
+        2.5
+      ],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 2.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 301,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 95,
+    "ItemType": 401,
+    "PrefabPath": "Models/Units/Characters/AltCorp_EVA01_Helmet01",
+    "MetaGUID": "fd15239581ffba247af07715a58ad2e4",
+    "DefaultAuxData": {
+      "IsLightActive": false,
+      "IsVisorActive": false,
+      "IsVisorToggleable": false,
+      "DamageReduction": 0.0,
+      "DamageResistance": 0.15,
+      "LightPowerConsumption": 0.02,
+      "HUDPowerConsumption": 0.01,
+      "Category": 5,
+      "ItemType": 401,
+      "Tier": 1,
+      "TierMultipliers": [
+        1.5,
+        2.0,
+        2.5,
+        3.0
+      ],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 2.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [
+        {
+          "ID": 1,
+          "ItemTypes": [
+            900
+          ],
+          "GenericSubTypes": [],
+          "MachineryPartTypes": [],
+          "SpawnItem": {
+            "Type": 0,
+            "SubType": 0,
+            "PartType": 0,
+            "Tier": 0
+          }
+        }
+      ],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 401,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 96,
+    "ItemType": 501,
+    "PrefabPath": "Models/Units/Characters/AltCorp_EVA01_BackPack01",
+    "MetaGUID": "0be3c45ac392b6d44a7b519f900bc87f",
+    "DefaultAuxData": {
+      "OxygenCompartment": {
+        "ID": 0,
+        "AllowedResources": [
+          100
+        ],
+        "AllowOnlyOneType": true,
+        "Capacity": 20.0,
+        "Name": "Jetpack Oxygen",
+        "Type": 5,
+        "Resources": [
+          {
+            "ResourceType": 100,
+            "Quantity": 20.0,
+            "SpawnSettings": [
+              {
+                "Case": 0,
+                "Tag": "",
+                "MinQuantity": 1.5,
+                "MaxQuantity": 15.0
+              }
+            ]
+          }
+        ]
+      },
+      "PropellantCompartment": {
+        "ID": 1,
+        "AllowedResources": [
+          103
+        ],
+        "AllowOnlyOneType": true,
+        "Capacity": 10.0,
+        "Name": "Jetpack Fuel",
+        "Type": 4,
+        "Resources": [
+          {
+            "ResourceType": 103,
+            "Quantity": 10.0,
+            "SpawnSettings": [
+              {
+                "Case": 0,
+                "Tag": "",
+                "MinQuantity": 1.0,
+                "MaxQuantity": 3.0
+              }
+            ]
+          }
+        ]
+      },
+      "OxygenConsumption": 0.004,
+      "PropellantConsumption": 0.005,
+      "Category": 5,
+      "ItemType": 501,
+      "Tier": 1,
+      "TierMultipliers": [
+        1.0,
+        1.3,
+        2.0,
+        3.0
+      ],
+      "AuxValues": [
+        1.0,
+        1.3,
+        2.0,
+        3.0
+      ],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 2.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 501,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 97,
+    "ItemType": 600,
+    "PrefabPath": "Models/MachineryParts/AltCorp_Parts_ResourceInjector01Part_ANIM",
+    "MetaGUID": "1b24ffa231ab96942ab10f9e3b5c7d8c",
+    "DefaultAuxData": {
+      "PartType": 11,
+      "Category": 2,
+      "ItemType": 600,
+      "Tier": 1,
+      "TierMultipliers": [
+        0.5,
+        0.4,
+        0.3,
+        0.2
+      ],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 600,
+      "SubType": 0,
+      "PartType": 11,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 98,
+    "ItemType": 600,
+    "PrefabPath": "Models/MachineryParts/AltCorp_Parts_Catalysator01Prop_ANIM",
+    "MetaGUID": "ac0a27fba0965804db26e30c2f48a61b",
+    "DefaultAuxData": {
+      "PartType": 13,
+      "Category": 2,
+      "ItemType": 600,
+      "Tier": 1,
+      "TierMultipliers": [
+        1.5,
+        1.6,
+        1.75,
+        2.0
+      ],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 600,
+      "SubType": 0,
+      "PartType": 13,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 99,
+    "ItemType": 600,
+    "PrefabPath": "Models/MachineryParts/AltCorp_Parts_ContainmentFieldGenerator01Prop_ANIM",
+    "MetaGUID": "b5f495ecc5593264eb1673956e4aba44",
+    "DefaultAuxData": {
+      "PartType": 10,
+      "Category": 2,
+      "ItemType": 600,
+      "Tier": 1,
+      "TierMultipliers": [
+        1.5,
+        1.75,
+        2.0,
+        2.5
+      ],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 600,
+      "SubType": 0,
+      "PartType": 10,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 100,
+    "ItemType": 600,
+    "PrefabPath": "Models/MachineryParts/AltCorp_Parts_ServoMotor01Part_ANIM",
+    "MetaGUID": "91ac8bffc9fcdd246a600c8fe26909d8",
+    "DefaultAuxData": {
+      "PartType": 2,
+      "Category": 2,
+      "ItemType": 600,
+      "Tier": 1,
+      "TierMultipliers": [
+        0.5,
+        0.4,
+        0.3,
+        0.2
+      ],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 600,
+      "SubType": 0,
+      "PartType": 2,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 101,
+    "ItemType": 600,
+    "PrefabPath": "Models/MachineryParts/AltCorp_Shuttle01_Prop01Prop_ANIM",
+    "MetaGUID": "90bc434a882c36c4fa5bf1c748c913b7",
+    "DefaultAuxData": {
+      "PartType": 6,
+      "Category": 2,
+      "ItemType": 600,
+      "Tier": 1,
+      "TierMultipliers": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "AuxValues": [
+        1.0,
+        2.0,
+        4.0,
+        8.0
+      ],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 600,
+      "SubType": 0,
+      "PartType": 6,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 105,
+    "ItemType": 600,
+    "PrefabPath": "Models/MachineryParts/AltCorp_Parts_WarpGenerator01Part_ANIM",
+    "MetaGUID": "7ecb9b9d70017454c9148ecebc77b627",
+    "DefaultAuxData": {
+      "PartType": 23,
+      "Category": 2,
+      "ItemType": 600,
+      "Tier": 1,
+      "TierMultipliers": [
+        3.0,
+        4.0,
+        5.0,
+        6.0
+      ],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 600,
+      "SubType": 0,
+      "PartType": 23,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 107,
+    "ItemType": 600,
+    "PrefabPath": "Models/MachineryParts/AltCorp_Parts_HEPLI01Part_ANIM",
+    "MetaGUID": "2a67a9ca19999214291de3bad04b361a",
+    "DefaultAuxData": {
+      "PartType": 21,
+      "Category": 2,
+      "ItemType": 600,
+      "Tier": 1,
+      "TierMultipliers": [
+        0.9,
+        0.8,
+        0.7,
+        0.5
+      ],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 600,
+      "SubType": 0,
+      "PartType": 21,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 108,
+    "ItemType": 600,
+    "PrefabPath": "Models/MachineryParts/AltCorp_Parts_NaniteCore_MDL",
+    "MetaGUID": "79725b2cfff77c64cb905b17a24ba373",
+    "DefaultAuxData": {
+      "PartType": 19,
+      "Category": 2,
+      "ItemType": 600,
+      "Tier": 1,
+      "TierMultipliers": [
+        1.0,
+        4.0,
+        8.5,
+        15.0
+      ],
+      "AuxValues": [
+        2.0,
+        5.0,
+        10.0,
+        18.0
+      ],
+      "MaxHealth": 1300000.0,
+      "Health": 1300000.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": true,
+    "CompoundType": {
+      "Type": 600,
+      "SubType": 0,
+      "PartType": 19,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 109,
+    "ItemType": 600,
+    "PrefabPath": "Models/MachineryParts/AltCorp_WarpDrive01_SingularityCell01_MDL",
+    "MetaGUID": "88ca4c6000ff44b42b0b5c6a282ba88d",
+    "DefaultAuxData": {
+      "PartType": 28,
+      "Category": 2,
+      "ItemType": 600,
+      "Tier": 1,
+      "TierMultipliers": [
+        1.0,
+        2.0,
+        4.0,
+        8.0
+      ],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": true,
+    "CompoundType": {
+      "Type": 600,
+      "SubType": 0,
+      "PartType": 28,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 137,
+    "ItemType": 600,
+    "PrefabPath": "Models/MachineryParts/AltCorp_Parts_RadarSignalAmplifier01Part_ANIM",
+    "MetaGUID": "a672a6caa900df34a9ce10705825f578",
+    "DefaultAuxData": {
+      "PartType": 9,
+      "Category": 2,
+      "ItemType": 600,
+      "Tier": 1,
+      "TierMultipliers": [
+        1.25,
+        1.5,
+        2.0,
+        2.5
+      ],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 600,
+      "SubType": 0,
+      "PartType": 9,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 110,
+    "ItemType": 1300,
+    "PrefabPath": "Prefabs/Tools/ScienceCorp_Medpack_Small01",
+    "MetaGUID": "9af1d4a4baed9754ea5fe8e2080c79f0",
+    "DefaultAuxData": {
+      "MaxHP": 30.0,
+      "RegenRate": 10.0,
+      "Category": 7,
+      "ItemType": 1300,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": true,
+    "CompoundType": {
+      "Type": 1300,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 111,
+    "ItemType": 1301,
+    "PrefabPath": "Prefabs/Tools/ScienceCorp_Medpack_Large01",
+    "MetaGUID": "f75d9fcc7377ee745959b8906cd7f4f0",
+    "DefaultAuxData": {
+      "MaxHP": 60.0,
+      "RegenRate": 15.0,
+      "Category": 7,
+      "ItemType": 1301,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1301,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 112,
+    "ItemType": 600,
+    "PrefabPath": "Models/MachineryParts/Generic_Parts_EMFieldController",
+    "MetaGUID": "d19d1409035213349bfa829065367770",
+    "DefaultAuxData": {
+      "PartType": 12,
+      "Category": 2,
+      "ItemType": 600,
+      "Tier": 1,
+      "TierMultipliers": [
+        1.2,
+        1.3,
+        1.5,
+        2.0
+      ],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 600,
+      "SubType": 0,
+      "PartType": 12,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 114,
+    "ItemType": 1400,
+    "PrefabPath": "Prefabs/Tools/Generic_Usable_HackingDevice",
+    "MetaGUID": "4b0f24f8baf759c48a2f5c6a93e1a774",
+    "DefaultAuxData": {
+      "Category": 3,
+      "ItemType": 1400,
+      "Tier": 1,
+      "TierMultipliers": [
+        1.0,
+        2.0,
+        4.0,
+        8.0
+      ],
+      "AuxValues": [],
+      "MaxHealth": 1.0,
+      "Health": 1.0,
+      "Armor": 0.0,
+      "Damageable": true,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 1400,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 115,
+    "ItemType": 1100,
+    "PrefabPath": "Prefabs/Tools/Generic_Weapon_Crowbar",
+    "MetaGUID": "ba0218f3d97593a4f8e7184a503e0304",
+    "DefaultAuxData": {
+      "Damage": 60.0,
+      "RateOfFire": 1.0,
+      "Range": 1.5,
+      "Category": 1,
+      "ItemType": 1100,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 60.0,
+      "Slots": [],
+      "ExplosionDamage": 60.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": true,
+    "CompoundType": {
+      "Type": 1100,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 87,
+    "ItemType": 2000,
+    "PrefabPath": "Prefabs/Tools/Generic_Tool_Welder",
+    "MetaGUID": "b15fd6169e26b964589ef54422dc6920",
+    "DefaultAuxData": {
+      "RepairAmount": 50.0,
+      "UsageCooldown": 1.0,
+      "Range": 1.5,
+      "FuelCompartment": {
+        "ID": 0,
+        "AllowedResources": [
+          101
+        ],
+        "AllowOnlyOneType": true,
+        "Capacity": 80.0,
+        "Name": "WelderFuel",
+        "Type": 14,
+        "Resources": [
+          {
+            "ResourceType": 101,
+            "Quantity": 0.0,
+            "SpawnSettings": [
+              {
+                "Case": 0,
+                "Tag": "StartingScene",
+                "MinQuantity": 10.0,
+                "MaxQuantity": 10.0
+              },
+              {
+                "Case": 0,
+                "Tag": "*",
+                "MinQuantity": 10.0,
+                "MaxQuantity": 20.0
+              },
+              {
+                "Case": 0,
+                "Tag": "Spawn212",
+                "MinQuantity": 20.0,
+                "MaxQuantity": 20.0
+              }
+            ]
+          }
+        ]
+      },
+      "FuelConsumption": 0.01,
+      "Category": 4,
+      "ItemType": 2000,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": true,
+    "CompoundType": {
+      "Type": 2000,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 88,
+    "ItemType": 2001,
+    "PrefabPath": "Prefabs/Tools/Generic_Tool_FireExtinguisher",
+    "MetaGUID": "685f6bda556133e448b6a1a2caee5f8d",
+    "DefaultAuxData": {
+      "RepairAmount": 120.0,
+      "UsageCooldown": 1.0,
+      "Range": 3.0,
+      "FuelCompartment": {
+        "ID": 0,
+        "AllowedResources": [
+          104
+        ],
+        "AllowOnlyOneType": true,
+        "Capacity": 20.0,
+        "Name": "FireRetardant",
+        "Type": 15,
+        "Resources": [
+          {
+            "ResourceType": 104,
+            "Quantity": 0.0,
+            "SpawnSettings": [
+              {
+                "Case": 0,
+                "Tag": "StartingScene",
+                "MinQuantity": 15.0,
+                "MaxQuantity": 15.0
+              },
+              {
+                "Case": 0,
+                "Tag": "*",
+                "MinQuantity": 5.0,
+                "MaxQuantity": 15.0
+              }
+            ]
+          }
+        ]
+      },
+      "FuelConsumption": 0.01,
+      "Category": 4,
+      "ItemType": 2001,
+      "Tier": 1,
+      "TierMultipliers": [],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 0.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 2001,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 132,
+    "ItemType": 402,
+    "PrefabPath": "Models/Units/Characters/AltCorp_PressurisedHelmet02",
+    "MetaGUID": "e012255f2f97d5847b5e4697e252b9e6",
+    "DefaultAuxData": {
+      "IsLightActive": false,
+      "IsVisorActive": false,
+      "IsVisorToggleable": true,
+      "DamageReduction": 4.0,
+      "DamageResistance": 0.15,
+      "LightPowerConsumption": 0.015,
+      "HUDPowerConsumption": 0.075,
+      "Category": 5,
+      "ItemType": 402,
+      "Tier": 1,
+      "TierMultipliers": [
+        2.5
+      ],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 5.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [
+        {
+          "ID": 1,
+          "ItemTypes": [
+            900
+          ],
+          "GenericSubTypes": [],
+          "MachineryPartTypes": [],
+          "SpawnItem": {
+            "Type": 0,
+            "SubType": 0,
+            "PartType": 0,
+            "Tier": 0
+          }
+        }
+      ],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 402,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 133,
+    "ItemType": 502,
+    "PrefabPath": "Models/Units/Characters/AltCorp_PressurisedJetPack02",
+    "MetaGUID": "ec2153811be500248ac01e794b45f033",
+    "DefaultAuxData": {
+      "OxygenCompartment": {
+        "ID": 0,
+        "AllowedResources": [
+          100
+        ],
+        "AllowOnlyOneType": true,
+        "Capacity": 30.0,
+        "Name": "Jetpack Oxygen",
+        "Type": 5,
+        "Resources": [
+          {
+            "ResourceType": 100,
+            "Quantity": 0.0,
+            "SpawnSettings": [
+              {
+                "Case": 0,
+                "Tag": "StartingScene",
+                "MinQuantity": 9.0,
+                "MaxQuantity": 9.0
+              },
+              {
+                "Case": 0,
+                "Tag": "*",
+                "MinQuantity": 5.0,
+                "MaxQuantity": 10.0
+              }
+            ]
+          }
+        ]
+      },
+      "PropellantCompartment": {
+        "ID": 1,
+        "AllowedResources": [
+          103
+        ],
+        "AllowOnlyOneType": true,
+        "Capacity": 15.0,
+        "Name": "Jetpack Fuel",
+        "Type": 4,
+        "Resources": [
+          {
+            "ResourceType": 103,
+            "Quantity": 0.0,
+            "SpawnSettings": [
+              {
+                "Case": 0,
+                "Tag": "StartingScene",
+                "MinQuantity": 2.5,
+                "MaxQuantity": 2.5
+              },
+              {
+                "Case": 0,
+                "Tag": "*",
+                "MinQuantity": 1.0,
+                "MaxQuantity": 3.0
+              }
+            ]
+          }
+        ]
+      },
+      "OxygenConsumption": 0.005,
+      "PropellantConsumption": 0.005,
+      "Category": 5,
+      "ItemType": 502,
+      "Tier": 1,
+      "TierMultipliers": [
+        1.0
+      ],
+      "AuxValues": [
+        1.0
+      ],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 5.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 502,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  },
+  {
+    "ItemID": 130,
+    "ItemType": 302,
+    "PrefabPath": "Models/Units/Characters/AltCorp_PressurisedSuite02",
+    "MetaGUID": "b3d0f812acdf76c47b802ae27a3ccc1c",
+    "DefaultAuxData": {
+      "InventorySlots": [
+        {
+          "SlotID": 1,
+          "SlotType": 1,
+          "ItemTypes": [
+            100,
+            101,
+            102,
+            700,
+            1000,
+            1002,
+            2001,
+            2000,
+            1100,
+            103,
+            104,
+            105
+          ],
+          "MustBeEmptyToRemoveOutfit": true
+        },
+        {
+          "SlotID": 2,
+          "SlotType": 2,
+          "ItemTypes": [
+            402,
+            400
+          ],
+          "MustBeEmptyToRemoveOutfit": true
+        },
+        {
+          "SlotID": 3,
+          "SlotType": 2,
+          "ItemTypes": [
+            502,
+            500
+          ],
+          "MustBeEmptyToRemoveOutfit": true
+        },
+        {
+          "SlotID": 4,
+          "SlotType": 1,
+          "ItemTypes": [
+            1100,
+            1000,
+            1002,
+            400,
+            500,
+            401,
+            501,
+            1500,
+            2000,
+            2001,
+            402,
+            502
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 5,
+          "SlotType": 1,
+          "ItemTypes": [
+            1100,
+            1000,
+            1002,
+            400,
+            500,
+            401,
+            501,
+            1500,
+            2000,
+            2001,
+            402,
+            502
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 6,
+          "SlotType": 1,
+          "ItemTypes": [
+            100,
+            101,
+            102,
+            1000,
+            103,
+            104,
+            1002,
+            2000,
+            1100,
+            105
+          ],
+          "MustBeEmptyToRemoveOutfit": true
+        },
+        {
+          "SlotID": 7,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1700,
+            1400,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 8,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1700,
+            1400,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 9,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1700,
+            1400,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 10,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1700,
+            1400,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 11,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1700,
+            1400,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 12,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1700,
+            1400,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 13,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1700,
+            1400,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 14,
+          "SlotType": 1,
+          "ItemTypes": [
+            600,
+            900,
+            1800,
+            1700,
+            1400,
+            1801
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 15,
+          "SlotType": 1,
+          "ItemTypes": [
+            1300,
+            1301,
+            1001
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 16,
+          "SlotType": 1,
+          "ItemTypes": [
+            1300,
+            1301,
+            1001
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 17,
+          "SlotType": 1,
+          "ItemTypes": [
+            1300,
+            1301,
+            1001
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 18,
+          "SlotType": 1,
+          "ItemTypes": [
+            1300,
+            1301,
+            1001
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 19,
+          "SlotType": 1,
+          "ItemTypes": [
+            1300,
+            1301,
+            1001
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 20,
+          "SlotType": 1,
+          "ItemTypes": [
+            1300,
+            1301,
+            1001
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 21,
+          "SlotType": 1,
+          "ItemTypes": [
+            1300,
+            1301,
+            1001
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 22,
+          "SlotType": 1,
+          "ItemTypes": [
+            1300,
+            1301,
+            1001
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 23,
+          "SlotType": 1,
+          "ItemTypes": [
+            200,
+            201,
+            202,
+            203,
+            204
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 24,
+          "SlotType": 1,
+          "ItemTypes": [
+            200,
+            201,
+            202,
+            203,
+            204
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 25,
+          "SlotType": 1,
+          "ItemTypes": [
+            200,
+            201,
+            202,
+            203,
+            204
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 26,
+          "SlotType": 1,
+          "ItemTypes": [
+            200,
+            201,
+            202,
+            203,
+            204
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 27,
+          "SlotType": 1,
+          "ItemTypes": [
+            200,
+            201,
+            202,
+            203,
+            204
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 28,
+          "SlotType": 1,
+          "ItemTypes": [
+            200,
+            201,
+            202,
+            203,
+            204
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 29,
+          "SlotType": 1,
+          "ItemTypes": [
+            200,
+            201,
+            202,
+            203,
+            204
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 30,
+          "SlotType": 1,
+          "ItemTypes": [
+            200,
+            201,
+            202,
+            203,
+            204
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 31,
+          "SlotType": 1,
+          "ItemTypes": [
+            200,
+            201,
+            202,
+            203,
+            204
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 32,
+          "SlotType": 1,
+          "ItemTypes": [
+            200,
+            201,
+            202,
+            203,
+            204
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 33,
+          "SlotType": 1,
+          "ItemTypes": [
+            200,
+            201,
+            202,
+            203,
+            204
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        },
+        {
+          "SlotID": 34,
+          "SlotType": 1,
+          "ItemTypes": [
+            200,
+            201,
+            202,
+            203,
+            204
+          ],
+          "MustBeEmptyToRemoveOutfit": false
+        }
+      ],
+      "DamageReductionTorso": 4.0,
+      "DamageReductionAbdomen": 4.0,
+      "DamageReductionArms": 4.0,
+      "DamageReductionLegs": 4.0,
+      "DamageResistanceTorso": 0.2,
+      "DamageResistanceAbdomen": 0.5,
+      "DamageResistanceArms": 1.0,
+      "DamageResistanceLegs": 0.8,
+      "CollisionResistance": 0.8,
+      "Category": 5,
+      "ItemType": 302,
+      "Tier": 1,
+      "TierMultipliers": [
+        1.0
+      ],
+      "AuxValues": [],
+      "MaxHealth": 100.0,
+      "Health": 100.0,
+      "Armor": 5.0,
+      "Damageable": false,
+      "Repairable": false,
+      "UsageWear": 0.0,
+      "MeleeDamage": 0.0,
+      "Slots": [],
+      "ExplosionDamage": 0.0,
+      "ExplosionRadius": 0.0,
+      "ExplosionDamageType": 0
+    },
+    "DefaultBlueprint": false,
+    "CompoundType": {
+      "Type": 302,
+      "SubType": 0,
+      "PartType": 0,
+      "Tier": 1
+    }
+  }
+]

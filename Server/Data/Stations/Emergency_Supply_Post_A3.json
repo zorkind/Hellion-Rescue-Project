@@ -1,0 +1,118 @@
+{
+  "Version": "0.3",
+  "Name": "",
+  "Invulnerable": true,
+  "SystemsOnline": true,
+  "DoorsLocked": false,
+  "HealthMultiplier": 0.5,
+  "DockingControlsDisabled": true,
+  "AirPressure": 0,
+  "AirQuality": 0,
+  "Structures": [
+    {
+      "StructureID": 0,
+      "StructureType": "LSM",
+      "Invulnerable": true,
+      "SystemsOnline": true,
+      "DoorsLocked": false,
+      "HealthMultiplier": 0.5,
+      "DockingControlsDisabled": true,
+      "AirPressure": 0,
+      "AirQuality": 0,
+      "DockingPorts": [
+        {
+          "OrderID": 1,
+          "DockedStructureID": 1,
+          "Locked": true
+        }
+      ]
+    },
+    {
+      "StructureID": 1,
+      "StructureType": "CTM",
+      "Invulnerable": true,
+      "SystemsOnline": true,
+      "DoorsLocked": false,
+      "HealthMultiplier": 0.5,
+      "DockingControlsDisabled": true,
+      "AirPressure": 0,
+      "AirQuality": 0,
+      "DockingPorts": [
+        {
+          "OrderID": 2,
+          "DockedStructureID": 0,
+          "Locked": true
+        },
+        {
+          "OrderID": 3,
+          "DockedStructureID": 2,
+          "Locked": true
+        },
+        {
+          "OrderID": 1,
+          "DockedStructureID": 3,
+          "Locked": true
+        }
+      ]
+    },
+    {
+      "StructureID": 2,
+      "StructureType": "CBM",
+      "Invulnerable": true,
+      "SystemsOnline": true,
+      "DoorsLocked": false,
+      "HealthMultiplier": 0.5,
+      "DockingControlsDisabled": true,
+      "AirPressure": 0,
+      "AirQuality": 0,
+      "DockingPorts": [
+        {
+          "OrderID": 1,
+          "DockedStructureID": 1,
+          "Locked": true
+        }
+      ]
+    },
+    {
+      "StructureID": 3,
+      "StructureType": "CRM",
+      "Invulnerable": true,
+      "SystemsOnline": true,
+      "DoorsLocked": false,
+      "HealthMultiplier": 0.5,
+      "DockingControlsDisabled": true,
+      "AirPressure": 0,
+      "AirQuality": 0,
+      "DockingPorts": [
+        {
+          "OrderID": 1,
+          "DockedStructureID": 1,
+          "Locked": true
+        },
+        {
+          "OrderID": 2,
+          "DockedStructureID": 4,
+          "Locked": true
+        }
+      ]
+    },
+    {
+      "StructureID": 4,
+      "StructureType": "LSM",
+      "Invulnerable": true,
+      "SystemsOnline": true,
+      "DoorsLocked": false,
+      "HealthMultiplier": 0.5,
+      "DockingControlsDisabled": true,
+      "AirPressure": 0,
+      "AirQuality": 0,
+      "DockingPorts": [
+        {
+          "OrderID": 1,
+          "DockedStructureID": 3,
+          "Locked": true
+        }
+      ]
+    }
+  ]
+}

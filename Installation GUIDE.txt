@@ -1,0 +1,38 @@
+Hello collonist!
+
+Welcome to the Hellion Rescue Project, it's an honot to have you here with us :)
+
+Bellow are a list of steps required to customize your Hellion files so you can have fun with us !
+
+Let's get on to it, first you will need to download and install these libraries, i will post some links here but if they fail, please use google.
+
+1) .NET Core Runtime 3.1.6
+this is the full package link installer.
+https://dotnet.microsoft.com/download/dotnet-core/thank-you/runtime-aspnetcore-3.1.6-windows-hosting-bundle-installer
+
+The link will be compatible with any Windows machine x86 or x64, but you can check out the rest of the builds in this link:
+https://dotnet.microsoft.com/download/dotnet-core/3.1
+
+2) C++ Redistributable 2017/2019:
+https://support.microsoft.com/pt-br/help/2977003/the-latest-supported-visual-c-downloads
+Click on the version that is best for your machine architecture, the server don't run in ARM, so pick x86 or x64.
+
+3) after installing both these packages, you may copy the Server folder to anywhere you are comfortable with, the client, you need to open the Hellion
+installation location, you can get that from Steam Library paths.
+Once inside Hellion folder, navigate to the HELLION_Data folder.
+
+Please make a backup of the Managed folder, just in case, zip it or copy it to somewhere else.
+After that, copy the contents of the Client folder inside our package and past into HELLION_Data folder, when asked to replace, click on Yes.
+
+That's all you need for the Client to work, if you want to connect to a specific server that you already know, you will need to edit the ServerData.json file
+and include the server in there, you can use the already existing server registered there as a template for the next one, or you can ask a friend for an invite
+into some Cryopod in their server, this will automate the entire process for you.
+
+For the Server to be operational you need to do some other steps:
+1) Open the server folder and open the GameServer.ini using any text editor.
+2) Change the Name of the server if you wish and set the ports, remember that the status_port you set will create another 1 number up from that dynamically
+3) Open those doors in your router/network and firewall
+4) Run the executable as ADMINISTRATOR, this is super important, it wont work without full permissions.
+   You can either always right click on the file and Run as Administrator, or use the Compatibility Wizard to set that permanently, it's up to you.
+
+That's all !

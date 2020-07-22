@@ -1,0 +1,29 @@
+[
+  {
+    "Version": "0.3",
+    "Name": "Asteroid vrlo specijalani",
+    "Structures": [
+      {
+        "StructureID": 1,
+        "StructureType": "Asteroid03",
+        "Invulnerable": false,
+        "SystemsOnline": false,
+        "DoorsLocked": false,
+        "Tag": "Echoes",
+        "HealthMultiplier": 1.0,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0.0,
+        "AirQuality": 0.0
+      }
+    ],
+    "Invulnerable": false,
+    "SystemsOnline": false,
+    "DoorsLocked": false,
+    "HealthMultiplier": 0.5,
+    "DockingControlsDisabled": false,
+    "AirPressure": 0.0,
+    "AirQuality": 0.0,
+    "Local": [0, 5, 0]
+    "LocalAngularVelocity": [0, 5, 0]
+  }
+]

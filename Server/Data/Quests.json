@@ -1,0 +1,1687 @@
+[
+  {
+    "ID": 1,
+    "QuestTriggers": [
+      {
+        "ID": 1,
+        "BatchID": 1,
+        "Type": 1,
+        "Station": "",
+        "Tag": "StartingScene4",
+        "Celestial": 0,
+        "DependencyBatchID": 0,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 2,
+        "BatchID": 2,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene4",
+        "Celestial": 0,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 3,
+        "BatchID": 2,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene4",
+        "Celestial": 0,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 4,
+        "BatchID": 3,
+        "Type": 4,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 2,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 5,
+        "BatchID": 3,
+        "Type": 4,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 2,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      }
+    ],
+    "ActivationDependencyTpe": 0,
+    "CompletionDependencyTpe": 1,
+    "DependencyQuests": [],
+    "AutoActivate": false
+  },
+  {
+    "ID": 2,
+    "QuestTriggers": [
+      {
+        "ID": 1,
+        "BatchID": 1,
+        "Type": 1,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 0,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 2,
+        "BatchID": 2,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 3,
+        "BatchID": 3,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 2,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 4,
+        "BatchID": 4,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 3,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 5,
+        "BatchID": 5,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 4,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 6,
+        "BatchID": 6,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 5,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 7,
+        "BatchID": 7,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 6,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 8,
+        "BatchID": 8,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 7,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 9,
+        "BatchID": 9,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 8,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 10,
+        "BatchID": 10,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 9,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 11,
+        "BatchID": 11,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 10,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 12,
+        "BatchID": 12,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 11,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 13,
+        "BatchID": 13,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene1",
+        "Celestial": 0,
+        "DependencyBatchID": 12,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 14,
+        "BatchID": 14,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 13,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 15,
+        "BatchID": 15,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 14,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 16,
+        "BatchID": 16,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 15,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 17,
+        "BatchID": 17,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 16,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 18,
+        "BatchID": 18,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 17,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 19,
+        "BatchID": 19,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene1",
+        "Celestial": 0,
+        "DependencyBatchID": 18,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 20,
+        "BatchID": 20,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene1",
+        "Celestial": 0,
+        "DependencyBatchID": 19,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 21,
+        "BatchID": 21,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 20,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 22,
+        "BatchID": 22,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 21,
+        "DependencyTpe": 1,
+        "SpawnRuleName": "Haven"
+      },
+      {
+        "ID": 23,
+        "BatchID": 23,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 22,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 24,
+        "BatchID": 24,
+        "Type": 4,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 23,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      }
+    ],
+    "ActivationDependencyTpe": 0,
+    "CompletionDependencyTpe": 1,
+    "DependencyQuests": [],
+    "AutoActivate": false
+  },
+  {
+    "ID": 3,
+    "QuestTriggers": [
+      {
+        "ID": 1,
+        "BatchID": 1,
+        "Type": 1,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 0,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 2,
+        "BatchID": 2,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 3,
+        "BatchID": 3,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 2,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 4,
+        "BatchID": 4,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 3,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 5,
+        "BatchID": 5,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 4,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 6,
+        "BatchID": 6,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 5,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 7,
+        "BatchID": 7,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 6,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 8,
+        "BatchID": 8,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 7,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 9,
+        "BatchID": 8,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 7,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 10,
+        "BatchID": 9,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 8,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 11,
+        "BatchID": 10,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 9,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 12,
+        "BatchID": 10,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 9,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 13,
+        "BatchID": 11,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 10,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 14,
+        "BatchID": 12,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 11,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 15,
+        "BatchID": 12,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 11,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 16,
+        "BatchID": 13,
+        "Type": 4,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 12,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      }
+    ],
+    "ActivationDependencyTpe": 0,
+    "CompletionDependencyTpe": 1,
+    "DependencyQuests": [
+      2
+    ],
+    "AutoActivate": false
+  },
+  {
+    "ID": 4,
+    "QuestTriggers": [
+      {
+        "ID": 1,
+        "BatchID": 1,
+        "Type": 1,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 0,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 2,
+        "BatchID": 2,
+        "Type": 2,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 3,
+        "BatchID": 3,
+        "Type": 4,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 2,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      }
+    ],
+    "ActivationDependencyTpe": 0,
+    "CompletionDependencyTpe": 1,
+    "DependencyQuests": [],
+    "AutoActivate": false
+  },
+  {
+    "ID": 5,
+    "QuestTriggers": [
+      {
+        "ID": 1,
+        "BatchID": 1,
+        "Type": 1,
+        "Station": "",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 0,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 2,
+        "BatchID": 2,
+        "Type": 4,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 3,
+        "BatchID": 2,
+        "Type": 4,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 4,
+        "BatchID": 2,
+        "Type": 4,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      }
+    ],
+    "ActivationDependencyTpe": 0,
+    "CompletionDependencyTpe": 1,
+    "DependencyQuests": [
+      3,
+      18,
+      4
+    ],
+    "AutoActivate": true
+  },
+  {
+    "ID": 6,
+    "QuestTriggers": [
+      {
+        "ID": 1,
+        "BatchID": 1,
+        "Type": 1,
+        "Station": "",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 0,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 2,
+        "BatchID": 2,
+        "Type": 2,
+        "Station": "BOR - Orthos I",
+        "Tag": "Echoes",
+        "Celestial": 0,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 3,
+        "BatchID": 2,
+        "Type": 2,
+        "Station": "BOR - Orthos II",
+        "Tag": "Echoes",
+        "Celestial": 0,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 4,
+        "BatchID": 2,
+        "Type": 2,
+        "Station": "ALP - 007",
+        "Tag": "Echoes",
+        "Celestial": 0,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 5,
+        "BatchID": 3,
+        "Type": 2,
+        "Station": "ALP - 007",
+        "Tag": "Echoes",
+        "Celestial": 0,
+        "DependencyBatchID": 2,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 6,
+        "BatchID": 4,
+        "Type": 2,
+        "Station": "",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 3,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 7,
+        "BatchID": 4,
+        "Type": 2,
+        "Station": "",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 3,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 8,
+        "BatchID": 5,
+        "Type": 2,
+        "Station": "ALP - 007",
+        "Tag": "Echoes",
+        "Celestial": 0,
+        "DependencyBatchID": 4,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 9,
+        "BatchID": 5,
+        "Type": 2,
+        "Station": "ALP - 007",
+        "Tag": "Echoes",
+        "Celestial": 0,
+        "DependencyBatchID": 4,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 10,
+        "BatchID": 6,
+        "Type": 2,
+        "Station": "ALP - 007",
+        "Tag": "Echoes",
+        "Celestial": 0,
+        "DependencyBatchID": 5,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 11,
+        "BatchID": 7,
+        "Type": 4,
+        "Station": "Icarus",
+        "Tag": "02walking",
+        "Celestial": 0,
+        "DependencyBatchID": 6,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      }
+    ],
+    "ActivationDependencyTpe": 0,
+    "CompletionDependencyTpe": 1,
+    "DependencyQuests": [],
+    "AutoActivate": false
+  },
+  {
+    "ID": 7,
+    "QuestTriggers": [
+      {
+        "ID": 1,
+        "BatchID": 1,
+        "Type": 1,
+        "Station": "",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 0,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 2,
+        "BatchID": 2,
+        "Type": 2,
+        "Station": "",
+        "Tag": "",
+        "Celestial": 15,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 3,
+        "BatchID": 2,
+        "Type": 2,
+        "Station": "",
+        "Tag": "",
+        "Celestial": 17,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 4,
+        "BatchID": 3,
+        "Type": 2,
+        "Station": "Acheron",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 2,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 5,
+        "BatchID": 4,
+        "Type": 4,
+        "Station": "Acheron",
+        "Tag": "Acheron",
+        "Celestial": 0,
+        "DependencyBatchID": 3,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 6,
+        "BatchID": 4,
+        "Type": 4,
+        "Station": "Acheron",
+        "Tag": "Acheron",
+        "Celestial": 0,
+        "DependencyBatchID": 3,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      }
+    ],
+    "ActivationDependencyTpe": 0,
+    "CompletionDependencyTpe": 1,
+    "DependencyQuests": [
+      6
+    ],
+    "AutoActivate": false
+  },
+  {
+    "ID": 8,
+    "QuestTriggers": [
+      {
+        "ID": 1,
+        "BatchID": 1,
+        "Type": 1,
+        "Station": "Amnisos",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 0,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 2,
+        "BatchID": 2,
+        "Type": 4,
+        "Station": "Amnisos",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 3,
+        "BatchID": 2,
+        "Type": 4,
+        "Station": "",
+        "Tag": "Amnisos",
+        "Celestial": 0,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 4,
+        "BatchID": 2,
+        "Type": 4,
+        "Station": "",
+        "Tag": "Amnisos",
+        "Celestial": 0,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      }
+    ],
+    "ActivationDependencyTpe": 0,
+    "CompletionDependencyTpe": 1,
+    "DependencyQuests": [
+      6
+    ],
+    "AutoActivate": false
+  },
+  {
+    "ID": 9,
+    "QuestTriggers": [
+      {
+        "ID": 1,
+        "BatchID": 1,
+        "Type": 1,
+        "Station": "Civilian Ruins",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 0,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 2,
+        "BatchID": 2,
+        "Type": 2,
+        "Station": "Civilian Ruins",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 3,
+        "BatchID": 2,
+        "Type": 2,
+        "Station": "Civilian Ruins",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 4,
+        "BatchID": 3,
+        "Type": 2,
+        "Station": "Civilian Ruins",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 2,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 5,
+        "BatchID": 4,
+        "Type": 4,
+        "Station": "Civilian Ruins",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 3,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      }
+    ],
+    "ActivationDependencyTpe": 0,
+    "CompletionDependencyTpe": 1,
+    "DependencyQuests": [
+      6
+    ],
+    "AutoActivate": false
+  },
+  {
+    "ID": 10,
+    "QuestTriggers": [
+      {
+        "ID": 1,
+        "BatchID": 1,
+        "Type": 1,
+        "Station": "",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 0,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 2,
+        "BatchID": 2,
+        "Type": 2,
+        "Station": "Knossos Terminal",
+        "Tag": "KnossosTerminal",
+        "Celestial": 0,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 3,
+        "BatchID": 3,
+        "Type": 2,
+        "Station": "Knossos Residential",
+        "Tag": "KnossosResidential",
+        "Celestial": 0,
+        "DependencyBatchID": 2,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 4,
+        "BatchID": 4,
+        "Type": 2,
+        "Station": "Knossos Residential",
+        "Tag": "KnossosResidential",
+        "Celestial": 0,
+        "DependencyBatchID": 3,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 5,
+        "BatchID": 5,
+        "Type": 2,
+        "Station": "Recall Coordinates",
+        "Tag": "MiddleOfNowhere",
+        "Celestial": 0,
+        "DependencyBatchID": 4,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 6,
+        "BatchID": 6,
+        "Type": 4,
+        "Station": "Recall Coordinates",
+        "Tag": "MiddleOfNowhere",
+        "Celestial": 0,
+        "DependencyBatchID": 5,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      }
+    ],
+    "ActivationDependencyTpe": 0,
+    "CompletionDependencyTpe": 1,
+    "DependencyQuests": [
+      7
+    ],
+    "AutoActivate": false
+  },
+  {
+    "ID": 11,
+    "QuestTriggers": [
+      {
+        "ID": 1,
+        "BatchID": 1,
+        "Type": 1,
+        "Station": "",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 0,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 2,
+        "BatchID": 2,
+        "Type": 2,
+        "Station": "Fort Bellerophon",
+        "Tag": "Bellerophon",
+        "Celestial": 0,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 3,
+        "BatchID": 3,
+        "Type": 2,
+        "Station": "Fort Bellerophon",
+        "Tag": "Bellerophon",
+        "Celestial": 0,
+        "DependencyBatchID": 2,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 4,
+        "BatchID": 4,
+        "Type": 2,
+        "Station": "Pan IV",
+        "Tag": "Listener",
+        "Celestial": 0,
+        "DependencyBatchID": 3,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 5,
+        "BatchID": 4,
+        "Type": 2,
+        "Station": "Pan V",
+        "Tag": "Listener",
+        "Celestial": 0,
+        "DependencyBatchID": 3,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 6,
+        "BatchID": 4,
+        "Type": 2,
+        "Station": "Autolycus II",
+        "Tag": "Listener",
+        "Celestial": 0,
+        "DependencyBatchID": 3,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 7,
+        "BatchID": 4,
+        "Type": 2,
+        "Station": "Autolycus III",
+        "Tag": "Listener",
+        "Celestial": 0,
+        "DependencyBatchID": 3,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 8,
+        "BatchID": 4,
+        "Type": 2,
+        "Station": "Priapus VI",
+        "Tag": "Listener",
+        "Celestial": 0,
+        "DependencyBatchID": 3,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 9,
+        "BatchID": 5,
+        "Type": 4,
+        "Station": "Fort Bellerophon",
+        "Tag": "Bellerophon",
+        "Celestial": 0,
+        "DependencyBatchID": 4,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      }
+    ],
+    "ActivationDependencyTpe": 0,
+    "CompletionDependencyTpe": 1,
+    "DependencyQuests": [
+      10
+    ],
+    "AutoActivate": false
+  },
+  {
+    "ID": 12,
+    "QuestTriggers": [
+      {
+        "ID": 1,
+        "BatchID": 1,
+        "Type": 1,
+        "Station": "",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 0,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 2,
+        "BatchID": 2,
+        "Type": 2,
+        "Station": "Purgatory",
+        "Tag": "Purgatory",
+        "Celestial": 0,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 3,
+        "BatchID": 3,
+        "Type": 2,
+        "Station": "Purgatory",
+        "Tag": "Purgatory",
+        "Celestial": 0,
+        "DependencyBatchID": 2,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 4,
+        "BatchID": 4,
+        "Type": 2,
+        "Station": "Limbo",
+        "Tag": "Limbo",
+        "Celestial": 0,
+        "DependencyBatchID": 3,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 5,
+        "BatchID": 5,
+        "Type": 4,
+        "Station": "Limbo",
+        "Tag": "Limbo",
+        "Celestial": 0,
+        "DependencyBatchID": 4,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      }
+    ],
+    "ActivationDependencyTpe": 0,
+    "CompletionDependencyTpe": 1,
+    "DependencyQuests": [
+      11
+    ],
+    "AutoActivate": false
+  },
+  {
+    "ID": 13,
+    "QuestTriggers": [
+      {
+        "ID": 1,
+        "BatchID": 1,
+        "Type": 1,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 0,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 2,
+        "BatchID": 2,
+        "Type": 4,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      }
+    ],
+    "ActivationDependencyTpe": 0,
+    "CompletionDependencyTpe": 0,
+    "DependencyQuests": [],
+    "AutoActivate": false
+  },
+  {
+    "ID": 14,
+    "QuestTriggers": [
+      {
+        "ID": 1,
+        "BatchID": 1,
+        "Type": 1,
+        "Station": "",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 0,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 2,
+        "BatchID": 2,
+        "Type": 2,
+        "Station": null,
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 3,
+        "BatchID": 3,
+        "Type": 4,
+        "Station": null,
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 2,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      }
+    ],
+    "ActivationDependencyTpe": 0,
+    "CompletionDependencyTpe": 0,
+    "DependencyQuests": [
+      15
+    ],
+    "AutoActivate": true
+  },
+  {
+    "ID": 15,
+    "QuestTriggers": [
+      {
+        "ID": 1,
+        "BatchID": 1,
+        "Type": 1,
+        "Station": "",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 0,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 2,
+        "BatchID": 2,
+        "Type": 2,
+        "Station": null,
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 3,
+        "BatchID": 3,
+        "Type": 2,
+        "Station": null,
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 2,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 4,
+        "BatchID": 3,
+        "Type": 2,
+        "Station": null,
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 2,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 5,
+        "BatchID": 3,
+        "Type": 2,
+        "Station": null,
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 2,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 6,
+        "BatchID": 4,
+        "Type": 4,
+        "Station": null,
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 3,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      }
+    ],
+    "ActivationDependencyTpe": 0,
+    "CompletionDependencyTpe": 1,
+    "DependencyQuests": [
+      13
+    ],
+    "AutoActivate": true
+  },
+  {
+    "ID": 16,
+    "QuestTriggers": [
+      {
+        "ID": 1,
+        "BatchID": 1,
+        "Type": 1,
+        "Station": "",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 0,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 2,
+        "BatchID": 2,
+        "Type": 4,
+        "Station": "",
+        "Tag": "",
+        "Celestial": 14,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      }
+    ],
+    "ActivationDependencyTpe": 0,
+    "CompletionDependencyTpe": 0,
+    "DependencyQuests": [],
+    "AutoActivate": false
+  },
+  {
+    "ID": 17,
+    "QuestTriggers": [
+      {
+        "ID": 1,
+        "BatchID": 1,
+        "Type": 1,
+        "Station": "",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 0,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 2,
+        "BatchID": 2,
+        "Type": 2,
+        "Station": "",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 3,
+        "BatchID": 2,
+        "Type": 2,
+        "Station": "",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 4,
+        "BatchID": 2,
+        "Type": 2,
+        "Station": "",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 5,
+        "BatchID": 3,
+        "Type": 2,
+        "Station": "",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 2,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 6,
+        "BatchID": 3,
+        "Type": 2,
+        "Station": "",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 2,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 7,
+        "BatchID": 3,
+        "Type": 2,
+        "Station": "",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 2,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 8,
+        "BatchID": 4,
+        "Type": 4,
+        "Station": "",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 3,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      }
+    ],
+    "ActivationDependencyTpe": 0,
+    "CompletionDependencyTpe": 0,
+    "DependencyQuests": [],
+    "AutoActivate": false
+  },
+  {
+    "ID": 18,
+    "QuestTriggers": [
+      {
+        "ID": 1,
+        "BatchID": 1,
+        "Type": 1,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 0,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 2,
+        "BatchID": 2,
+        "Type": 4,
+        "Station": "",
+        "Tag": "StartingScene",
+        "Celestial": 0,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      }
+    ],
+    "ActivationDependencyTpe": 0,
+    "CompletionDependencyTpe": 1,
+    "DependencyQuests": [],
+    "AutoActivate": false
+  },
+  {
+    "ID": 19,
+    "QuestTriggers": [
+      {
+        "ID": 1,
+        "BatchID": 1,
+        "Type": 1,
+        "Station": "",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 0,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 2,
+        "BatchID": 2,
+        "Type": 2,
+        "Station": "",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 3,
+        "BatchID": 3,
+        "Type": 2,
+        "Station": "",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 2,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 4,
+        "BatchID": 3,
+        "Type": 2,
+        "Station": "",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 2,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 5,
+        "BatchID": 3,
+        "Type": 2,
+        "Station": "",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 2,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 6,
+        "BatchID": 4,
+        "Type": 4,
+        "Station": "",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 3,
+        "DependencyTpe": 1,
+        "SpawnRuleName": null
+      }
+    ],
+    "ActivationDependencyTpe": 0,
+    "CompletionDependencyTpe": 0,
+    "DependencyQuests": [],
+    "AutoActivate": false
+  },
+  {
+    "ID": 20,
+    "QuestTriggers": [
+      {
+        "ID": 1,
+        "BatchID": 1,
+        "Type": 1,
+        "Station": "",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 0,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 2,
+        "BatchID": 2,
+        "Type": 4,
+        "Station": null,
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 3,
+        "BatchID": 2,
+        "Type": 4,
+        "Station": null,
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 4,
+        "BatchID": 2,
+        "Type": 4,
+        "Station": null,
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      }
+    ],
+    "ActivationDependencyTpe": 0,
+    "CompletionDependencyTpe": 1,
+    "DependencyQuests": [],
+    "AutoActivate": false
+  },
+  {
+    "ID": 21,
+    "QuestTriggers": [
+      {
+        "ID": 1,
+        "BatchID": 1,
+        "Type": 1,
+        "Station": "",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 0,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 2,
+        "BatchID": 2,
+        "Type": 2,
+        "Station": "",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 1,
+        "DependencyTpe": 0,
+        "SpawnRuleName": null
+      },
+      {
+        "ID": 3,
+        "BatchID": 3,
+        "Type": 4,
+        "Station": "",
+        "Tag": "",
+        "Celestial": 0,
+        "DependencyBatchID": 2,
+        "DependencyTpe": 0,
+        "SpawnRuleName": ""
+      }
+    ],
+    "ActivationDependencyTpe": 0,
+    "CompletionDependencyTpe": 0,
+    "DependencyQuests": [],
+    "AutoActivate": false
+  }
+]

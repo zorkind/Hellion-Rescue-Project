@@ -1,0 +1,61 @@
+{
+  "PrimitiveCollidersData": [
+    {
+      "Type": 1,
+      "Center": [
+        0.456831932,
+        1.4259553,
+        0.487279058
+      ],
+      "Size": [
+        11.088377,
+        5.37468433,
+        6.877924
+      ],
+      "AffectingCenterOfMass": true
+    },
+    {
+      "Type": 1,
+      "Center": [
+        3.807742,
+        1.50723171,
+        -4.12505436
+      ],
+      "Size": [
+        4.72841358,
+        5.204382,
+        2.388239
+      ],
+      "AffectingCenterOfMass": true
+    },
+    {
+      "Type": 1,
+      "Center": [
+        0.2433052,
+        1.45691824,
+        5.284234
+      ],
+      "Size": [
+        11.9182224,
+        5.312827,
+        2.77915382
+      ],
+      "AffectingCenterOfMass": true
+    },
+    {
+      "Type": 1,
+      "Center": [
+        6.54636765,
+        1.353373,
+        0.577843666
+      ],
+      "Size": [
+        1.10644531,
+        3.706746,
+        3.73715782
+      ],
+      "AffectingCenterOfMass": true
+    }
+  ],
+  "MeshCollidersData": []
+}
