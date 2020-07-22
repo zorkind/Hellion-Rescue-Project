@@ -1,6 +1,8 @@
 on:
   issues:
-    types: created
+  release:
+    types:
+      - "published"
 
 name: Discord Notification
 
@@ -9,9 +11,8 @@ jobs:
     name: Discord Notification
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
+      - uses: actions/checkout@v2
       - uses: binotaliu/action-discord-notifier@v1
         with:
-          message-title: New Issue
+          message-title: New Release
           webhook: https://discordapp.com/api/webhooks/735606198899965962/lQIp9Ho_XEcpt67WA2qnfnOoLmbuEKjXIfJIPyvGS5FnZKN1lfvLrdWxw5IG2abWvsWo
