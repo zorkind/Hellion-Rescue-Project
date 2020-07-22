@@ -1,2 +1,14 @@
-- name: Move labeled or milestoned issue to a specific project column
-  uses: konradpabjan/move-labeled-or-milestoned-issue@v2.0
+on:
+  issues:
+    types: [labeled]
+jobs:
+  Move_Labeled_Issue_On_Project_Board:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: konradpabjan/move-labeled-or-milestoned-issue@v2.0
+      with:
+        action-token: "${{ secrets.MY_TOKEN }}"
+        project-url: "https://github.com/orgs/github/projects/1"
+        column-name: "On Deck"
+        label-name: "priority"
+        columns-to-ignore: "In Review,Ready to deploy,Done"
