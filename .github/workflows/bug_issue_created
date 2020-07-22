@@ -1,0 +1,14 @@
+on:
+  issues:
+    - opened
+    label: "bug"
+jobs:
+  Notify:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: hugoalh/GitHubAction.SendToDiscord@v1.1.6
+      with:
+        webhook_id: "735606198899965962"
+        webhook_token: "lQIp9Ho_XEcpt67WA2qnfnOoLmbuEKjXIfJIPyvGS5FnZKN1lfvLrdWxw5IG2abWvsWo"
+        message_text: "New issue - bug created."
+        message_usetexttospeech: "false"
