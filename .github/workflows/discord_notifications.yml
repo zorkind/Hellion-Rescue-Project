@@ -1,7 +1,6 @@
 on:
-  push:
-    branches:
-      - '**'
+  issues:
+    types: created
 
 name: Discord Notification
 
