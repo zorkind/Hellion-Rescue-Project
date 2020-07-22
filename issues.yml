@@ -1,0 +1,2 @@
+- name: Move labeled or milestoned issue to a specific project column
+  uses: konradpabjan/move-labeled-or-milestoned-issue@v2.0
