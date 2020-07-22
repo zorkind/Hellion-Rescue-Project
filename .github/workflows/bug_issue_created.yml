@@ -1,6 +1,6 @@
 on:
   issues:
-    - opened
+    types: "opened"
     label: "bug"
 jobs:
   Notify:
