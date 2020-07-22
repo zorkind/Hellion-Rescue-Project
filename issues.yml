@@ -8,7 +8,7 @@ jobs:
     - uses: konradpabjan/move-labeled-or-milestoned-issue@v2.0
       with:
         action-token: "${{ secrets.MY_TOKEN }}"
-        project-url: "https://github.com/orgs/github/projects/1"
-        column-name: "On Deck"
-        label-name: "priority"
+        project-url: "https://github.com/zorkind/Hellion-Rescue-Project/projects/2"
+        column-name: "To Do"
+        label-name: "enhancement"
         columns-to-ignore: "In Review,Ready to deploy,Done"
