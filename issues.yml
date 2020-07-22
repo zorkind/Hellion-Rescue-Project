@@ -9,6 +9,6 @@ jobs:
       with:
         action-token: "${{ secrets.MY_TOKEN }}"
         project-url: "https://github.com/zorkind/Hellion-Rescue-Project/projects/2"
-        column-name: "To Do"
+        column-name: "To do"
         label-name: "enhancement"
         columns-to-ignore: "In Review,Ready to deploy,Done"
