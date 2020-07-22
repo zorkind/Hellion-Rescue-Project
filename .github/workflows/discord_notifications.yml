@@ -1,5 +1,4 @@
 on:
-  issues:
   release:
     types:
       - "published"
