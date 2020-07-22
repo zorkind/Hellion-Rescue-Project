@@ -1,7 +1,6 @@
 on:
   issues:
-    types: "opened"
-    label: "bug"
+    labeled: "bug"
 jobs:
   Notify:
     runs-on: ubuntu-latest
