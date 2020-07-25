@@ -11,5 +11,5 @@ jobs:
         project-url: "https://github.com/zorkind/Hellion-Rescue-Project/projects/1"
         column-name: "Needs triage"
         label-name: "bug"
-        columns-to-ignore: "In Review,Ready to deploy,Done"
+        columns-to-ignore: "Low Priority, Medium Priority, High Priority, In Progress, Testing / Polishing, In Review,Ready to deploy,Done"
 
