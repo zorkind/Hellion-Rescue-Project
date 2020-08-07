@@ -16,7 +16,7 @@ Several modifications have been made. This mod is liscensed under CC BY-NC-SA 3.
 
 # What is this project about?
 
-This project was started to bring some life back in to the game Hellion. It was removed from steam by the developers due to them stopping development and disbanding the dev team. The game was left wit countless bugs and unfinnished. 
+This project was started to bring some life back in to the game Hellion. It was removed from steam by the developers due to them stopping development and disbanding the dev team. The game was left with countless bugs and unfinished. 
 
 -------------------------
 
@@ -31,17 +31,11 @@ https://discord.gg/RCeBAqw
 - Q: Can I join the dev team?
 - A: No, we are not currently accepting applications for the dev team. 
 
-- Q: Can I ping or message @Zorkind?
-- A: No. We are all impatient for the next release, and you messaging him takes time, which he could be spending on coding. If you have a inquiry, such as you can provide server hosting, please message @GTink911.
-
-- Q: But I need help!
-- A: If you need game help, ask in #vanilla-hellion-discussion. If you have a server or mod issue, ping @Support in #support-room-1 or @GTink911.
-
 - Q: When will the next update/patch be done?
-- A: When its done. If you have a legitimate question, ask it and dont ask it again.
+- A: When its done.
 
 - Q: Is Zero Gravity fine with this project?
-- A: Zero Gravity is aware of this project and is not going to stop it. Please note that they do not endorse or encourage this project in any way, as stated in #disclaimer.
+- A: Zero Gravity is aware of this project and is not going to stop it. Please note that they do not endorse or encourage this project in any way, as stated in the disclaimer.
 
 - Q: I don't like how a feature is being made. Is there any way I can change it or disable it?
 - A: Every feature can be disabled, and most will be able to have their values changed.
