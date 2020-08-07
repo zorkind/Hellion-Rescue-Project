@@ -2,6 +2,18 @@
 
 -------------------------
 
+# Disclamer
+
+Zero Gravity is not affiliated with me or this mod in any way and neither endorses nor encourages my work. HELLION is a game made by Zero Gravity Studios, they own the rights to the game, we do not dispute or challenge this.
+
+Our work here is out of love for the game.
+
+Several modifications have been made. This mod is liscensed under CC BY-NC-SA 3.0.
+
+**Any and all money donated to the project will also be used for server hosting and hiring freelancers we deem helpful to the project.**
+
+-------------------------
+
 # What is this project about?
 
 This project was started to bring some life back in to the game Hellion. It was removed from steam by the developers due to them stopping development and disbanding the dev team. The game was left wit countless bugs and unfinnished. 
@@ -43,7 +55,7 @@ https://discord.gg/RCeBAqw
 
 ## Recommended specifications for the HRP client
 
-## Minimum:
+###### Minimum:
 
 OS: 64-Bit Windows 7 Service Pack 1, or Windows 8, Windows 10
 
@@ -55,7 +67,7 @@ GPU: NVIDIA® GeForce® GTX 660 or AMD Radeon™ equivalent
 
 Storage: 10 GB
 
-## Recommended:
+###### Recommended:
 
 OS: 64-Bit Windows 7 Service Pack 1, or Windows 8, Windows 10
 
@@ -69,7 +81,7 @@ Storage: 10 GB
 
 ## Recommended specifications for the HRP server
 
-### Minimum:
+###### Minimum:
 
 OS: Windows 10
 
@@ -81,7 +93,7 @@ GPU: Integrated W/CPU Works
 
 Storage: 25 GB
 
-### Recommended: 
+###### Recommended: 
 
 OS: Windows 10
 
