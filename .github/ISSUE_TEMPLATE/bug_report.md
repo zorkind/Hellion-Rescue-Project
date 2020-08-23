@@ -6,6 +6,11 @@ labels: bug
 assignees: ''
 
 ---
+**Vanilla / HRP**
+Vanilla.
+
+**Client Version**
+0.5.2 (Vanilla) or HRP Version ex.: 0.0.1
 
 **Describe the bug**
 A clear and concise description of what the bug is.
