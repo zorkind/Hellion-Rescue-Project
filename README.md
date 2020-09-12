@@ -8,7 +8,7 @@ Zero Gravity is not affiliated with me or this mod in any way and neither endors
 
 Our work here is out of love for the game.
 
-Several modifications have been made. This mod is liscensed under CC BY-NC-SA 3.0.
+Several modifications have been made.
 
 **Any and all money donated to the project will also be used for server hosting and hiring freelancers we deem helpful to the project.**
 
