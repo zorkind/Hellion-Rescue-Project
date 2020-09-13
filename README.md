@@ -55,7 +55,7 @@ OS: 64-Bit Windows 7 Service Pack 1, or Windows 8, Windows 10
 
 CPU: Intel® Core™ i3 or AMD Phenom
 
-RAM: 6 GB RAM
+RAM: 8 GB RAM
 
 GPU: NVIDIA® GeForce® GTX 660 or AMD Radeon™ equivalent
 
@@ -67,7 +67,7 @@ OS: 64-Bit Windows 7 Service Pack 1, or Windows 8, Windows 10
 
 CPU: Intel® Core™ i5 or AMD FX-8350
 
-RAM: 8 GB RAM
+RAM: 16 GB RAM
 
 GPU: NVIDIA® GeForce® GTX 970 or AMD Radeon™ equivalent
 
