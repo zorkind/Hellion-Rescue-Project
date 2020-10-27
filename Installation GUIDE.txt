@@ -14,7 +14,7 @@ The link will be compatible with any Windows machine x86 or x64, but you can che
 https://dotnet.microsoft.com/download/dotnet-core/3.1
 
 2) C++ Redistributable 2017/2019:
-https://support.microsoft.com/pt-br/help/2977003/the-latest-supported-visual-c-downloads
+https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads
 Click on the version that is best for your machine architecture, the server don't run in ARM, so pick x86 or x64.
 
 3) after installing both these packages, you may copy the Server folder to anywhere you are comfortable with, the client, you need to open the Hellion
