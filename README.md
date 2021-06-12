@@ -29,7 +29,7 @@ https://discord.gg/RCeBAqw
 # FAQ
 
 - Q: Can I join the dev team?
-- A: No, we are not currently accepting applications for the dev team. 
+- A: Please, follow this link https://forms.gle/4HhY52reTPReFGbD6 it is our application form for the testing team (Red Legion), it may be down if we are not currently recruiting. 
 
 - Q: When will the next update/patch be done?
 - A: When its done.
@@ -39,9 +39,6 @@ https://discord.gg/RCeBAqw
 
 - Q: I don't like how a feature is being made. Is there any way I can change it or disable it?
 - A: Every feature can be disabled, and most will be able to have their values changed.
-
-- Q: Are there any stable servers for HRP? 
-- A: There are several community servers and a official server active. However, the current release (0.0.1) has a bug that makes it hard to connect. This will be fixed in version 0.1.0.
 
 -------------------------
 
