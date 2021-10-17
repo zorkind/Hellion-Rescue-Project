@@ -1,0 +1,298 @@
+[
+  {
+    "Version": "0.3",
+    "Name": "Purgatory",
+    "Invulnerable": true,
+    "SystemsOnline": true,
+    "DoorsLocked": true,
+    "HealthMultiplier": 0.5,
+    "DockingControlsDisabled": false,
+    "AirPressure": 0,
+    "AirQuality": 0,
+    "Structures": [
+      {
+        "StructureID": 0,
+        "StructureType": "Generic_Debris_Corridor001",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.33,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 1,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 1,
+        "StructureType": "AltCorp_CorridorIntersection_MKII",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.6,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 2,
+            "DockedStructureID": 0,
+            "Locked": true
+          },
+          {
+            "OrderID": 3,
+            "DockedStructureID": 2,
+            "Locked": true
+          },
+          {
+            "OrderID": 1,
+            "DockedStructureID": 3,
+            "Locked": true
+          }
+        ],
+        "Tag": "Secure"
+      },
+      {
+        "StructureID": 2,
+        "StructureType": "AM",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.42,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 2,
+            "DockedStructureID": 1,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 3,
+        "StructureType": "CM",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.26,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 1,
+            "Locked": true
+          },
+          {
+            "OrderID": 4,
+            "DockedStructureID": 5,
+            "Locked": true
+          },
+          {
+            "OrderID": 2,
+            "DockedStructureID": 4,
+            "Locked": true
+          },
+          {
+            "OrderID": 3,
+            "DockedStructureID": 7,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 4,
+        "StructureType": "Generic_Debris_Corridor001",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.72,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 3,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 5,
+        "StructureType": "Generic_Debris_Corridor002",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.61,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 3,
+            "Locked": true
+          },
+          {
+            "OrderID": 2,
+            "DockedStructureID": 6,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 6,
+        "StructureType": "Generic_Debris_Corridor001",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.37,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 5,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 7,
+        "StructureType": "CBM",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.56,
+        "DockingControlsDisabled": false,
+        "Tag": "Purgatory1",
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 3,
+            "Locked": true
+          },
+          {
+            "OrderID": 2,
+            "DockedStructureID": 8,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 8,
+        "StructureType": "CBM",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.59,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 2,
+            "DockedStructureID": 7,
+            "Locked": true
+          },
+          {
+            "OrderID": 1,
+            "DockedStructureID": 9,
+            "Locked": true
+          }
+        ],
+        "Tag": "Purgatory2"
+      },
+      {
+        "StructureID": 9,
+        "StructureType": "PSM",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.88,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 2,
+            "DockedStructureID": 8,
+            "Locked": true
+          },
+          {
+            "OrderID": 1,
+            "DockedStructureID": 10,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 10,
+        "StructureType": "Generic_Debris_Corridor001",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.18,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 9,
+            "Locked": true
+          }
+        ],
+        "Tag": "Purgatory3"
+      }
+    ]
+  },
+  {
+    "Version": "0.3",
+    "Name": "Limbo",
+    "Structures": [
+      {
+        "StructureID": 0,
+        "StructureType": "SOE_Location002",
+        "Tag": "Limbo;Limbo1",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.24,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": []
+      }
+    ],
+    "LocalPosition": [
+      -6547,
+      1203,
+      -357
+    ],
+    "LocalRotation": [
+      0,
+      -27,
+      0
+    ],
+    "Invulnerable": true,
+    "SystemsOnline": false,
+    "DoorsLocked": true,
+    "HealthMultiplier": 0.34,
+    "DockingControlsDisabled": false,
+    "AirPressure": 0,
+    "AirQuality": 0
+  }
+]

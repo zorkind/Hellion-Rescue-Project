@@ -1,0 +1,500 @@
+{
+  "GlossaryGroups": [
+    {
+      "GroupName": "Equipment",
+      "SubGroups": [
+        {
+          "SubGroupName": "Weapons",
+          "Items": [
+            {
+              "Name": "B-45 Compound -Mod.06",
+              "ImagePath": "ALT_Assault",
+              "Corp": 0,
+              "DescriptionShort": "<color=#fff>B-45 Compound -Mod.06</color>\n(AltCorp railgun carabine)\n\n<color=#fff>Firing modes:</color>\nSingle shot\nPower shot\n\n<color=#fff>Ammo:</color>\nMod.09-Standard",
+              "DescriptionLong": "<color=#fff><size=26s>B-45 Compound -Mod.06</size></color>\n\nFollowing the UNE’s announcement of the Expedition Project, Altair Corporation began working on a new weapon prototype in close collaboration with Skyline Defense Solutions. The main goal of the project was to create a design that could be manufactured using limited resources during the early stages of the colonization effort. The end result was the B-45 Compound railgun carabine, a light and versatile weapon that required minimal resources to produce.\n\nOne of the main concerns during the early prototype stage was the lack of penetrating power. This was circumvented by placing additional capacitors along the barrel’s conducting rails, allowing B-45 to trade firing speed and accuracy for added penetration power in “power shot” mode.\n\nDue to its low manufacturing cost, reliability and compact design, B-45 quickly became standard equipment for all AltCorp security personnel."
+            },
+            {
+              "Name": "V22 ‘Broadsword’ –8.20",
+              "ImagePath": "M_Assault",
+              "Corp": 0,
+              "DescriptionShort": "<color=#fff>V22 ‘Broadsword’ –8.20</color>\n(SDS railgun assault rifle)\n\n<color=#fff>Firing modes:</color>\nSingle shot\nFull auto\n\n<color=#fff>Ammo:</color>\n8.35 Standard",
+              "DescriptionLong": "<color=#fff><size=26s>V22 ‘Broadsword’ –8.20</size></color>\n\nHigh powered SDS assault rifle designed for battlefield use. Despite its high manufacturing cost and high ammo consumption V22 ‘Broadsword’ quickly became the favorite of SDS field operatives and even gained popularity among some UNE soldiers, making this assault rifle one of the most sought after weapons by soldiers and mercenaries alike.\n\n‘Broadsword’ uses a standard railgun firing principle, but features an improved cooling system that allows a higher fire rate compared to other weapons of the same type. High muzzle velocity, excellent accuracy and built in scope make this weapon highly lethal at any range."
+            },
+            {
+              "Name": "R15 ‘Lance’ -12.5",
+              "ImagePath": "M_Sniper",
+              "Corp": 0,
+              "DescriptionShort": "<color=#fff>R15 ‘Lance’ -12.5/Helix</color>\n(SDS helical sniper rifle)\n\n<color=#fff>Firing modes:</color>\nSingle shot\nPower shot\n\n<color=#fff>Ammo:</color>\n12.5/Helix",
+              "DescriptionLong": "<color=#fff><size=26s>R15 ‘Lance’ -12.5/Helix</size></color>\n\n‘Lance’ made its first debut during the “Deimos Incident” in 2104, when SDS forces clashed with UNE military during a mining dispute. Lance’s exceptional accuracy and high penetrating power allowed Skyline field operatives to keep UNE soldiers at a distance preventing them from establishing a firm foothold on the moon’s surface. The incident demonstrated a clear superiority of the newly developed magnetic weaponry over the conventional firearms used by UNE troops, forcing UNE military to rethink its strategy and modernize its arsenal.\n\nRevision 15 of the original ‘Lance’ rifle is a crossover between a railgun and a coilgun where the twin rails are enclosed inside a helical barrel. The projectile, contained inside a helical armature, is accelerated continuously by two brushes sliding along the rails. This allows for a higher muzzle velocity without putting additional strain on the rails."
+            },
+            {
+              "Name": "S22 ‘Rapier’ -8.15",
+              "ImagePath": "M_Handgun_02",
+              "Corp": 0,
+              "DescriptionShort": "<color=#fff>S22 ‘Rapier’ -8.15</color>\n(SDS auto-pistol)\n\n<color=#fff>Firing modes:</color>\nSingle shot\nFull auto\n\n<color=#fff>Ammo:</color>\n8.15 Standard",
+              "DescriptionLong": "<color=#fff><size=26s>S22 ‘Rapier’ -8.15</size></color>\n\nStandard gear for all SDS security personnel, primarily designed for peacekeeping operations. \n\nIts compact design, exceptional handling and high fire rate are ideal for police duty, but come at a price of low muzzle velocity, compared to other magnetic weapons."
+            },
+            {
+              "Name": "H115 ‘Glaive’-8.15",
+              "ImagePath": "M_Handgun_01",
+              "Corp": 0,
+              "DescriptionShort": "<color=#fff>H115 ‘Glaive’-8.15</color>\n(SDS heavy pistol)\n\n<color=#fff>Firing modes:</color>\nSingle shot\nPower shot\n\n<color=#fff>Ammo:</color>\n8.15 Standard",
+              "DescriptionLong": "<color=#fff><size=26s>H115 ‘Glaive’ -8.15</size></color>\n\nHigh powered SDS sidearm designed to kill rather than wound or incapacitate. Although it uses the same caliber ammunition as S22 'Rapier' its stopping power is far greater. As such the use of this weapon is only permitted in actual combat situations.\n\nGlaive was designed to circumvent UNE restrictions on \"expanding ordinance\" by exploiting the railgun firing principle. Two rounds are loaded into the chamber before the electrical charge is delivered. Since the rounds come into contact during the firing sequence they are spot welded together and leave the barrel as a single projectile because Teflon-coating is only present on the surfaces in contact with the magnetic rails. This creates a high velocity projectile that splits on impact causing severe tissue damage."
+            }
+          ]
+        },
+        {
+          "SubGroupName": "Ammo",
+          "Items": [
+            {
+              "Name": "Mod.06-S",
+              "ImagePath": "ALT_Assault_Ammo",
+              "Corp": 0,
+              "DescriptionShort": "<color=#fff>Mod.06-S</color>\n(6mm rifle ammo)\n\n<color=#fff>Type:</color>\nStandard anti-personnel",
+              "DescriptionLong": "<color=#fff><size=26s>Mod.06-Standard</size></color>\n\nStandard Teflon coated, squash core 6mm round.\n\nStandard AltCorp rifle ammo, designed to squash and tumble on impact causing severe tissue damage. When fired in power shot mode, the kinetic energy vaporizes the round on contact with a hard surface, transforming it into a jet of molten metal that bores through the material and burns the tissue beneath."
+            },
+            {
+              "Name": "8.20-S",
+              "ImagePath": "M_Assault_Ammo",
+              "Corp": 0,
+              "DescriptionShort": "<color=#fff>8.20-S</color>\n(8mm rifle ammo)\n\n<color=#fff>Type:</color>\nStandard anti-personnel",
+              "DescriptionLong": "<color=#fff><size=26s>8.20-Standard</size></color>\n\nStandard teflon coated, thermal core 8mm anti-personnel round.\n\nStandard SDS rifle round for the V22 ‘Broadsword’. High conductivity and thermal threshold of the outer layer allow for rapid firing without putting more strain on the rails. During the firing sequence most of the heat is transferred to the solid core heating it to extreme levels causing it to deform on impact. This leads to massive tissue damage and severe burns."
+            },
+            {
+              "Name": "12.5/Helix",
+              "ImagePath": "M_Sniper_Ammo",
+              "Corp": 0,
+              "DescriptionShort": "<color=#fff>12.5/Helix</color>\n(12mm sniper ammo)\n\n<color=#fff>Type:</color>\nHelical anti-materiel",
+              "DescriptionLong": "<color=#fff><size=26s>12.5/Helix</size></color>\n\nHelical 12mm anti-materiel round for the SDS R15 ‘Lance’. \n\nSolid tungsten alloy core is encased in a discarding, low friction and highly conductive armature. The helical design of the armature works in unison with the twin brushes sliding along the rails to provide continuous acceleration. Due to the extreme forces involved, the armature either completely vaporizes in the process or shatters upon exiting the barrel, leaving only the armor-piercing projectile."
+            },
+            {
+              "Name": "8.15-S",
+              "ImagePath": "M_handgun_ammo",
+              "Corp": 0,
+              "DescriptionShort": "<color=#fff>8.15-S</color>\n(8mm pistol ammo)\n\n<color=#fff>Type:</color>\nStandard anti-personnel",
+              "DescriptionLong": "<color=#fff><size=26s>8.15-Standard</size></color>\n\nStandard Teflon coated, solid core, 8mm round. Standard SDS pistol ammunition designed to wound or incapacitate."
+            }
+          ]
+        },
+        {
+          "SubGroupName": "Explosives",
+          "Items": [
+            {
+              "Name": "'Flail' AP Grenade",
+              "ImagePath": "ArmorPiercingGrenade",
+              "Corp": 0,
+              "DescriptionShort": "<color=#fff>'Flail' AP Grenade</color>\n(SDS Anti Personnel hand grenade)\n\n<color=#fff>Type:</color>\nHigh Explosive, limitted fragmentation",
+              "DescriptionLong": "<color=#fff><size=26s>'Flail' AP Grenade</size></color>\n\nSDS Anti Personnel hand grenade.\n\nStandard High Explosive SDS hand grenade designed to kill or incapacitate targets in its blast radius."
+            },
+            {
+              "Name": "'Swordbreaker' EMP grenade",
+              "ImagePath": "EMPGrenade",
+              "Corp": 0,
+              "DescriptionShort": "<color=#fff>'Swordbreaker' EMP grenade</color>\n(SDS advacned EW hand grenade)\n\n<color=#fff>Type:</color>\nEMP",
+              "DescriptionLong": "<color=#fff><size=26s>'Swordbreaker' EMP grenade</size></color>\n\nSDS advacned EW hand grenade.\n\nAdvanced electronic warfare device, designed to destroy or disable unshielded military hardware using a powerful electromagnetic pulse."
+            }
+          ]
+        },
+        {
+          "SubGroupName": "Outfits",
+          "Items": [
+            {
+              "Name": "AC Mk9 - Pressure Suit",
+              "ImagePath": "AltairPressurisedSuit",
+              "Corp": 0,
+              "DescriptionShort": "<color=#fff>AC Mk9 - Pressure Suit</color>\n(pressure suit)\n\n<color=#fff>Armor:</color>\n\n<color=#fff>Item Slots:</color>",
+              "DescriptionLong": "<color=#fff><size=26s>AC Mk9 - Pressure Suit</size></color>\n\nMk9 is an all-purpose pressure suit used by Altair Corporation personnel. Following a standard design philosophy the suit has no built in power, oxygen or RCS capability, relying entirely on the Mk9 Jetpack.\n\nThe suit features a tri-layered construction that incorporates a hard outer layer, a flexible shock-absorbent carbon fiber mesh beneath it and a soft interior. The outer layer offers excellent impact and EM protection, while the shock absorbent mesh dissipates any residual kinetic energy and provides automatic sealing in case of rupture. Finally the suit’s interior handles pressure and heat regulation.\n\nDue to its low weight, Mk9 offers exceptional mobility and this, combined with excellent protection, allows use in many different scenarios. The suit’s main drawback is a low fuel and oxygen supply requiring frequent refueling during prolonged EVA operations."
+            },
+            {
+              "Name": "AC Mk9 - Helmet",
+              "ImagePath": "AltairPressurisedHelmet",
+              "Corp": 0,
+              "DescriptionShort": "<color=#fff>AC Mk9 - Helmet</color>\n(pressure helmet)\n\n<color=#fff>Functions:</color>\nFlashlight\nHUD",
+              "DescriptionLong": "<color=#fff><size=26s>AC Mk9 - Helmet</size></color>\n\nProvides standard protection from vacuum exposure, heat and radiation. Built out of hard ceramic alloys, layered over synthetic carbon fibers, the helmet offers excellent protection without adding weight. Bulletproof visor is made using a combination of gold coating, optical ceramic and UV absorbent materials keeping the wearer safe from all forms of radiation.\n\nThe helmet comes with a built in short range radar, two-way radio transmitter and a heads up display."
+            },
+            {
+              "Name": "AC Mk9 – Jetpack",
+              "ImagePath": "AltairPressurisedJetpack",
+              "Corp": 0,
+              "DescriptionShort": "AC Mk9 – Jetpack\n\n<color=#fff>AC Mk9 – Jetpack</color>\n(jetpack)\n\n<color=#fff>Capacity:</color>\nOxygen - 5\nNitro - 1\n\n<color=#fff>Thrust:</color>",
+              "DescriptionLong": "<color=#fff><size=26s>AC Mk9 – Jetpack</size></color>\n\nA zero-g maneuvering device that provides RCS capability, oxygen and power for the Mk9 pressure suit. Its design sacrifices fuel and oxygen capacity for added maneuverability and offers up to blabla thrust. A simple mounting mechanism makes it easy to equip or remove, while the universal fuel port allows refueling in the field, somewhat compensating for its low capacity."
+            },
+            {
+              "Name": "AC Proteus-h - EVA suit",
+              "ImagePath": "AltairEVASuit",
+              "Corp": 0,
+              "DescriptionShort": "<color=#fff>AC Proteus-h - EVA suit</color>\n(EVA suit)\n\n<color=#fff>Armor:</color>\n\n<color=#fff>Item Slots:</color>",
+              "DescriptionLong": "<color=#fff><size=26s>AC Proteus-h - EVA suit</size></color>\n\nProteus suit was initially developed to speed up the construction of the Expedition’s flagship, Daedalus. The scope of the construction project meant that all assembly work had to be done on site, requiring a massive workforce. The new suit had to be reliable, cost effective and simple to use, even by untrained personnel. Proteus prototype satisfied all conditions and entered mass production three months before actual construction work started.\n\nProteus-H version of the suit was modified for unique conditions found in the Hellion system, namely high heat and unstable EM emissions coming from the red giant. The suit offers exceptional heat and radiation protection as well as built in CO2 filters, making it ideal for lengthy EVA operations, like mining or construction. As with most AltCorp designs the suit relies entirely on the Jetpack for oxygen, power and fuel.\n\nProteus’ advantages in EVA length, heat and radiation protection come at a cost of reduced mobility and lower impact resistance compared to Mk9."
+            },
+            {
+              "Name": "AC Proteus-h - Helmet",
+              "ImagePath": "AltairEVAHelmet",
+              "Corp": 0,
+              "DescriptionShort": "<color=#fff>AC Proteus-h - Helmet</color>\n(pressure helmet)\n\n<color=#fff>Functions:</color>\nFlashlight\nHUD",
+              "DescriptionLong": "<color=#fff><size=26s>AC Proteus-h - Helmet</size></color>\n\nAdvanced headgear for the Proteus-h EVA suit. Reflective ceramic alloys are layered over a thermally conductive layer to facilitate better radiation protection and heat dissipation. Visor is made out of standard optical ceramics with added layers of gold coating and UV absorbent materials to better protect the wearer, even during extreme exposures.\n\nAlong with enhanced CO2 filtering system the helmet offers a standard radar, two-way radio communication and a heads up display."
+            },
+            {
+              "Name": "AC Proteus-h – Jetpack",
+              "ImagePath": "AltairEVAJetpack",
+              "Corp": 0,
+              "DescriptionShort": "<color=#fff>AC Proteus-h – Jetpack</color>\n(jetpack)\n\n<color=#fff>Capacity:</color>\nOxygen - 10\nFuel - 5\n\n<color=#fff>Thrust:</color>",
+              "DescriptionLong": "<color=#fff><size=26s>AC Proteus-h – Jetpack</size></color>\n\nAn advanced zero-g maneuvering device that providing RCS capability, oxygen and power for the Proteus-h EVA suit. Much larger than the Mk9 version, the Proteus jetpack has a large oxygen and fuel storage capacity, allowing substantially longer EVA time that can be further extended by refueling the pack in the field.\n\nAdded storage capacity and increased suit weight result in lower maneuvering capability compared to Mk9."
+            }
+          ]
+        },
+        {
+          "SubGroupName": "Mining",
+          "Items": [
+            {
+              "Name": "AC – G5p Drilling System",
+              "ImagePath": "AltairHandDrill",
+              "Corp": 0,
+              "DescriptionShort": "<color=#fff>AC – G5p Drilling System</color>\n(mining drill)\n\n<color=#fff>Properties:</color>\nSpeed: 1u/s\nPower: 0.3u/s\n\n<color=#fff>Attachments:</color>\nG5p – Raw Resource Canister\nAC – Battery Pack",
+              "DescriptionLong": "<color=#fff><size=26s>AC – G5p Drilling System</size></color>\n\nAltCorp fifth generation portable  drilling system designed for zero-g field work. Often used for small scale mining or when preparing the field for large scale excavation projects."
+            },
+            {
+              "Name": "G5p – Raw Resource Canister",
+              "ImagePath": "AltairHandDrillCanister",
+              "Corp": 0,
+              "DescriptionShort": "<color=#fff>G5p – Raw Resource Canister</color>\n(drill raw resource container)\n\n<color=#fff>Capacity:</color>\n150 units",
+              "DescriptionLong": "<color=#fff><size=26s>G5p – Raw Resource Canister</size></color>\n\nDesigned as part of the G5p mining system, the canister offers ample storage capacity for all types of raw resources. It is compatible with all AltCorp cargo systems and enables safe and easy storage and transportation of raw resources."
+            },
+            {
+              "Name": "AC – Battery Pack",
+              "ImagePath": "AltairHandDrillBattery",
+              "Corp": 0,
+              "DescriptionShort": "<color=#fff>AC – Battery Pack</color>\n(battery)\n\n<color=#fff>Capacity:</color>\nPower: 100",
+              "DescriptionLong": "<color=#fff><size=26s>AC – Battery Pack</size></color>\n\nInitially designed but not limited to G5p mining system. The battery pack is based on latest advancements in graphene nanotube technology and offers exceptional capacity despite its small size."
+            },
+            {
+              "Name": "AC – ‘ASAT’ Scanner",
+              "ImagePath": "AltairHandheldAsteroidScanningTool",
+              "Corp": 0,
+              "DescriptionShort": "<color=#fff>AC – ‘ASAT’ Scanner</color>\n(portable asteroid scanner)\n\n<color=#fff>Range:</color>\n300 m",
+              "DescriptionLong": "<color=#fff><size=26s>AC – ‘ASAT’ Scanner</size></color>\n\n‘ASAT’, Asteroid Scanning Assistance Tools was developed by HADES Foundation scientists per Altair Corporation specifications. It offers EVA operatives complete asteroid scanning capability in the field."
+            }
+          ]
+        },
+        {
+          "SubGroupName": "Utility",
+          "Items": [
+            {
+              "Name": "Small StimPack",
+              "ImagePath": "AltairMedpackSmall",
+              "Corp": 0,
+              "DescriptionShort": "<color=#fff>Small StimPack</color>\n\n<color=#fff>Recovery:</color>\nHealing rate: 10HP/s\nDuration: 3s",
+              "DescriptionLong": "<color=#fff><size=26s>Smal StimPack</size></color>\n\nStandard healing stim pack manufactured by HADES Foundation. Packed inside is a cocktail of painkillers and a small contingent of medical nanites that enhance blood coagulation.\n \nAlthough expensive and difficult to produce, stimpacks are often used by field personnel to treat more severe cases of lacerations, cuts and bruises."
+            },
+            {
+              "Name": "Advanced StimPack",
+              "ImagePath": "AltairMedpackBig",
+              "Corp": 0,
+              "DescriptionShort": "<color=#fff>Advanced StimPack</color>\n\n<color=#fff>Recovery:</color>\nHealing rate: 15HP/s\nDuration: 4s",
+              "DescriptionLong": "<color=#fff><size=26s>Advanced StimPack</size></color>\n\nLarger and more advanced stimpack designed for treating battlefield injuries. Advanced medical nanites are packed together with combat grade steroids and powerful painkillers.\n\nPart of SDS combat gear these stimpacks are often administered to treat gunshot and shrapnel wounds as well as severe burns. They are often enough to keep the soldier alive until the arrival of a full medical squad."
+            },
+            {
+              "Name": "Disposable Hacking Tool",
+              "ImagePath": "AltairDisposableHackingTool",
+              "Corp": 0,
+              "DescriptionShort": "<color=#fff>Disposable Hacking Tool</color>\n(disposable hacking tool)",
+              "DescriptionLong": "<color=#fff><size=26s>Disposable Hacking Tool</size></color>\n\nA hastily put together hacking device that short circuits and overloads the security interface and itself. Good for one hacking attempt."
+            },
+            {
+              "Name": "AC - Refined Resource Canister",
+              "ImagePath": "AltairRefinedResourceCanister",
+              "Corp": 0,
+              "DescriptionShort": "<color=#fff>Refined Resource Canister</color>\n(refined resource container)\n\n<color=#fff>Capacity:</color>\n100 units",
+              "DescriptionLong": "<color=#fff><size=26s>Refined Resource Canister</size></color>\n\nA standard AltCorp refined resource container.\n\nBased on the design of the G5p – Raw Resource Canister, the Refined container uses the same storrage principle. Internal separation system allows safe handling of any number of different resources."
+            },
+            {
+              "Name": "AC - Small Resource Container",
+              "ImagePath": "AltairResourceContainer",
+              "Corp": 0,
+              "DescriptionShort": "<color=#fff>Small Resource Container</color>\n(hand held resource canister)\n\n<color=#fff>Capacity:</color>\n5 units",
+              "DescriptionLong": "<color=#fff><size=26s>Small Resource Container</size></color>\n\nHand held resource container designed for field resupply.\n\n It can hold up to 5 units of Oxygen and Nitro."
+            },
+            {
+              "Name": "Welding Tool",
+              "ImagePath": "RepairTool",
+              "Corp": 0,
+              "DescriptionShort": "<color=#fff>Welding Tool</color>\n(portable welding tool)\n\n<color=#fff>Capacity:</color>\n80 units",
+              "DescriptionLong": "<color=#fff><size=26s>Welding Tool</size></color>\n\nA portable wedling tool designed for field duty.\n\n It can hold up to 80 units of Hydrogen fuel."
+            },
+            {
+              "Name": "Fire Extinguisher",
+              "ImagePath": "FireExtinguisher",
+              "Corp": 0,
+              "DescriptionShort": "<color=#fff>Fire Extinguisher</color>\n(portable fire extingusher)\n\n<color=#fff>Capacity:</color>\n20 units",
+              "DescriptionLong": "<color=#fff><size=26s>Fire Extinguisher</size></color>\n\nA portable fire extinguisher found on all stations.\n\n It can hold up to 20 units of Nitrogen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "GroupName": "Systems and Parts",
+      "SubGroups": [
+        {
+          "SubGroupName": "Life Support",
+          "Items": [
+            {
+                "Name": "Life Support System",
+                "ImagePath": "LifeSupport_general",
+                "Corp": 0,
+                "DescriptionShort": "<color=#fff>Life Support System</color>\n\n<color=#fff>Subsystems:</color>\nAir Generator\nAir Filter",
+                "DescriptionLong": "<color=#fff><size=26s>Life Support System</size></color>\n\nLife Support system regulates everything from atmospheric pressure and air quality to room temperature and humidity.\nIt comes equipped with an Air Tank that serves as compressed air storage for pressurizing/depressurizing rooms as well as two dedicated system tanks for storing Oxygen and Nitrogen.\nAll Life support systems have two sub-systems: Air Generator and Air Filter.\n\n<color=#fff>Subsystems:</color>\nAir Generator\nAir Filter"
+            },
+            {
+                "Name": "Air Generator",
+                "ImagePath": "AirGenerator_specific",
+                "Corp": 0,
+                "DescriptionShort": "<color=#fff>Air Generator</color>\n<color=#fff>Parts:</color>\nResource Injector\nServomotor",
+                "DescriptionLong": "<color=#fff><size=26s>Air Generator</size></color>\n\nAir Generator is an essential component of the Life Support system.\nIt consumes oxygen and nitrogen to generate air for the systems Air Tank.\n\n<color=#fff>Parts:</color>\nResource Injector\nServomotor"
+            },
+            {
+                "Name": "Air Filter",
+                "ImagePath": "LifeSupport_general",
+                "Corp": 0,
+                "DescriptionShort": "<color=#fff>Air Filter</color>\n<color=#fff>Parts:</color>\nServomotor\nCO2 Filter",
+                "DescriptionLong": "<color=#fff><size=26s>Air Filter</size></color>\n\nAir Filter is a complex system designed to remove and process CO2 and hazardous trace contaminants from the atmosphere.\nIt uses regenerative absorbers to collect CO2 from the atmosphere which is then routed through the Bosh reactor which separates it into O2 and elemental carbon.\n\nIn situations where CO2 filters are unavailable, the system will remove CO2 from the atmosphere and use Oxygen from the system tank to improve air quality.\n\n<color=#fff>Parts:</color>\nServomotor\nCO2 Filter"
+            }
+          ]
+        },
+        {
+          "SubGroupName": "Power Supply",
+          "Items": [
+            {
+                "Name": "Power Supply System",
+                "ImagePath": "PowerSupply_general",
+                "Corp": 0,
+                "DescriptionShort": "<color=#fff>Power Supply System</color>\n\n<color=#fff>Subsystems:</color>\nSolar Panels\nFusion Reactor\nCapacitor",
+                "DescriptionLong": "<color=#fff><size=26s>Power Supply System</size></color>\n\nPower Supply Systems are responsible for providing electrical energy to ships and stations. Main components of any power supply system include a power management interface, one or more power generators and one or more capacitors.\n\nPower management interface links all power consumers, generators and capacitors into a single system and allows complete control over the station’s power output and consumption.\n\n<color=#fff>Subsystems:</color>\nSolar Panels\nFusion Reactor\nCapacitor"
+            },
+            {
+                "Name": "Capacitor",
+                "ImagePath": "PowerSupply_general",
+                "Corp": 0,
+                "DescriptionShort": "<color=#fff>Capacitor</color>\n\n<color=#fff>Parts:</color>\nCore Containment",
+                "DescriptionLong": "<color=#fff><size=26s>Capacitor</size></color>\n\nOften paired with a fusion reactor, the capacitor acts as a battery and will store any excess power generated by Solar Panels and Fusion reactor. The system regulates all current properties based on the needs of individual systems and sub-systems throughout the ship or station.\n\n<color=#fff>Parts:</color>\nCore Containment"
+            },
+            {
+                "Name": "Solar Panels",
+                "ImagePath": "SolarPanels",
+                "Corp": 0,
+                "DescriptionShort": "<color=#fff>Solar Panels</color>\n\n<color=#fff>Parts:</color>\nCatalyst",
+                "DescriptionLong": "<color=#fff><size=26s>Solar Panels</size></color>\n\nOften used as a backup power system on ships and stations. Since they rely on sunlight to generate electricity, they represent a weak, but endless source of energy. Most ships are equipped with one or more solar panel arrays for situations where the main fusion reactor is offline.\n\nSince their efficiency depends on distance from the star as well as exposure they are less useful at outer planets and lower orbits, where they spend more time in the planet’s shadow.\n\n<color=#fff>Parts:</color>\nCatalyst"
+            },
+            {
+                "Name": "Fusion Reactor",
+                "ImagePath": "PowerSupply_general",
+                "Corp": 0,
+                "DescriptionShort": "<color=#fff>Fusion Reactor</color>\n\n<color=#fff>Parts:</color>\nResource Injector\nCatalyst",
+                "DescriptionLong": "<color=#fff><size=26s>Fusion Reactor</size></color>\n\nFusion reactors generate power by fusing Helium-3. Regardless of model differences all reactors of the Expedition use the same core operating principle. Helium-3 is kept in a state of super-hot plasma and contained inside a powerful magnetic field. A combination of magnetic compression, resistive heating and neutral-beam injection is used to ignite the plasma and create a self-sustaining fusion reaction. One part of the fusion energy is directly converted into electricity while the rest is trapped by the shielding system built into the thick reactor wall and converted into electricity using heat-transfer processes.\n\nFirst commercial hot fusion reactors were developed near the end of the 21st century to satisfy the needs of Earth’s growing orbital infrastructure. Since then the original design, based on ITER and Tokamak facilities, improved considerably. Older designs ran on hydrogen isotopes deuterium and tritium, while the new and more advanced models rely on Helium-3.\n\nThe unusual abundance of Helium-3 in the Hellion system and better fusion properties made it a natural choice for all Expedition reactors.\n\n<color=#fff>Parts:</color>\nResource Injector\nCatalyst"
+            }
+          ]
+        },
+        {
+          "SubGroupName": "Propulsion",
+          "Items": [
+            {
+                "Name": "RCS",
+                "ImagePath": "rcs",
+                "Corp": 0,
+                "DescriptionShort": "<color=#fff>RCS</color>\n\n<color=#fff>Parts:</color>\nResource injector",
+                "DescriptionLong": "<color=#fff><size=26s>RCS</size></color>\n\nReaction Control Systems or RCS for short, have been used by space vehicles for over three centuries. While the propulsion technology may have advanced to allow for faster than light travel, RCS remained largely unchanged. Its main purpose is to provide fine maneuvering control during docking maneuvers and short distance trips.\n\nRCS uses monopropellant fuel in the form of nitrous oxide, also known as nitro. Since nitrates are easy to obtain in Hellion, it is a cheap and plentiful fuel source. Due to its innate properties like self-pressurization and low toxicity (compared to its predecessors) it is used in both ship and suit systems."
+            },
+            {
+              "Name": "Warp Drive",
+              "ImagePath": "Warp_drive_system",
+              "Corp": 0,
+              "DescriptionShort": "<color=#fff>Warp Drive</color>\n(long distance travel)\n\n<color=#fff>Speed:</color>\nN/A\n\n<color=#fff>Fuel:</color>\nWarp Cells\n\n<color=#fff>Parts:</color>\nSingularity Cell Detonator",
+              "DescriptionLong": "<color=#fff><size=26s>Warp Drive</size></color>\n\nLoosely based on the works of 21st century scientists, warp drive creates a bubble of warped space time that extends behind the vessel and contracts in front of it, using this anomaly to propel the ship. One of the largest obstacles was the sheer quantity of “exotic matter” also known as negative energy, required to generate the field for even small objects.\n\nThe solution came in the form of Casimir effect, but application of the technology had to wait for advancements in nano engineering. First warp drives relied on using massive and extremely bulky “Casimir spheres” that contained millions of concentric layers made out of super-conductive materials and separated by only a few micrometers. When a powerful electrical charge was delivered the layers would shrink and negative pressure would start building between the plates. If a vessel was very close to a powerful gravitational field that already curved space-time, like that of a massive planet, negative energy was sufficient to propel a small ship into warp. This method however, only worked reliably on small vessels and could not be used for massive ships. \n\nTo solve this problem “Daedalus”, the Expedition flagship, was designed to house a massive “Kugelblitz” drive. Millions of high energy lasers were used to focus 65 years worth of fusion energy into a single point, creating energy density sufficient to create a micro-singularity. Combination of singularity and warp drive was sufficient to soften the local fabric of space-time enough to propel Daedalus into warp, albeit at lower speed. \n\nThis principle also allows nearby ships to use much smaller Casimir spheres also known as “Warp Cells” to easily achieve warp within a several AU radius from the ship."
+            }
+          ]
+        },
+        {
+          "SubGroupName": "Parts",
+          "Items": [
+            {
+                "Name": "Resource Injector",
+                "ImagePath": "ResourceInjector",
+                "Corp": 0,
+                "DescriptionShort": "<color=#fff>Resource Injector</color>\n(reduces resource consumption)\n\n<color=#fff>Tiers: </color>4\n\n<color=#fff>Systems:</color>\nAir Generator\nFusion Reactor\nRCS",
+                "DescriptionLong": "<color=#fff><size=26s>Resource Injector</size></color>\n\nDedicated Resource Injectors serve to reduce resource consumption of any system they are attached to. These units monitor and adjust the flow of resources based on system’s current output, greatly improving its efficiency.\n\n<color=#fff>Tiers:</color>4\n\n<color=#fff>Systems:</color>\nAir Generator\nFusion Reactor\nRCS"
+            },
+            {
+                "Name": "Servomotor",
+                "ImagePath": "ServoMotor",
+                "Corp": 0,
+                "DescriptionShort": "<color=#fff>Servomotor</color>\n(reduces power consumption)\n\n<color=#fff>Tiers: </color>4\n\n<color=#fff>Systems:</color>\nAir Generator\nAir Filter\nRefinery\nFabricator",
+                "DescriptionLong": "<color=#fff><size=26s>Servomotor</size></color>\n\nAuxiliary servomotors are often used in large systems with high power requirements. These high performance units are powered by residual electric currents, greatly improving the system’s power efficiency.\n\n<color=#fff>Tiers:</color>4\n\n<color=#fff>Systems:</color>\nAir Generator\nAir Filter\nRefinery\nFabricator"
+            },
+            {
+                "Name": "Air Processing Controller",
+                "ImagePath": "AirProcessingController",
+                "Corp": 0,
+                "DescriptionShort": "<color=#fff>Air Processing Controller</color>\n(regulates air filtration)\n\n<color=#fff>Systems:</color>\nAir Filter – consumption",
+                "DescriptionLong": "<color=#fff><size=26s>Air Processing Controller</size></color>\n\nAir Processing Controller regulates the efficiency of the Air Filter subsystem, reducing oxygen consumption."
+            },
+            {
+                "Name": "CO2 Filter",
+                "ImagePath": "CarbonFilters",
+                "Corp": 0,
+                "DescriptionShort": "<color=#fff>CO2 Filter</color>\n(Eliminates oxygen consumption)\n\n<color=#fff>Tiers: </color>4\n\n<color=#fff>Systems:</color>\nAir Filter",
+                "DescriptionLong": "<color=#fff><size=26s>CO2 Filter</size></color>\n\nCO2 filters represent an essential part of any Air Filtration system. Their purpose is twofold: to serve as the catalyst for the Bosh reaction taking place inside the Air filter and to store solid Carbon waste that accumulates as a byproduct.\n\nCarbon filters are slowly consumed during the air filtration process and need to be replaced once depleted.\n\n<color=#fff>Tiers:</color>4\n\n<color=#fff>Systems:</color>\nAir Filter"
+            },
+            {
+                "Name": "EM Field Controller",
+                "ImagePath": "EMFieldController",
+                "Corp": 0,
+                "DescriptionShort": "<color=#fff>EM Field Controller</color>\n(Affects powerup time of fusion reactor)\n\n<color=#fff>Systems:</color>\nFusion Reactor – Powerup time",
+                "DescriptionLong": "<color=#fff><size=26s>EM Field Controller</size></color>\n\nEM Field controllers are an important part of any fusion reactor as they regulate the intensity of the magnetic field that keeps plasma contained. They directly affect the time it takes a fusion reactor to achieve optimal fusion conditions."
+            },
+            {
+                "Name": "Catalyst",
+                "ImagePath": "ThermonuclearCatalyst",
+                "Corp": 0,
+                "DescriptionShort": "<color=#fff>Catalyst</color>\n(improves power output)\n\n<color=#fff>Tiers: </color>4\n\n<color=#fff>Systems:</color>\nSolar Panels\nFusion Reactor",
+                "DescriptionLong": "<color=#fff><size=26s>Catalyst</size></color>\n\nCatalysts improve the output of any power generator system. These state of the art processors minimise losses due to inefficiency by carefully monitoring and adjusting the electric currents within solar panels and fusion reactors.\n\n<color=#fff>Tiers:</color>4\n\n<color=#fff>Systems:</color>\nSolar Panels\nFusion Reactor"
+            },
+            {
+                "Name": "Core Containment",
+                "ImagePath": "CoreContainmentFieldGenerator",
+                "Corp": 0,
+                "DescriptionShort": "<color=#fff>Core Containment</color>\n(increases capacitor storage)\n\n<color=#fff>Tiers: </color>4\n\n<color=#fff>Systems:</color>\nCapacitor",
+                "DescriptionLong": "<color=#fff><size=26s>Core Containment</size></color>\n\nThese auxiliary core containment units improve capacitor’s maximum storage potential. As such they are often found in ship fusion reactors and dedicated power supply modules.\n\n<color=#fff>Tiers:</color>4\n\n<color=#fff>Systems:</color>\nCapacitor"
+            },
+            {
+                "Name": "Singularity Cell Detonator",
+                "ImagePath": "SingularityCellDetonator",
+                "Corp": 0,
+                "DescriptionShort": "<color=#fff>Singularity Cell Detonator</color>\\n(unlocks additional warp options)\n\n<color=#fff>Tiers: </color>2\n\n<color=#fff>Systems:</color>\nWarp Drive",
+                "DescriptionLong": "<color=#fff><size=26s>Singularity Cell Detonator</size></color>\n\nSingularity Cell Detonators are highly advanced systems designed to stabilize the negative energy output of the ship’s Warp Drive. This allows the generation of a stronger and longer lasting warp field, directly improving the warp drive speed and warp cell consumption.\n\n<color=#fff>Tiers:</color>2\\n\\n<color=#fff>Systems:</color>\nWarp Drive"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "GroupName": "Modules and Ships",
+      "SubGroups": [
+        {
+          "SubGroupName": "Ships",
+          "Items": [
+            {
+                "Name": "AC - Arges MkII [AC-ARG]",
+                "ImagePath": "Altair_Shuttle01",
+                "Corp": 0,
+                "DescriptionShort": "<color=#fff>AC - Arges MkII [AC-ARG]</color>\n(multipurpose industrial ship)",
+                "DescriptionLong": "<color=#fff><size=26s>AC - Arges MkII</size></color>\n\nOriginally designed as a Skyline drop-ship/troop transport, Arges never saw much use in SDS military operations. Oversized engines, high fuel consumption and large frame led to SDS only producing a handful of these vessels, before abandoning the project in favor of new and more flexible designs. Eventually the design and several models were sold to Altair Corporation that was at the time looking for a new workhorse for their industrial fleet.\nAC engineers repurposed the ship and turned it into a multi-role utility vehicle. Ship’s mechanized infantry bay was turned into storage space. Drop pod launchers were removed making room for a state of the art drilling system. Rear countermeasure launcher was replaced with a grappling system, capitalizing on the power of the ship's twin engine system. Finally existing weapons were stripped in favor of atmospheric harvesters and a basic warp drive was added in place of the now obsolete gunnery control.\nThe design finally entered AltCorp service as \"Arges MkII\".\nSince its first debut, Arges has gone through multiple changes and improvements over the course of its long service, making it the most heavily modified and upgraded design in AltCorp's history. Its current iteration dubbed MkII H was specifically modified for the needs of the Expedition project and makes up the bulk of Altair Corporation's industrial fleet in Hellion.\n"
+            }
+          ]
+        },
+        {
+          "SubGroupName": "Modules",
+            "Items": [
+                {
+                    "Name": "AC - Hibernation module MkII",
+                    "ImagePath": "_0005_AltCorp_StartingModule",
+                    "Corp": 0,
+                    "DescriptionShort": "<color=#fff>AC - Hibernation module MkII</color>\n(self-sufficient lifeboat)\n\n<color=#fff>Systems</color>\nLife Support\nSolar Panels \nCargo\nCryochambers: 2",
+                    "DescriptionLong": "<color=#fff><size=26s>AC - Hibernation module MkII</size></color>\n\nNot much is known about the Hibernation module aside from its obvious functions. The module’s architecture and systems are consistent with the trademarks of the Altair Corporation but the module doesn’t exist in any of the company’s databases. Its construction implies that it was designed as a life boat for some kind of emergency, but why Altair Corporation would choose to build a new emergency module instead of using one of its proven designs is unknown. Irregularities are also present in the construction of the cryochambers. Several key components of the life support interface, designed to monitor and preserve the occupants neural functions, are not of AltCorp make and bear some resemblance to the designs used by the HADES Foundation.\n\nThe module itself serves as a self-sufficient life boat. It has a single solar power array that powers all of its systems, a full life support system, two cryochambers and a small scale cargo and refining system. On its own with a fully stocked cargo hold, the module could sustain two hibernating people almost indefinitely."
+                },
+                {
+                    "Name": "Life Support Module [LSM-AC]",
+                    "ImagePath": "_0007_AltCorp_LifeSupportModule",
+                    "Corp": 0,
+                    "DescriptionShort": "<color=#fff>Life Support Module [LSM-AC]</color>\n(dedicated station life support)\n\n<color=#fff>Systems:</color>\nLife Support\nCryochambers : 4",
+                    "DescriptionLong": "<color=#fff><size=26s>Life Support Module [LSM-AC]</size></color>\n\nThe Altair Corporation Life Support Module is a dedicate atmosphere generation and purification system. It is fully capable of supporting up to 9 active personnel and comes equipped with 4 cryochambers in case of emergency.\n\nDesign first entered AltCorp service during the construction of “Daedalus”, the Expedition flagship. Standard systems designed for large orbital habitats or small ships, proved too inflexible for a project of this magnitude. Small “dedicated” systems that could be deployed and reconfigured in the field significantly improved responsiveness of AltCorp personnel allowing them to finish multiple projects ahead of schedule."
+                },
+                {
+                    "Name": "Command Module [CM-AC]",
+                    "ImagePath": "_0015_AltCorp_Command_Module",
+                    "Corp": 0,
+                    "DescriptionShort": "<color=#fff>Command Module [CM-AC]</color>\n(Dedicated Security System)\n\n<color=#fff>Systems:</color>\nSecurity",
+                    "DescriptionLong": "<color=#fff><size=26s>Command Module [CM-AC]</size></color>\n\nA dedicated command and control system, the command module comes equipped with all standard security protocols and is fully equipped to handle military grade systems such as the SDS ‘Trident’ sentry gun.\n\nCommand modules will also transfer their existing security protocols and authorized personnel list to any docked modules."
+                },
+                {
+                    "Name": "Power Supply Module [PSM-AC]",
+                    "ImagePath": "_0006_AltCorp_PowerSupply_Module",
+                    "Corp": 0,
+                    "DescriptionShort": "<color=#fff>Power Supply Module [PSM-AC]</color>\n\nSystems:\nFusion Reactor",
+                    "DescriptionLong": "<color=#fff><size=26s>Power Supply Module [PSM-AC]</size></color>\n\nPower Supply module is a dedicated power production unit intended for deep space mining and construction operations. It is often deployed in far out sectors where distance makes use of solar panels impractical.\n\nAltair Corporation’s power supply modules are equipped with industrial grade fusion reactors that produce electrical energy using Helium-3. Due to the abundance of Helium-3 AltCorp reactors can be deployed at almost any location as they require minimal support infrastructure."
+                },
+                {
+                    "Name": "Cargo Bay Module [CBM-AC]",
+                    "ImagePath": "_0016_AltCorp_Cargo_Module",
+                    "Corp": 0,
+                    "DescriptionShort": "<color=#fff>Cargo Bay Module [CBM-AC]</color>\n(refining and storage)\n\n<color=#fff>Storrage:</color>\nRaw: 20.000\nRefined: 10.000",
+                    "DescriptionLong": "<color=#fff><size=26s>Cargo Bay Module [CBM-AC]</size></color>\n\nAltair Corporation’s Cargo Modules are designed to hold large quantities of raw resources while also acting as dedicated refineries. Each Cargo Module can refine and produce a full range of resources used by other AltCorp modules and ships.\n\nSince loading and unloading cargo between ships and vessels is often done in full zero-g, the central cargo area was designed to operate in complete vacuum. Although it can be pressurized, this is not considered standard practice. For this reason each Cargo Module comes equipped with a built in Airlock system that serves as a connection to the rest of the station."
+                },
+                {
+                    "Name": "Corridor Modules [CIM,CLM,CRM,CTM,CSM]",
+                    "ImagePath": "_0011_AltCorp_CorridorModule",
+                    "Corp": 0,
+                    "DescriptionShort": "<color=#fff>Corridor Modules [CIM,CLM,CRM,CTM,CSM]</color>\n\n<color=#fff>Types:</color>\nStraight\nIntersection\nVertical\nL/R Turn",
+                    "DescriptionLong": "<color=#fff><size=26s>Corridor Modules [CIM,CLM,CRM,CTM,CSM]</size></color>\n\nStandard corridor sections used to connect station modules. All corridors are equipped with a set of universal docking ports compatible with all Altair Corporation modules and ships."
+                },
+                {
+                    "Name": "Airlock Module [AM-AC]",
+                    "ImagePath": "_0017_AltCorp_AirLock",
+                    "Corp": 0,
+                    "DescriptionShort": "<color=#fff>Airlock Module [AM-AC]</color>",
+                    "DescriptionLong": "<color=#fff><size=26s>Airlock Module [AM-AC]</size></color>\n\nA standard airlock module designed to provide safe exit/entry point for all Altair Corporation stations. It is equipped with a standard docking port and an airlock docking port that is compatible with ship mounted airlocks.\n\nAIrlock module requires a working Life Support system to operate."
+                },
+                {
+                    "Name": "Industrial Container [IC-AC]",
+                    "ImagePath": "",
+                    "Corp": 0,
+                    "DescriptionShort": "<color=#fff>Industrial Container [IC-AC]</color>",
+                    "DescriptionLong": "<color=#fff><size=26s>Industrial Container [IC-AC]</size></color>\n\nAltair Corporation Industrial Containers are dedicated storage units that can be attached to the Cargo Bay Modules via external docking ports."
+                },
+                {
+                    "Name": "Solar Power Module [SPM-AC]",
+                    "ImagePath": "",
+                    "Corp": 0,
+                    "DescriptionShort": "<color=#fff>Solar Power Module [SPM-AC]</color>",
+                    "DescriptionLong": "<color=#fff><size=26s>Solar Power Module [SPM-AC]</size></color>\n\nAltair Corporation’s Solar Power Modules are in fact repurposed corridors that double up as power generators. They are often deployed on stations with low power requirements and in zones with good sun exposure."
+                },
+                {
+                    "Name": "Fabricator Module [FM-AC]",
+                    "ImagePath": "glossery_fabricator_module",
+                    "Corp": 0,
+                    "DescriptionShort": "<color=#fff>Fabricator Module [FM-AC]</color>",
+                    "DescriptionLong": "<color=#fff><size=26s>Fabricator Module [FM-AC]</size></color>\n\nAltair Corporation Fabricator Module is a small scale manufacturing system designed for field operations. Despite their small size these Fabricators can manufacture any piece of equipment found in AltCorp’s databases.\n\nEach module comes equipped with a large storage space, integrated cargo hold and a dedicated Recycling Unit for breaking down any unneeded items and scrap components."
+                }
+            ]
+        }
+      ]
+    },
+    {
+        "GroupName": "Lore and History",
+        "SubGroups": [
+            {
+                "SubGroupName": "Altair Corporation",
+                "Items": [
+                    {
+                        "Name": "Altair Corporation",
+                        "ImagePath": "Altair_Corporation_Graphics",
+                        "Corp": 0,
+                        "DescriptionShort": "<color=#fff>Altair Corporation</color>\n(AltCorp)",
+                        "DescriptionLong": "<color=#fff><size=26s>Altair Corporation</size></color>\n\nOne of the first major factions to call space home. Altair Corporation is a political conglomerate comprised of many smaller entities. It has its own set of rules, laws and political agendas. AltCorp's major defining feature is heavy duty space engineering and their ships, stations and equipment reflect this. All members of AltCorp know that space is dangerous, therefore their equipment is purposefully made and built to last with very little concern for aesthetics in all departments except recreation. Their crew quarters and recreational facilities stand in sharp contrast to the rest of their design philosophy, conveying a sense of ease, belonging and comfort. Members of the AltCorp regardless of their expertise take much pride in their work and always prefer to live life to the fullest, consuming everything space has to offer which is often mistaken by outsiders as reckless or outright suicidal. This attitude and wide spread disregard for regulations gave them the reputation of \"daredevils\" and \"thrill seekers\" by other factions and UNE officials."
+                    }
+                ]
+            },
+            {
+                "SubGroupName": "Hellion System Map",
+                "Items": [
+                    {
+                        "Name": "Hellion System Map",
+                        "ImagePath": "SolarSystemMap",
+                        "Corp": 0,
+                        "DescriptionShort": "<color=#fff>Hellion System map</color>\n(Hellion zone distribution Map)",
+                        "DescriptionLong": "<color=#fff><size=26s>Hellion System map</size></color>\n\nA basic map detailing the location of former civillian, industrial and military zones throughout the Hellion system."
+                    }
+                ]
+            }
+        ]
+    }
+  ]
+}

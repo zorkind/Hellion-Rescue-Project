@@ -1,0 +1,312 @@
+[
+  {
+    "Version": "0.3",
+    "Name": "Fort Bellerophon",
+    "Invulnerable": false,
+    "SecurityPanelsLocked": true,
+    "SystemsOnline": false,
+    "DoorsLocked": false,
+    "HealthMultiplier": 0.5,
+    "DockingControlsDisabled": true,
+    "AirPressure": 0,
+    "AirQuality": 0,
+    "LocalAngularVelocity": [
+      0.1,
+      0.5,
+      0.1
+    ],
+    "AutoStabilizationDisabled": true,
+    "Structures": [
+      {
+        "StructureID": 0,
+        "StructureType": "Generic_Debris_Corridor001",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.5,
+        "DockingControlsDisabled": true,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 1,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 1,
+        "StructureType": "SPM",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.85,
+        "DockingControlsDisabled": true,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 0,
+            "Locked": true
+          },
+          {
+            "OrderID": 2,
+            "DockedStructureID": 2,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 2,
+        "StructureType": "SPM",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.77,
+        "DockingControlsDisabled": true,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 1,
+            "Locked": true
+          },
+          {
+            "OrderID": 2,
+            "DockedStructureID": 3,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 3,
+        "StructureType": "AltCorp_Secure_Module",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.62,
+        "DockingControlsDisabled": true,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 4,
+            "Locked": true
+          },
+          {
+            "OrderID": 2,
+            "DockedStructureID": 5,
+            "Locked": true
+          },
+          {
+            "OrderID": 3,
+            "DockedStructureID": 9,
+            "Locked": true
+          },
+          {
+            "OrderID": 4,
+            "DockedStructureID": 2,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 4,
+        "StructureType": "Generic_Debris_Corridor001",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.52,
+        "DockingControlsDisabled": true,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 3,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 5,
+        "StructureType": "AltCorp_CorridorIntersection_MKII",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.56,
+        "DockingControlsDisabled": true,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 3,
+            "Locked": true
+          },
+          {
+            "OrderID": 2,
+            "DockedStructureID": 6,
+            "Locked": true
+          },
+          {
+            "OrderID": 3,
+            "DockedStructureID": 8,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 6,
+        "StructureType": "AlrCorp_Corridor_MKII",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.41,
+        "DockingControlsDisabled": true,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 5,
+            "Locked": true
+          },
+          {
+            "OrderID": 2,
+            "DockedStructureID": 7,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 7,
+        "StructureType": "CQM",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.78,
+        "DockingControlsDisabled": true,
+        "Tag": "Bellerophon1",
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 6,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 8,
+        "StructureType": "Generic_Debris_Corridor001",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.22,
+        "DockingControlsDisabled": true,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 5,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 9,
+        "StructureType": "AltCorp_CorridorIntersection_MKII",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.34,
+        "DockingControlsDisabled": true,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 3,
+            "Locked": true
+          },
+          {
+            "OrderID": 2,
+            "DockedStructureID": 12,
+            "Locked": true
+          },
+          {
+            "OrderID": 3,
+            "DockedStructureID": 10,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 10,
+        "StructureType": "PSM",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.88,
+        "DockingControlsDisabled": true,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 9,
+            "Locked": true
+          },
+          {
+            "OrderID": 2,
+            "DockedStructureID": 11,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 11,
+        "StructureType": "Generic_Debris_Corridor001",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.62,
+        "DockingControlsDisabled": true,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 10,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 12,
+        "StructureType": "Generic_Debris_Corridor001",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.74,
+        "DockingControlsDisabled": true,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 9,
+            "Locked": true
+          }
+        ]
+      }
+    ]
+  }
+]

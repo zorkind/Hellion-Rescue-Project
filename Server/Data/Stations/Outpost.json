@@ -1,0 +1,183 @@
+[
+  {
+    "Version": "0.3",
+    "Name": "Haven",
+    "Invulnerable": false,
+    "SystemsOnline": false,
+    "DoorsLocked": false,
+    "HealthMultiplier": 0.5,
+    "DockingControlsDisabled": false,
+    "AirPressure": 0,
+    "AirQuality": 0,
+    "Structures": [
+      {
+        "StructureID": 1,
+        "StructureType": "AltCorp_StartingModule",
+        "Invulnerable": false,
+        "SystemsOnline": false,
+        "DoorsLocked": false,
+        "Tag": "StartingScene",
+        "HealthMultiplier": 0.5,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": []
+      }
+    ]
+  },
+  {
+    "Version": "0.3",
+    "Name": "Airlock",
+    "Structures": [
+      {
+        "StructureID": 0,
+        "StructureType": "AltCorp_AirLock",
+        "Invulnerable": false,
+        "SystemsOnline": false,
+        "DoorsLocked": false,
+        "Tag": "StartingScene",
+        "HealthMultiplier": 0.5,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": []
+      }
+    ],
+    "LocalPosition": [
+      5.5,
+      0,
+      39
+    ],
+    "LocalRotation": [
+      0,
+      0,
+      180
+    ],
+    "Invulnerable": false,
+    "SystemsOnline": false,
+    "DoorsLocked": false,
+    "HealthMultiplier": 0.5,
+    "DockingControlsDisabled": false,
+    "AirPressure": 0,
+    "AirQuality": 0
+  },
+  {
+    "Version": "0.3",
+    "Name": "Fabricator",
+    "LocalPosition": [
+      2018,
+      1011,
+      567
+    ],
+    "LocalRotation": [
+      33,
+      12,
+      95
+    ],
+    "Invulnerable": false,
+    "SystemsOnline": false,
+    "DoorsLocked": false,
+    "HealthMultiplier": 0.5,
+    "DockingControlsDisabled": false,
+    "AirPressure": 0,
+    "AirQuality": 0,
+    "Structures": [
+      {
+        "StructureID": 0,
+        "StructureType": "AltCorp_FabricatorModule",
+        "Invulnerable": false,
+        "SystemsOnline": false,
+        "DoorsLocked": false,
+        "Tag": "StartingScene",
+        "HealthMultiplier": 0.5,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": []
+      }
+    ]
+  },
+  {
+    "Version": "0.3",
+    "Name": "Derelict Corridor",
+    "Tag": "StartingScene",
+    "LocalPosition": [
+      2238,
+      1111,
+      567
+    ],
+    "LocalRotation": [
+      33,
+      12,
+      95
+    ],
+    "LocalAngularVelocity": [
+      0.5,
+      0.9,
+      1.1
+    ],
+    "Invulnerable": false,
+    "SystemsOnline": false,
+    "DoorsLocked": false,
+    "HealthMultiplier": 0.5,
+    "DockingControlsDisabled": false,
+    "AirPressure": 0,
+    "AirQuality": 0,
+    "Structures": [
+      {
+        "StructureID": 0,
+        "StructureType": "Generic_Debris_Corridor001",
+        "Invulnerable": false,
+        "SystemsOnline": false,
+        "DoorsLocked": false,
+        "Tag": "StartingScene5",
+        "HealthMultiplier": 0.8,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": []
+      }
+    ]
+  },
+  {
+    "Version": "0.3",
+    "Name": "Steropes Wreckage",
+    "LocalPosition": [
+      3172,
+      811,
+      464
+    ],
+    "LocalRotation": [
+      13,
+      42,
+      25
+    ],
+    "LocalAngularVelocity": [
+      1.5,
+      0.7,
+      0.8
+    ],
+    "Invulnerable": false,
+    "SystemsOnline": false,
+    "DoorsLocked": false,
+    "HealthMultiplier": 0.5,
+    "DockingControlsDisabled": false,
+    "AirPressure": 0,
+    "AirQuality": 0,
+    "Structures": [
+      {
+        "StructureID": 0,
+        "StructureType": "AltCorp_Destroyed_Shuttle_CECA",
+        "Invulnerable": false,
+        "SystemsOnline": false,
+        "DoorsLocked": false,
+        "Tag": "StartingScene;StartingScene4",
+        "HealthMultiplier": 0.9,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": []
+      }
+    ]
+  }
+]

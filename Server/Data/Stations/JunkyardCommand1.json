@@ -1,0 +1,417 @@
+[
+  {
+    "Version": "0.3",
+    "Name": "",
+    "Invulnerable": false,
+    "SystemsOnline": true,
+    "DoorsLocked": true,
+    "HealthMultiplier": 0.5,
+    "DockingControlsDisabled": false,
+    "AirPressure": 0,
+    "AirQuality": 0,
+    "LocalAngularVelocity": [
+      0.4,
+      0.7,
+      0.9
+    ],
+	"AutoStabilizationDisabled": true,
+    "Structures": [
+      {
+        "StructureID": 0,
+        "StructureType": "Generic_Debris_Corridor001",
+        "Invulnerable": false,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.5,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 1,
+            "Locked": false
+          }
+        ]
+      },
+      {
+        "StructureID": 1,
+        "StructureType": "Generic_Debris_JuncRoom001",
+        "Invulnerable": false,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.5,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 0,
+            "Locked": false
+          },
+          {
+            "OrderID": 2,
+            "DockedStructureID": 2,
+            "Locked": false
+          }
+        ]
+      },
+      {
+        "StructureID": 2,
+        "StructureType": "CM",
+        "Invulnerable": false,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.5,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 1,
+            "Locked": false
+          },
+          {
+            "OrderID": 2,
+            "DockedStructureID": 3,
+            "Locked": false
+          },
+          {
+            "OrderID": 3,
+            "DockedStructureID": 5,
+            "Locked": false
+          },
+          {
+            "OrderID": 4,
+            "DockedStructureID": 4,
+            "Locked": false
+          }
+        ]
+      },
+      {
+        "StructureID": 3,
+        "StructureType": "SPM",
+        "Invulnerable": false,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.5,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 2,
+            "Locked": false
+          }
+        ]
+      },
+      {
+        "StructureID": 4,
+        "StructureType": "Generic_Debris_Corridor001",
+        "Invulnerable": false,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.5,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 2,
+            "Locked": false
+          }
+        ]
+      },
+      {
+        "StructureID": 5,
+        "StructureType": "CIM",
+        "Invulnerable": false,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.5,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 2,
+            "Locked": false
+          },
+          {
+            "OrderID": 2,
+            "DockedStructureID": 6,
+            "Locked": false
+          }
+        ]
+      },
+      {
+        "StructureID": 6,
+        "StructureType": "SPM",
+        "Invulnerable": false,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.5,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 5,
+            "Locked": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Version": "0.3",
+    "Name": "Damaged Command Section",
+    "Invulnerable": false,
+    "SystemsOnline": true,
+    "DoorsLocked": true,
+    "HealthMultiplier": 0.5,
+    "DockingControlsDisabled": false,
+    "AirPressure": 0,
+    "AirQuality": 0,
+    "LocalPosition": [
+      -1322,
+      -2358,
+      2566
+    ],
+    "LocalRotation": [
+      15,
+      30,
+      90
+    ],
+    "LocalAngularVelocity": [
+      1.5,
+      0.5,
+      0.5
+    ],
+	"AutoStabilizationDisabled": true,
+    "Structures": [
+      {
+        "StructureID": 0,
+        "StructureType": "Generic_Debris_Corridor001",
+        "Invulnerable": false,
+        "SystemsOnline": true,
+        "DoorsLocked": false,
+        "HealthMultiplier": 0.5,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 1,
+            "Locked": false
+          }
+        ]
+      },
+      {
+        "StructureID": 1,
+        "StructureType": "SPM",
+        "Invulnerable": false,
+        "SystemsOnline": true,
+        "DoorsLocked": false,
+        "HealthMultiplier": 0.5,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 0,
+            "Locked": false
+          },
+          {
+            "OrderID": 2,
+            "DockedStructureID": 2,
+            "Locked": false
+          }
+        ]
+      },
+      {
+        "StructureID": 2,
+        "StructureType": "CRM",
+        "Invulnerable": false,
+        "SystemsOnline": true,
+        "DoorsLocked": false,
+        "HealthMultiplier": 0.5,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 1,
+            "Locked": false
+          },
+          {
+            "OrderID": 2,
+            "DockedStructureID": 3,
+            "Locked": false
+          }
+        ]
+      },
+      {
+        "StructureID": 3,
+        "StructureType": "Generic_Debris_JuncRoom002",
+        "Invulnerable": false,
+        "SystemsOnline": true,
+        "DoorsLocked": false,
+        "HealthMultiplier": 0.5,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 2,
+            "Locked": false
+          },
+          {
+            "OrderID": 2,
+            "DockedStructureID": 4,
+            "Locked": false
+          }
+        ]
+      },
+      {
+        "StructureID": 4,
+        "StructureType": "Generic_Debris_Corridor001",
+        "Invulnerable": false,
+        "SystemsOnline": true,
+        "DoorsLocked": false,
+        "HealthMultiplier": 0.5,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 3,
+            "Locked": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Version": "0.3",
+    "Name": "Ruined Command Section",
+    "Invulnerable": false,
+    "SystemsOnline": true,
+    "DoorsLocked": true,
+    "HealthMultiplier": 0.5,
+    "DockingControlsDisabled": false,
+    "AirPressure": 0,
+    "AirQuality": 0,
+    "LocalPosition": [
+      -2322,
+      2958,
+      -1566
+    ],
+    "LocalRotation": [
+      15,
+      30,
+      90
+    ],
+    "LocalAngularVelocity": [
+      0.6,
+      0.4,
+      1.5
+    ],
+	"AutoStabilizationDisabled": true,
+    "Structures": [
+      {
+        "StructureID": 0,
+        "StructureType": "Generic_Debris_Corridor001",
+        "Invulnerable": false,
+        "SystemsOnline": true,
+        "DoorsLocked": false,
+        "HealthMultiplier": 0.5,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 1,
+            "Locked": false
+          }
+        ]
+      },
+      {
+        "StructureID": 1,
+        "StructureType": "Generic_Debris_JuncRoom001",
+        "Invulnerable": false,
+        "SystemsOnline": true,
+        "DoorsLocked": false,
+        "HealthMultiplier": 0.5,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 0,
+            "Locked": false
+          },
+          {
+            "OrderID": 2,
+            "DockedStructureID": 2,
+            "Locked": false
+          }
+        ]
+      },
+      {
+        "StructureID": 2,
+        "StructureType": "CLM",
+        "Invulnerable": false,
+        "SystemsOnline": true,
+        "DoorsLocked": false,
+        "HealthMultiplier": 0.5,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 1,
+            "Locked": false
+          },
+          {
+            "OrderID": 2,
+            "DockedStructureID": 3,
+            "Locked": false
+          }
+        ]
+      },
+      {
+        "StructureID": 3,
+        "StructureType": "AM",
+        "Invulnerable": false,
+        "SystemsOnline": true,
+        "DoorsLocked": false,
+        "HealthMultiplier": 0.5,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 2,
+            "DockedStructureID": 2,
+            "Locked": false
+          }
+        ]
+      }
+    ]
+  }
+]

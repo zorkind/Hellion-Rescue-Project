@@ -1,0 +1,189 @@
+{
+  "Version": "0.3",
+  "Name": "",
+  "Invulnerable": true,
+  "SystemsOnline": true,
+  "DoorsLocked": false,
+  "HealthMultiplier": 0.5,
+  "DockingControlsDisabled": true,
+  "AirPressure": 0,
+  "AirQuality": 0,
+  "Structures": [
+    {
+      "StructureID": 0,
+      "StructureType": "CBM",
+      "Invulnerable": true,
+      "SystemsOnline": true,
+      "DoorsLocked": false,
+      "HealthMultiplier": 0.5,
+      "DockingControlsDisabled": true,
+      "Tag": "KnossosT5",
+      "AirPressure": 0,
+      "AirQuality": 0,
+      "DockingPorts": [
+        {
+          "OrderID": 1,
+          "DockedStructureID": 1,
+          "Locked": true
+        }
+      ]
+    },
+    {
+      "StructureID": 1,
+      "StructureType": "CTM",
+      "Invulnerable": true,
+      "SystemsOnline": true,
+      "DoorsLocked": false,
+      "HealthMultiplier": 0.5,
+      "DockingControlsDisabled": true,
+      "AirPressure": 0,
+      "AirQuality": 0,
+      "DockingPorts": [
+        {
+          "OrderID": 3,
+          "DockedStructureID": 0,
+          "Locked": true
+        },
+        {
+          "OrderID": 1,
+          "DockedStructureID": 2,
+          "Locked": true
+        },
+        {
+          "OrderID": 2,
+          "DockedStructureID": 3,
+          "Locked": true
+        }
+      ]
+    },
+    {
+      "StructureID": 2,
+      "StructureType": "FM",
+      "Invulnerable": true,
+      "SystemsOnline": true,
+      "DoorsLocked": false,
+      "HealthMultiplier": 0.5,
+      "DockingControlsDisabled": true,
+      "AirPressure": 0,
+      "AirQuality": 0,
+      "DockingPorts": [
+        {
+          "OrderID": 1,
+          "DockedStructureID": 1,
+          "Locked": true
+        }
+      ]
+    },
+    {
+      "StructureID": 3,
+      "StructureType": "CTM",
+      "Invulnerable": true,
+      "SystemsOnline": true,
+      "DoorsLocked": false,
+      "HealthMultiplier": 0.5,
+      "DockingControlsDisabled": true,
+      "AirPressure": 0,
+      "AirQuality": 0,
+      "DockingPorts": [
+        {
+          "OrderID": 2,
+          "DockedStructureID": 1,
+          "Locked": true
+        },
+        {
+          "OrderID": 1,
+          "DockedStructureID": 4,
+          "Locked": true
+        },
+        {
+          "OrderID": 3,
+          "DockedStructureID": 5,
+          "Locked": true
+        }
+      ]
+    },
+    {
+      "StructureID": 4,
+      "StructureType": "Generic_Debris_Corridor001",
+      "Invulnerable": true,
+      "SystemsOnline": true,
+      "DoorsLocked": false,
+      "HealthMultiplier": 0.5,
+      "DockingControlsDisabled": true,
+      "Tag": "KnossosE",
+      "AirPressure": 0,
+      "AirQuality": 0,
+      "DockingPorts": [
+        {
+          "OrderID": 1,
+          "DockedStructureID": 3,
+          "Locked": true
+        }
+      ]
+    },
+    {
+      "StructureID": 5,
+      "StructureType": "SPM",
+      "Invulnerable": true,
+      "SystemsOnline": true,
+      "DoorsLocked": false,
+      "HealthMultiplier": 0.5,
+      "DockingControlsDisabled": true,
+      "AirPressure": 0,
+      "AirQuality": 0,
+      "DockingPorts": [
+        {
+          "OrderID": 1,
+          "DockedStructureID": 3,
+          "Locked": true
+        },
+        {
+          "OrderID": 2,
+          "DockedStructureID": 6,
+          "Locked": true
+        }
+      ]
+    },
+    {
+      "StructureID": 6,
+      "StructureType": "Generic_Debris_JuncRoom001",
+      "Invulnerable": true,
+      "SystemsOnline": true,
+      "DoorsLocked": false,
+      "HealthMultiplier": 0.5,
+      "DockingControlsDisabled": true,
+      "AirPressure": 0,
+      "AirQuality": 0,
+      "DockingPorts": [
+        {
+          "OrderID": 1,
+          "DockedStructureID": 5,
+          "Locked": true
+        },
+        {
+          "OrderID": 2,
+          "DockedStructureID": 7,
+          "Locked": true
+        }
+      ]
+    },
+    {
+      "StructureID": 7,
+      "StructureType": "Generic_Debris_Corridor001",
+      "Invulnerable": true,
+      "SystemsOnline": true,
+      "DoorsLocked": false,
+      "HealthMultiplier": 0.5,
+      "DockingControlsDisabled": true,
+      "AirPressure": 0,
+      "AirQuality": 0,
+      "DockingPorts": [
+        {
+          "OrderID": 1,
+          "DockedStructureID": 6,
+          "Locked": true
+        }
+      ]
+    }
+  ]
+}

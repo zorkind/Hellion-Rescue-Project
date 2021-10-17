@@ -1,0 +1,287 @@
+[
+  {
+    "Version": "0.3",
+    "Name": "",
+    "Invulnerable": false,
+    "SystemsOnline": false,
+    "DoorsLocked": false,
+    "HealthMultiplier": 0.5,
+    "DockingControlsDisabled": true,
+    "AirPressure": 0,
+    "AirQuality": 0,
+    "LocalAngularVelocity": [
+      1.4,
+      1.7,
+      1.9
+    ],
+    "AutoStabilizationDisabled": true,
+    "Structures": [
+      {
+        "StructureID": 0,
+        "StructureType": "Generic_Debris_Outpost001",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.5,
+        "DockingControlsDisabled": true,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 1,
+            "Locked": true
+          },
+          {
+            "OrderID": 2,
+            "DockedStructureID": 6,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 1,
+        "StructureType": "AltCorp_CorridorIntersection_MKII",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.5,
+        "DockingControlsDisabled": true,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 0,
+            "Locked": true
+          },
+          {
+            "OrderID": 2,
+            "DockedStructureID": 3,
+            "Locked": true
+          },
+          {
+            "OrderID": 3,
+            "DockedStructureID": 2,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 2,
+        "StructureType": "CBM",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.5,
+        "DockingControlsDisabled": true,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 1,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 3,
+        "StructureType": "CIM",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.5,
+        "DockingControlsDisabled": true,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 1,
+            "Locked": true
+          },
+          {
+            "OrderID": 2,
+            "DockedStructureID": 4,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 4,
+        "StructureType": "LSM",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.5,
+        "DockingControlsDisabled": true,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 2,
+            "DockedStructureID": 3,
+            "Locked": true
+          },
+          {
+            "OrderID": 1,
+            "DockedStructureID": 5,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 5,
+        "StructureType": "Generic_Debris_Corridor001",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.5,
+        "DockingControlsDisabled": true,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 4,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 6,
+        "StructureType": "PSM",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.5,
+        "DockingControlsDisabled": true,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 0,
+            "Locked": true
+          },
+          {
+            "OrderID": 2,
+            "DockedStructureID": 7,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 7,
+        "StructureType": "AltCorp_Secure_Module",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.5,
+        "DockingControlsDisabled": true,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 4,
+            "DockedStructureID": 6,
+            "Locked": true
+          },
+          {
+            "OrderID": 3,
+            "DockedStructureID": 8,
+            "Locked": true
+          },
+          {
+            "OrderID": 1,
+            "DockedStructureID": 9,
+            "Locked": true
+          },
+          {
+            "OrderID": 2,
+            "DockedStructureID": 11,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 8,
+        "StructureType": "Generic_Debris_Corridor001",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.5,
+        "DockingControlsDisabled": true,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 7,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 9,
+        "StructureType": "SPM",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.5,
+        "DockingControlsDisabled": true,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 7,
+            "Locked": true
+          },
+          {
+            "OrderID": 2,
+            "DockedStructureID": 10,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 10,
+        "StructureType": "Bulkhead",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.5,
+        "DockingControlsDisabled": true,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 9,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 11,
+        "StructureType": "Generic_Debris_Corridor001",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.5,
+        "DockingControlsDisabled": true,
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 7,
+            "Locked": true
+          }
+        ]
+      }
+    ]
+  }
+]

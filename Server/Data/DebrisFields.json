@@ -1,0 +1,668 @@
+[
+  {
+    "CelestialBody": "Bethyr",
+    "Name": "Bethyr_01",
+    "Radius_Km": 6000,
+    "OrbitRadius_Km": 58831.5,
+    "Inclination_Deg": 17,
+    "ArgumentOfPeriapsis_Deg": 13,
+    "LongitudeOfAscendingNode_Deg": 268,
+    "TrueAnomaly_Deg": 66,
+    "ScanningSensitivityMultiplier": 0.75,
+    "RadarSignatureMultiplier": 0.75,
+    "SmallFragmentsDensity": 0.12,
+    "SmallFragmentsVelocity": 0.12,
+    "LargeFragmentsSpawnChance": 0.0015,
+    "LargeFragmentsScenes": [
+      "Generic_Debris_Spawn1",
+      "Generic_Debris_Spawn2",
+      "Generic_Debris_Spawn3"
+    ],
+    "LargeFragmentsTag": "DebrisField",
+    "LargeFragmentsHealth": {
+      "Min": 300,
+      "Max": 1500
+    },
+    "LargeFragmentsTimeToLive": {
+      "Min": 60,
+      "Max": 120
+    },
+    "LargeFragmentsSpawnDistance": 1500,
+    "LargeFragmentsVelocity": 50,
+    "LargeFragmentsZoneRadius": 90,
+    "DamageVesselChance": 0.7,
+    "Damage": {
+      "Min": 7,
+      "Max": 9
+    }
+  },
+  {
+    "CelestialBody": "Burner",
+    "Name": "Debris field Burner_01",
+    "Radius_Km": 1500,
+    "OrbitRadius_Km": 3167,
+    "Inclination_Deg": 35,
+    "ArgumentOfPeriapsis_Deg": 1.6,
+    "LongitudeOfAscendingNode_Deg": 22,
+    "TrueAnomaly_Deg": 335,
+    "ScanningSensitivityMultiplier": 0.7,
+    "RadarSignatureMultiplier": 0.7,
+    "SmallFragmentsDensity": 0.15,
+    "SmallFragmentsVelocity": 0.15,
+    "LargeFragmentsSpawnChance": 0.002,
+    "LargeFragmentsScenes": [
+      "Generic_Debris_Spawn1",
+      "Generic_Debris_Spawn2",
+      "Generic_Debris_Spawn3"
+    ],
+    "LargeFragmentsTag": "DebrisField",
+    "LargeFragmentsHealth": {
+      "Min": 300,
+      "Max": 1500
+    },
+    "LargeFragmentsTimeToLive": {
+      "Min": 60,
+      "Max": 120
+    },
+    "LargeFragmentsSpawnDistance": 1500,
+    "LargeFragmentsVelocity": 55,
+    "LargeFragmentsZoneRadius": 90,
+    "DamageVesselChance": 0.7,
+    "Damage": {
+      "Min": 7,
+      "Max": 9
+    }
+  },
+  {
+    "CelestialBody": "BrokenMarble",
+    "Name": "Debris field BrokenMarble01",
+    "Radius_Km": 2500,
+    "OrbitRadius_Km": 15121,
+    "Inclination_Deg": 164.1,
+    "ArgumentOfPeriapsis_Deg": 44,
+    "LongitudeOfAscendingNode_Deg": 94.11,
+    "TrueAnomaly_Deg": 126,
+    "ScanningSensitivityMultiplier": 0.7,
+    "RadarSignatureMultiplier": 0.7,
+    "SmallFragmentsDensity": 0.35,
+    "SmallFragmentsVelocity": 0.3,
+    "LargeFragmentsSpawnChance": 0.0025,
+    "LargeFragmentsScenes": [
+      "Generic_Debris_Spawn1",
+      "Generic_Debris_Spawn2",
+      "Generic_Debris_Spawn3"
+    ],
+    "LargeFragmentsTag": "DebrisField",
+    "LargeFragmentsHealth": {
+      "Min": 500,
+      "Max": 1000
+    },
+    "LargeFragmentsTimeToLive": {
+      "Min": 60,
+      "Max": 120
+    },
+    "LargeFragmentsSpawnDistance": 1200,
+    "LargeFragmentsVelocity": 55,
+    "LargeFragmentsZoneRadius": 100,
+    "DamageVesselChance": 0.7,
+    "Damage": {
+      "Min": 8,
+      "Max": 10
+    }
+  },
+  {
+    "CelestialBody": "EverestStation",
+    "Name": "Debris field EverestStation_01",
+    "Radius_Km": 3000,
+    "OrbitRadius_Km": 8887,
+    "Inclination_Deg": 353.87,
+    "ArgumentOfPeriapsis_Deg": 258.67,
+    "LongitudeOfAscendingNode_Deg": 100.67,
+    "TrueAnomaly_Deg": 239,
+    "ScanningSensitivityMultiplier": 0.7,
+    "RadarSignatureMultiplier": 0.7,
+    "SmallFragmentsDensity": 0.35,
+    "SmallFragmentsVelocity": 0.3,
+    "LargeFragmentsSpawnChance": 0.003,
+    "LargeFragmentsScenes": [
+      "Generic_Debris_Spawn1",
+      "Generic_Debris_Spawn2",
+      "Generic_Debris_Spawn3"
+    ],
+    "LargeFragmentsTag": "DebrisField",
+    "LargeFragmentsHealth": {
+      "Min": 500,
+      "Max": 1000
+    },
+    "LargeFragmentsTimeToLive": {
+      "Min": 5,
+      "Max": 60
+    },
+    "LargeFragmentsSpawnDistance": 1500,
+    "LargeFragmentsVelocity": 60,
+    "LargeFragmentsZoneRadius": 110,
+    "DamageVesselChance": 0.7,
+    "Damage": {
+      "Min": 7,
+      "Max": 9
+    }
+  },
+  {
+    "CelestialBody": "Eridil",
+    "Name": "Debris field Eridil_01",
+    "Radius_Km": 5000,
+    "OrbitRadius_Km": 20000,
+    "Inclination_Deg": -22,
+    "ArgumentOfPeriapsis_Deg": 13,
+    "LongitudeOfAscendingNode_Deg": 268,
+    "TrueAnomaly_Deg": 66,
+    "ScanningSensitivityMultiplier": 0.6,
+    "RadarSignatureMultiplier": 0.6,
+    "SmallFragmentsDensity": 0.3,
+    "SmallFragmentsVelocity": 0.2,
+    "LargeFragmentsSpawnChance": 0.003,
+    "LargeFragmentsScenes": [
+      "Generic_Debris_Spawn1",
+      "Generic_Debris_Spawn2",
+      "Generic_Debris_Spawn3"
+    ],
+    "LargeFragmentsTag": "DebrisField",
+    "LargeFragmentsHealth": {
+      "Min": 500,
+      "Max": 1000
+    },
+    "LargeFragmentsTimeToLive": {
+      "Min": 5,
+      "Max": 60
+    },
+    "LargeFragmentsSpawnDistance": 1500,
+    "LargeFragmentsVelocity": 60,
+    "LargeFragmentsZoneRadius": 100,
+    "DamageVesselChance": 0.6,
+    "Damage": {
+      "Min": 7,
+      "Max": 13
+    }
+  },
+  {
+    "CelestialBody": "Arhlan",
+    "Name": "Debris field Arhlan_01",
+    "Radius_Km": 600,
+    "OrbitRadius_Km": 6600,
+    "Inclination_Deg": 45,
+    "ArgumentOfPeriapsis_Deg": 64,
+    "LongitudeOfAscendingNode_Deg": 168,
+    "TrueAnomaly_Deg": 118,
+    "ScanningSensitivityMultiplier": 0.6,
+    "RadarSignatureMultiplier": 0.6,
+    "SmallFragmentsDensity": 0.45,
+    "SmallFragmentsVelocity": 0.3,
+    "LargeFragmentsSpawnChance": 0.003,
+    "LargeFragmentsScenes": [
+      "Generic_Debris_Spawn1",
+      "Generic_Debris_Spawn2",
+      "Generic_Debris_Spawn3"
+    ],
+    "LargeFragmentsTag": "DebrisField",
+    "LargeFragmentsHealth": {
+      "Min": 500,
+      "Max": 1000
+    },
+    "LargeFragmentsTimeToLive": {
+      "Min": 5,
+      "Max": 60
+    },
+    "LargeFragmentsSpawnDistance": 1500,
+    "LargeFragmentsVelocity": 60,
+    "LargeFragmentsZoneRadius": 100,
+    "DamageVesselChance": 0.6,
+    "Damage": {
+      "Min": 7,
+      "Max": 13
+    }
+  },
+  {
+    "CelestialBody": "Teiora",
+    "Name": "Debris field Teiora_01",
+    "Radius_Km": 1500,
+    "OrbitRadius_Km": 10000,
+    "Inclination_Deg": 24,
+    "ArgumentOfPeriapsis_Deg": 64,
+    "LongitudeOfAscendingNode_Deg": 168,
+    "TrueAnomaly_Deg": 118,
+    "ScanningSensitivityMultiplier": 0.6,
+    "RadarSignatureMultiplier": 0.6,
+    "SmallFragmentsDensity": 0.45,
+    "SmallFragmentsVelocity": 0.3,
+    "LargeFragmentsSpawnChance": 0.003,
+    "LargeFragmentsScenes": [
+      "Generic_Debris_Spawn1",
+      "Generic_Debris_Spawn2",
+      "Generic_Debris_Spawn3"
+    ],
+    "LargeFragmentsTag": "DebrisField",
+    "LargeFragmentsHealth": {
+      "Min": 500,
+      "Max": 1000
+    },
+    "LargeFragmentsTimeToLive": {
+      "Min": 5,
+      "Max": 60
+    },
+    "LargeFragmentsSpawnDistance": 1500,
+    "LargeFragmentsVelocity": 60,
+    "LargeFragmentsZoneRadius": 100,
+    "DamageVesselChance": 0.6,
+    "Damage": {
+      "Min": 7,
+      "Max": 13
+    }
+  },
+  {
+    "CelestialBody": "Sinha",
+    "Name": "Debris field Sinha_01",
+    "Radius_Km": 2000,
+    "OrbitRadius_Km": 7000,
+    "Inclination_Deg": 35,
+    "ArgumentOfPeriapsis_Deg": 64,
+    "LongitudeOfAscendingNode_Deg": 168,
+    "TrueAnomaly_Deg": 118,
+    "ScanningSensitivityMultiplier": 0.6,
+    "RadarSignatureMultiplier": 0.6,
+    "SmallFragmentsDensity": 0.35,
+    "SmallFragmentsVelocity": 0.3,
+    "LargeFragmentsSpawnChance": 0.003,
+    "LargeFragmentsScenes": [
+      "Generic_Debris_Spawn1",
+      "Generic_Debris_Spawn2",
+      "Generic_Debris_Spawn3"
+    ],
+    "LargeFragmentsTag": "DebrisField",
+    "LargeFragmentsHealth": {
+      "Min": 500,
+      "Max": 1000
+    },
+    "LargeFragmentsTimeToLive": {
+      "Min": 5,
+      "Max": 60
+    },
+    "LargeFragmentsSpawnDistance": 1500,
+    "LargeFragmentsVelocity": 60,
+    "LargeFragmentsZoneRadius": 120,
+    "DamageVesselChance": 0.6,
+    "Damage": {
+      "Min": 8,
+      "Max": 14
+    }
+  },
+  {
+    "CelestialBody": "Enigma",
+    "Name": "Debris field Enigma_01",
+    "Radius_Km": 3000,
+    "OrbitRadius_Km": 12000,
+    "Inclination_Deg": 40,
+    "ArgumentOfPeriapsis_Deg": 64,
+    "LongitudeOfAscendingNode_Deg": 168,
+    "TrueAnomaly_Deg": 118,
+    "ScanningSensitivityMultiplier": 0.5,
+    "RadarSignatureMultiplier": 0.5,
+    "SmallFragmentsDensity": 0.45,
+    "SmallFragmentsVelocity": 0.3,
+    "LargeFragmentsSpawnChance": 0.003,
+    "LargeFragmentsScenes": [
+      "Generic_Debris_Spawn1",
+      "Generic_Debris_Spawn2",
+      "Generic_Debris_Spawn3"
+    ],
+    "LargeFragmentsTag": "DebrisField",
+    "LargeFragmentsHealth": {
+      "Min": 500,
+      "Max": 1000
+    },
+    "LargeFragmentsTimeToLive": {
+      "Min": 5,
+      "Max": 60
+    },
+    "LargeFragmentsSpawnDistance": 1500,
+    "LargeFragmentsVelocity": 75,
+    "LargeFragmentsZoneRadius": 100,
+    "DamageVesselChance": 0.6,
+    "Damage": {
+      "Min": 7,
+      "Max": 13
+    }
+  },
+  {
+    "CelestialBody": "Hirath",
+    "Name": "Debris field Hirath_01",
+    "Radius_Km": 6000,
+    "OrbitRadius_Km": 65000,
+    "Inclination_Deg": 12,
+    "ArgumentOfPeriapsis_Deg": 8,
+    "LongitudeOfAscendingNode_Deg": 168,
+    "TrueAnomaly_Deg": 43,
+    "ScanningSensitivityMultiplier": 0.5,
+    "RadarSignatureMultiplier": 0.5,
+    "SmallFragmentsDensity": 0.3,
+    "SmallFragmentsVelocity": 0.2,
+    "LargeFragmentsSpawnChance": 0.003,
+    "LargeFragmentsScenes": [
+      "Generic_Debris_Spawn1",
+      "Generic_Debris_Spawn2",
+      "Generic_Debris_Spawn3"
+    ],
+    "LargeFragmentsTag": "DebrisField",
+    "LargeFragmentsHealth": {
+      "Min": 500,
+      "Max": 1000
+    },
+    "LargeFragmentsTimeToLive": {
+      "Min": 5,
+      "Max": 60
+    },
+    "LargeFragmentsSpawnDistance": 1500,
+    "LargeFragmentsVelocity": 60,
+    "LargeFragmentsZoneRadius": 120,
+    "DamageVesselChance": 0.6,
+    "Damage": {
+      "Min": 7,
+      "Max": 13
+    }
+  },
+  {
+    "CelestialBody": "Athnar",
+    "Name": "Debris field Athnar_01",
+    "Radius_Km": 3000,
+    "OrbitRadius_Km": 28000,
+    "Inclination_Deg": -19,
+    "ArgumentOfPeriapsis_Deg": 135,
+    "LongitudeOfAscendingNode_Deg": 68,
+    "TrueAnomaly_Deg": 112,
+    "ScanningSensitivityMultiplier": 0.5,
+    "RadarSignatureMultiplier": 0.5,
+    "SmallFragmentsDensity": 0.45,
+    "SmallFragmentsVelocity": 0.3,
+    "LargeFragmentsSpawnChance": 0.003,
+    "LargeFragmentsScenes": [
+      "Generic_Debris_Spawn1",
+      "Generic_Debris_Spawn2",
+      "Generic_Debris_Spawn3"
+    ],
+    "LargeFragmentsTag": "DebrisField",
+    "LargeFragmentsHealth": {
+      "Min": 500,
+      "Max": 1000
+    },
+    "LargeFragmentsTimeToLive": {
+      "Min": 5,
+      "Max": 60
+    },
+    "LargeFragmentsSpawnDistance": 1500,
+    "LargeFragmentsVelocity": 75,
+    "LargeFragmentsZoneRadius": 100,
+    "DamageVesselChance": 0.5,
+    "Damage": {
+      "Min": 11,
+      "Max": 19
+    }
+  },
+  {
+    "CelestialBody": "Askatar",
+    "Name": "Debris field Askatar_01",
+    "Radius_Km": 7000,
+    "OrbitRadius_Km": 70000,
+    "Inclination_Deg": 15,
+    "ArgumentOfPeriapsis_Deg": 13,
+    "LongitudeOfAscendingNode_Deg": 268,
+    "TrueAnomaly_Deg": 250,
+    "ScanningSensitivityMultiplier": 0.5,
+    "RadarSignatureMultiplier": 0.5,
+    "SmallFragmentsDensity": 0.45,
+    "SmallFragmentsVelocity": 0.3,
+    "LargeFragmentsSpawnChance": 0.003,
+    "LargeFragmentsScenes": [
+      "Generic_Debris_Spawn1",
+      "Generic_Debris_Spawn2",
+      "Generic_Debris_Spawn3"
+    ],
+    "LargeFragmentsTag": "DebrisField",
+    "LargeFragmentsHealth": {
+      "Min": 500,
+      "Max": 1000
+    },
+    "LargeFragmentsTimeToLive": {
+      "Min": 5,
+      "Max": 60
+    },
+    "LargeFragmentsSpawnDistance": 1500,
+    "LargeFragmentsVelocity": 75,
+    "LargeFragmentsZoneRadius": 130,
+    "DamageVesselChance": 0.5,
+    "Damage": {
+      "Min": 11,
+      "Max": 19
+    }
+  },
+  {
+    "CelestialBody": "Ulgorat",
+    "Name": "Debris field Ulgorat_01",
+    "Radius_Km": 1500,
+    "OrbitRadius_Km": 3800,
+    "Inclination_Deg": 34,
+    "ArgumentOfPeriapsis_Deg": 35,
+    "LongitudeOfAscendingNode_Deg": 68,
+    "TrueAnomaly_Deg": 180,
+    "ScanningSensitivityMultiplier": 0.5,
+    "RadarSignatureMultiplier": 0.5,
+    "SmallFragmentsDensity": 0.5,
+    "SmallFragmentsVelocity": 0.3,
+    "LargeFragmentsSpawnChance": 0.003,
+    "LargeFragmentsScenes": [
+      "Generic_Debris_Spawn1",
+      "Generic_Debris_Spawn2",
+      "Generic_Debris_Spawn3"
+    ],
+    "LargeFragmentsTag": "DebrisField",
+    "LargeFragmentsHealth": {
+      "Min": 500,
+      "Max": 1000
+    },
+    "LargeFragmentsTimeToLive": {
+      "Min": 5,
+      "Max": 60
+    },
+    "LargeFragmentsSpawnDistance": 1500,
+    "LargeFragmentsVelocity": 75,
+    "LargeFragmentsZoneRadius": 100,
+    "DamageVesselChance": 0.5,
+    "Damage": {
+      "Min": 11,
+      "Max": 19
+    }
+  },
+  {
+    "CelestialBody": "Tasciana",
+    "Name": "Debris field Tasciana_01",
+    "Radius_Km": 2050,
+    "OrbitRadius_Km": 4000,
+    "Inclination_Deg": 33,
+    "ArgumentOfPeriapsis_Deg": 44,
+    "LongitudeOfAscendingNode_Deg": 266,
+    "TrueAnomaly_Deg": 132,
+    "ScanningSensitivityMultiplier": 0.5,
+    "RadarSignatureMultiplier": 0.5,
+    "SmallFragmentsDensity": 0.5,
+    "SmallFragmentsVelocity": 0.3,
+    "LargeFragmentsSpawnChance": 0.003,
+    "LargeFragmentsScenes": [
+      "Generic_Debris_Spawn1",
+      "Generic_Debris_Spawn2",
+      "Generic_Debris_Spawn3"
+    ],
+    "LargeFragmentsTag": "DebrisField",
+    "LargeFragmentsHealth": {
+      "Min": 500,
+      "Max": 1000
+    },
+    "LargeFragmentsTimeToLive": {
+      "Min": 5,
+      "Max": 60
+    },
+    "LargeFragmentsSpawnDistance": 1500,
+    "LargeFragmentsVelocity": 75,
+    "LargeFragmentsZoneRadius": 100,
+    "DamageVesselChance": 0.5,
+    "Damage": {
+      "Min": 13,
+      "Max": 20
+    }
+  },
+  {
+    "CelestialBody": "Calipso",
+    "Name": "Debris field Calipso_01",
+    "Radius_Km": 1000,
+    "OrbitRadius_Km": 3400,
+    "Inclination_Deg": 30,
+    "ArgumentOfPeriapsis_Deg": 64,
+    "LongitudeOfAscendingNode_Deg": 168,
+    "TrueAnomaly_Deg": 118,
+    "ScanningSensitivityMultiplier": 0.5,
+    "RadarSignatureMultiplier": 0.5,
+    "SmallFragmentsDensity": 0.5,
+    "SmallFragmentsVelocity": 0.3,
+    "LargeFragmentsSpawnChance": 0.003,
+    "LargeFragmentsScenes": [
+      "Generic_Debris_Spawn1",
+      "Generic_Debris_Spawn2",
+      "Generic_Debris_Spawn3"
+    ],
+    "LargeFragmentsTag": "DebrisField",
+    "LargeFragmentsHealth": {
+      "Min": 500,
+      "Max": 1000
+    },
+    "LargeFragmentsTimeToLive": {
+      "Min": 5,
+      "Max": 60
+    },
+    "LargeFragmentsSpawnDistance": 1500,
+    "LargeFragmentsVelocity": 75,
+    "LargeFragmentsZoneRadius": 120,
+    "DamageVesselChance": 0.5,
+    "Damage": {
+      "Min": 7,
+      "Max": 13
+    }
+  },
+  {
+    "CelestialBody": "Iblith",
+    "Name": "Debris field Iblith_01",
+    "Radius_Km": 800,
+    "OrbitRadius_Km": 3000,
+    "Inclination_Deg": 40,
+    "ArgumentOfPeriapsis_Deg": 24,
+    "LongitudeOfAscendingNode_Deg": 168,
+    "TrueAnomaly_Deg": 118,
+    "ScanningSensitivityMultiplier": 0.5,
+    "RadarSignatureMultiplier": 0.5,
+    "SmallFragmentsDensity": 0.5,
+    "SmallFragmentsVelocity": 0.3,
+    "LargeFragmentsSpawnChance": 0.003,
+    "LargeFragmentsScenes": [
+      "Generic_Debris_Spawn1",
+      "Generic_Debris_Spawn2",
+      "Generic_Debris_Spawn3"
+    ],
+    "LargeFragmentsTag": "DebrisField",
+    "LargeFragmentsHealth": {
+      "Min": 500,
+      "Max": 1000
+    },
+    "LargeFragmentsTimeToLive": {
+      "Min": 5,
+      "Max": 60
+    },
+    "LargeFragmentsSpawnDistance": 1500,
+    "LargeFragmentsVelocity": 75,
+    "LargeFragmentsZoneRadius": 110,
+    "DamageVesselChance": 0.6,
+    "Damage": {
+      "Min": 8,
+      "Max": 14
+    }
+  },
+  {
+    "CelestialBody": "Nimath",
+    "Name": "Debris field Nimath_01",
+    "Radius_Km": 5000,
+    "OrbitRadius_Km": 15000,
+    "Inclination_Deg": 37,
+    "ArgumentOfPeriapsis_Deg": 240,
+    "LongitudeOfAscendingNode_Deg": 22,
+    "TrueAnomaly_Deg": 180,
+    "ScanningSensitivityMultiplier": 0.5,
+    "RadarSignatureMultiplier": 0.5,
+    "SmallFragmentsDensity": 0.6,
+    "SmallFragmentsVelocity": 0.5,
+    "LargeFragmentsSpawnChance": 0.0035,
+    "LargeFragmentsScenes": [
+      "Generic_Debris_Spawn1",
+      "Generic_Debris_Spawn2",
+      "Generic_Debris_Spawn3"
+    ],
+    "LargeFragmentsTag": "DebrisField",
+    "LargeFragmentsHealth": {
+      "Min": 500,
+      "Max": 1000
+    },
+    "LargeFragmentsTimeToLive": {
+      "Min": 5,
+      "Max": 60
+    },
+    "LargeFragmentsSpawnDistance": 1500,
+    "LargeFragmentsVelocity": 75,
+    "LargeFragmentsZoneRadius": 100,
+    "DamageVesselChance": 0.4,
+    "Damage": {
+      "Min": 16,
+      "Max": 32
+    }
+  },
+  {
+    "CelestialBody": "Ia",
+    "Name": "Debris field Ia_01",
+    "Radius_Km": 2000,
+    "OrbitRadius_Km": 5000,
+    "Inclination_Deg": 68,
+    "ArgumentOfPeriapsis_Deg": 24,
+    "LongitudeOfAscendingNode_Deg": 268,
+    "TrueAnomaly_Deg": 200,
+    "ScanningSensitivityMultiplier": 0.5,
+    "RadarSignatureMultiplier": 0.5,
+    "SmallFragmentsDensity": 0.6,
+    "SmallFragmentsVelocity": 0.5,
+    "LargeFragmentsSpawnChance": 0.0035,
+    "LargeFragmentsScenes": [
+      "Generic_Debris_Spawn1",
+      "Generic_Debris_Spawn2",
+      "Generic_Debris_Spawn3"
+    ],
+    "LargeFragmentsTag": "DebrisField",
+    "LargeFragmentsHealth": {
+      "Min": 500,
+      "Max": 1000
+    },
+    "LargeFragmentsTimeToLive": {
+      "Min": 50,
+      "Max": 60
+    },
+    "LargeFragmentsSpawnDistance": 2500,
+    "LargeFragmentsVelocity": 75,
+    "LargeFragmentsZoneRadius": 80,
+    "DamageVesselChance": 0.4,
+    "Damage": {
+      "Min": 16,
+      "Max": 32
+    }
+  }
+]

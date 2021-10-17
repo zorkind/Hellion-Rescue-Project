@@ -1,0 +1,2105 @@
+[
+  {
+    "Type": 1700,
+    "SubType": 2,
+    "PartType": 0,
+    "Name": "BasketBall",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": null,
+        "Craft": {
+          "CarbonFibers": 1.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 1700,
+    "SubType": 4,
+    "PartType": 0,
+    "Name": "Hoop",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "Alloys": 1.0
+        },
+        "Craft": {
+          "Alloys": 4.0,
+          "Nitro": 1.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 1700,
+    "SubType": 13,
+    "PartType": 0,
+    "Name": "CoffeeMachine",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "Alloys": 1.0
+        },
+        "Craft": {
+          "Alloys": 8.0,
+          "CarbonFibers": 10.0,
+          "Circuits": 2.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 1700,
+    "SubType": 5,
+    "PartType": 0,
+    "Name": "LavaLamp",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": null,
+        "Craft": {
+          "Alloys": 1.0,
+          "CarbonFibers": 2.0,
+          "Circuits": 1.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 1700,
+    "SubType": 3,
+    "PartType": 0,
+    "Name": "BookHolder",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": null,
+        "Craft": null
+      }
+    }
+  },
+  {
+    "Type": 1700,
+    "SubType": 10,
+    "PartType": 0,
+    "Name": "TeslaBall",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": null,
+        "Craft": {
+          "Circuits": 1.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 1700,
+    "SubType": 20,
+    "PartType": 0,
+    "Name": "TransportBox",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "Alloys": 1.0
+        },
+        "Craft": {
+          "Alloys": 8.0,
+          "CarbonFibers": 10.0,
+          "Circuits": 2.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 1700,
+    "SubType": 14,
+    "PartType": 0,
+    "Name": "BrokenArmature",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "Alloys": 20.0
+        },
+        "Craft": null
+      }
+    }
+  },
+  {
+    "Type": 1700,
+    "SubType": 15,
+    "PartType": 0,
+    "Name": "ShatteredPlating",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "CarbonFibers": 40.0
+        },
+        "Craft": null
+      }
+    }
+  },
+  {
+    "Type": 1700,
+    "SubType": 16,
+    "PartType": 0,
+    "Name": "FriedElectronics",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "Circuits": 10.0
+        },
+        "Craft": null
+      }
+    }
+  },
+  {
+    "Type": 1700,
+    "SubType": 17,
+    "PartType": 0,
+    "Name": "DamagedTransmiter",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "Circuits": 20.0,
+          "Superconductors": 10.0
+        },
+        "Craft": null
+      }
+    }
+  },
+  {
+    "Type": 1700,
+    "SubType": 18,
+    "PartType": 0,
+    "Name": "RupturedInsulation",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "CarbonFibers": 80.0,
+          "Alloys": 40.0
+        },
+        "Craft": null
+      }
+    }
+  },
+  {
+    "Type": 1700,
+    "SubType": 19,
+    "PartType": 0,
+    "Name": "BurnedPDU",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "Superconductors": 5.0
+        },
+        "Craft": null
+      }
+    }
+  },
+  {
+    "Type": 203,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "MilitaryHandGunAmmo01",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 1.25,
+          "CarbonFibers": 0.5
+        },
+        "Craft": {
+          "NickelIron": 5.0,
+          "CarbonFibers": 2.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 202,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "MilitarySniperRifleAmmo",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 2.5,
+          "CarbonFibers": 2.5,
+          "Silicates": 1.0,
+          "Titanium": 0.15
+        },
+        "Craft": {
+          "NickelIron": 10.0,
+          "CarbonFibers": 10.0,
+          "Silicates": 5.0,
+          "Titanium": 1.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 201,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "MilitaryAssaultRifleAmmo",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 1.25,
+          "CarbonFibers": 1.25,
+          "Silicates": 0.2
+        },
+        "Craft": {
+          "NickelIron": 5.0,
+          "CarbonFibers": 5.0,
+          "Silicates": 1.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 1801,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "EMPGrenade",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 5.0,
+          "CarbonFibers": 2.5,
+          "Silicates": 2.0,
+          "Titanium": 1.5
+        },
+        "Craft": {
+          "NickelIron": 20.0,
+          "CarbonFibers": 10.0,
+          "Silicates": 10.0,
+          "Titanium": 10.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 1900,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "PortableTurret",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 18.75,
+          "CarbonFibers": 6.25
+        },
+        "Craft": {
+          "NickelIron": 75.0,
+          "CarbonFibers": 25.0
+        }
+      },
+      "2": {
+        "Recycle": {
+          "NickelIron": 18.75,
+          "CarbonFibers": 6.25,
+          "Silicates": 7.0,
+          "Alloys": 3.0
+        },
+        "Craft": {
+          "NickelIron": 75.0,
+          "CarbonFibers": 25.0,
+          "Silicates": 35.0,
+          "Alloys": 15.0
+        }
+      },
+      "3": {
+        "Recycle": {
+          "NickelIron": 18.75,
+          "CarbonFibers": 6.25,
+          "Silicates": 7.0,
+          "Alloys": 3.0,
+          "Titanium": 2.25,
+          "Circuits": 1.5
+        },
+        "Craft": {
+          "NickelIron": 75.0,
+          "CarbonFibers": 25.0,
+          "Silicates": 35.0,
+          "Alloys": 15.0,
+          "Titanium": 15.0,
+          "Circuits": 10.0
+        }
+      },
+      "4": {
+        "Recycle": {
+          "NickelIron": 18.75,
+          "CarbonFibers": 6.25,
+          "Silicates": 7.0,
+          "Alloys": 3.0,
+          "Titanium": 2.25,
+          "Circuits": 1.5,
+          "RareElements": 0.900000036,
+          "Superconductors": 0.6
+        },
+        "Craft": {
+          "NickelIron": 75.0,
+          "CarbonFibers": 25.0,
+          "Silicates": 35.0,
+          "Alloys": 15.0,
+          "Titanium": 15.0,
+          "Circuits": 10.0,
+          "RareElements": 9.0,
+          "Superconductors": 6.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 1800,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "APGrenade",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 5.0,
+          "CarbonFibers": 3.75,
+          "Silicates": 1.0
+        },
+        "Craft": {
+          "NickelIron": 20.0,
+          "CarbonFibers": 15.0,
+          "Silicates": 5.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 103,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "MilitaryHandGun01",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 5.0,
+          "CarbonFibers": 5.0
+        },
+        "Craft": {
+          "NickelIron": 20.0,
+          "CarbonFibers": 20.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 104,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "MilitaryHandGun02",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 6.25,
+          "CarbonFibers": 5.0,
+          "Alloys": 4.4
+        },
+        "Craft": {
+          "NickelIron": 25.0,
+          "CarbonFibers": 20.0,
+          "Alloys": 22.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 102,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "MilitarySniperRifle",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 15.0,
+          "CarbonFibers": 10.0,
+          "Silicates": 5.0,
+          "Alloys": 5.0,
+          "Titanium": 1.80000007,
+          "Circuits": 1.80000007,
+          "RareElements": 0.6,
+          "Superconductors": 0.6
+        },
+        "Craft": {
+          "NickelIron": 60.0,
+          "CarbonFibers": 40.0,
+          "Silicates": 25.0,
+          "Alloys": 25.0,
+          "Titanium": 12.0,
+          "Circuits": 12.0,
+          "RareElements": 6.0,
+          "Superconductors": 6.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 101,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "MilitaryAssaultRifle",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 7.5,
+          "CarbonFibers": 12.5,
+          "Alloys": 8.0,
+          "Circuits": 3.0
+        },
+        "Craft": {
+          "NickelIron": 30.0,
+          "CarbonFibers": 50.0,
+          "Alloys": 40.0,
+          "Circuits": 20.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 105,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "AegisAssaultRifle",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 7.5,
+          "CarbonFibers": 12.5,
+          "Silicates": 4.0,
+          "Alloys": 4.0,
+          "Titanium": 1.5,
+          "Circuits": 1.5,
+          "RareElements": 0.5,
+          "Superconductors": 0.5
+        },
+        "Craft": {
+          "NickelIron": 30.0,
+          "CarbonFibers": 50.0,
+          "Silicates": 20.0,
+          "Alloys": 20.0,
+          "Titanium": 10.0,
+          "Circuits": 10.0,
+          "RareElements": 5.0,
+          "Superconductors": 5.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 600,
+    "SubType": 0,
+    "PartType": 29,
+    "Name": "MillitaryNaniteCore",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 3.125,
+          "CarbonFibers": 9.375
+        },
+        "Craft": {
+          "NickelIron": 25.0,
+          "CarbonFibers": 75.0
+        }
+      },
+      "2": {
+        "Recycle": {
+          "NickelIron": 3.125,
+          "CarbonFibers": 9.375,
+          "Silicates": 1.5,
+          "Alloys": 3.5
+        },
+        "Craft": {
+          "NickelIron": 25.0,
+          "CarbonFibers": 75.0,
+          "Silicates": 15.0,
+          "Alloys": 35.0
+        }
+      },
+      "3": {
+        "Recycle": {
+          "NickelIron": 3.125,
+          "CarbonFibers": 9.375,
+          "Silicates": 1.5,
+          "Alloys": 3.5,
+          "Titanium": 1.125,
+          "Circuits": 0.75
+        },
+        "Craft": {
+          "NickelIron": 25.0,
+          "CarbonFibers": 75.0,
+          "Silicates": 15.0,
+          "Alloys": 35.0,
+          "Titanium": 15.0,
+          "Circuits": 10.0
+        }
+      },
+      "4": {
+        "Recycle": {
+          "NickelIron": 3.125,
+          "CarbonFibers": 9.375,
+          "Silicates": 1.5,
+          "Alloys": 3.5,
+          "Titanium": 1.125,
+          "Circuits": 0.75,
+          "RareElements": 0.4,
+          "Superconductors": 0.25
+        },
+        "Craft": {
+          "NickelIron": 25.0,
+          "CarbonFibers": 75.0,
+          "Silicates": 15.0,
+          "Alloys": 35.0,
+          "Titanium": 15.0,
+          "Circuits": 10.0,
+          "RareElements": 8.0,
+          "Superconductors": 5.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 100,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "AltairRifle",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 12.5,
+          "CarbonFibers": 6.25,
+          "Alloys": 7.4
+        },
+        "Craft": {
+          "NickelIron": 50.0,
+          "CarbonFibers": 25.0,
+          "Alloys": 37.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 200,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "AltairRifleAmmo",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 1.25,
+          "CarbonFibers": 1.25
+        },
+        "Craft": {
+          "NickelIron": 5.0,
+          "CarbonFibers": 5.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 1002,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "AltairRefinedCanister",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "Alloys": 3.0,
+          "CarbonFibers": 5.0
+        },
+        "Craft": {
+          "Alloys": 15.0,
+          "CarbonFibers": 20.0
+        }
+      },
+      "2": {
+        "Recycle": {
+          "Alloys": 3.0,
+          "CarbonFibers": 5.0,
+          "Silicates": 3.4
+        },
+        "Craft": {
+          "Alloys": 15.0,
+          "CarbonFibers": 20.0,
+          "Silicates": 17.0
+        }
+      },
+      "3": {
+        "Recycle": {
+          "Alloys": 3.0,
+          "CarbonFibers": 5.0,
+          "Silicates": 3.4,
+          "Titanium": 1.2
+        },
+        "Craft": {
+          "Alloys": 15.0,
+          "CarbonFibers": 20.0,
+          "Silicates": 17.0,
+          "Titanium": 8.0
+        }
+      },
+      "4": {
+        "Recycle": {
+          "Alloys": 3.0,
+          "CarbonFibers": 5.0,
+          "Silicates": 3.4,
+          "Titanium": 1.2,
+          "RareElements": 0.4
+        },
+        "Craft": {
+          "Alloys": 15.0,
+          "CarbonFibers": 20.0,
+          "Silicates": 17.0,
+          "Titanium": 8.0,
+          "RareElements": 4.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 1500,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "AltairHandheldAsteroidScanningTool",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 7.5,
+          "CarbonFibers": 5.0,
+          "Silicates": 5.0
+        },
+        "Craft": {
+          "NickelIron": 30.0,
+          "CarbonFibers": 20.0,
+          "Silicates": 25.0
+        }
+      },
+      "2": {
+        "Recycle": {
+          "NickelIron": 7.5,
+          "CarbonFibers": 5.0,
+          "Silicates": 5.0,
+          "Titanium": 1.80000007
+        },
+        "Craft": {
+          "NickelIron": 30.0,
+          "CarbonFibers": 20.0,
+          "Silicates": 25.0,
+          "Titanium": 12.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 700,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "AltairHandDrill",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 15.0,
+          "CarbonFibers": 10.0
+        },
+        "Craft": {
+          "NickelIron": 60.0,
+          "CarbonFibers": 40.0
+        }
+      },
+      "2": {
+        "Recycle": {
+          "NickelIron": 15.0,
+          "CarbonFibers": 10.0,
+          "Silicates": 10.0
+        },
+        "Craft": {
+          "NickelIron": 60.0,
+          "CarbonFibers": 40.0,
+          "Silicates": 50.0
+        }
+      },
+      "3": {
+        "Recycle": {
+          "NickelIron": 15.0,
+          "CarbonFibers": 10.0,
+          "Silicates": 10.0,
+          "Titanium": 3.75000024
+        },
+        "Craft": {
+          "NickelIron": 60.0,
+          "CarbonFibers": 40.0,
+          "Silicates": 50.0,
+          "Titanium": 25.0
+        }
+      },
+      "4": {
+        "Recycle": {
+          "NickelIron": 15.0,
+          "CarbonFibers": 10.0,
+          "Silicates": 10.0,
+          "Titanium": 3.75000024,
+          "RareElements": 1.2
+        },
+        "Craft": {
+          "NickelIron": 60.0,
+          "CarbonFibers": 40.0,
+          "Silicates": 50.0,
+          "Titanium": 25.0,
+          "RareElements": 12.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 1000,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "AltairHandDrillCanister",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 6.25,
+          "CarbonFibers": 2.5
+        },
+        "Craft": {
+          "NickelIron": 25.0,
+          "CarbonFibers": 10.0
+        }
+      },
+      "2": {
+        "Recycle": {
+          "NickelIron": 6.25,
+          "CarbonFibers": 2.5,
+          "Silicates": 3.4
+        },
+        "Craft": {
+          "NickelIron": 25.0,
+          "CarbonFibers": 10.0,
+          "Silicates": 17.0
+        }
+      },
+      "3": {
+        "Recycle": {
+          "NickelIron": 6.25,
+          "CarbonFibers": 2.5,
+          "Silicates": 3.4,
+          "Titanium": 1.2
+        },
+        "Craft": {
+          "NickelIron": 25.0,
+          "CarbonFibers": 10.0,
+          "Silicates": 17.0,
+          "Titanium": 8.0
+        }
+      },
+      "4": {
+        "Recycle": {
+          "NickelIron": 6.25,
+          "CarbonFibers": 2.5,
+          "Silicates": 3.4,
+          "Titanium": 1.2,
+          "RareElements": 0.4
+        },
+        "Craft": {
+          "NickelIron": 25.0,
+          "CarbonFibers": 10.0,
+          "Silicates": 17.0,
+          "Titanium": 8.0,
+          "RareElements": 4.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 900,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "AltairHandDrillBattery",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 2.5,
+          "CarbonFibers": 2.5
+        },
+        "Craft": {
+          "NickelIron": 10.0,
+          "CarbonFibers": 10.0
+        }
+      },
+      "2": {
+        "Recycle": {
+          "NickelIron": 2.5,
+          "CarbonFibers": 2.5,
+          "Silicates": 1.0,
+          "Alloys": 1.0
+        },
+        "Craft": {
+          "NickelIron": 10.0,
+          "CarbonFibers": 10.0,
+          "Silicates": 5.0,
+          "Alloys": 5.0
+        }
+      },
+      "3": {
+        "Recycle": {
+          "NickelIron": 2.5,
+          "CarbonFibers": 2.5,
+          "Silicates": 1.0,
+          "Alloys": 1.0,
+          "Circuits": 0.75
+        },
+        "Craft": {
+          "NickelIron": 10.0,
+          "CarbonFibers": 10.0,
+          "Silicates": 5.0,
+          "Alloys": 5.0,
+          "Circuits": 5.0
+        }
+      },
+      "4": {
+        "Recycle": {
+          "NickelIron": 2.5,
+          "CarbonFibers": 2.5,
+          "Silicates": 1.0,
+          "Alloys": 1.0,
+          "Circuits": 0.75,
+          "Superconductors": 0.2
+        },
+        "Craft": {
+          "NickelIron": 10.0,
+          "CarbonFibers": 10.0,
+          "Silicates": 5.0,
+          "Alloys": 5.0,
+          "Circuits": 5.0,
+          "Superconductors": 2.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 1700,
+    "SubType": 27,
+    "PartType": 0,
+    "Name": "DiamondCoreDrillBit",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 3.75,
+          "CarbonFibers": 2.5
+        },
+        "Craft": {
+          "NickelIron": 15.0,
+          "CarbonFibers": 10.0
+        }
+      },
+      "2": {
+        "Recycle": {
+          "NickelIron": 3.75,
+          "CarbonFibers": 2.5,
+          "Silicates": 2.4
+        },
+        "Craft": {
+          "NickelIron": 15.0,
+          "CarbonFibers": 10.0,
+          "Silicates": 12.0
+        }
+      },
+      "3": {
+        "Recycle": {
+          "NickelIron": 3.75,
+          "CarbonFibers": 2.5,
+          "Silicates": 2.4,
+          "Titanium": 0.900000036
+        },
+        "Craft": {
+          "NickelIron": 15.0,
+          "CarbonFibers": 10.0,
+          "Silicates": 12.0,
+          "Titanium": 6.0
+        }
+      },
+      "4": {
+        "Recycle": {
+          "NickelIron": 3.75,
+          "CarbonFibers": 2.5,
+          "Silicates": 2.4,
+          "Titanium": 0.900000036,
+          "RareElements": 0.3
+        },
+        "Craft": {
+          "NickelIron": 15.0,
+          "CarbonFibers": 10.0,
+          "Silicates": 12.0,
+          "Titanium": 6.0,
+          "RareElements": 3.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 1001,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "AltairResourceContainer",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 1.25,
+          "CarbonFibers": 1.25
+        },
+        "Craft": {
+          "NickelIron": 5.0,
+          "CarbonFibers": 5.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 300,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "AltairPressurisedSuit",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 15.0,
+          "CarbonFibers": 10.0
+        },
+        "Craft": {
+          "NickelIron": 60.0,
+          "CarbonFibers": 40.0
+        }
+      },
+      "2": {
+        "Recycle": {
+          "NickelIron": 15.0,
+          "CarbonFibers": 10.0,
+          "Alloys": 10.0
+        },
+        "Craft": {
+          "NickelIron": 60.0,
+          "CarbonFibers": 40.0,
+          "Alloys": 50.0
+        }
+      },
+      "3": {
+        "Recycle": {
+          "NickelIron": 15.0,
+          "CarbonFibers": 10.0,
+          "Alloys": 10.0,
+          "Circuits": 3.75000024
+        },
+        "Craft": {
+          "NickelIron": 60.0,
+          "CarbonFibers": 40.0,
+          "Alloys": 50.0,
+          "Circuits": 25.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 400,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "AltairPressurisedHelmet",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 5.0,
+          "CarbonFibers": 2.5
+        },
+        "Craft": {
+          "NickelIron": 20.0,
+          "CarbonFibers": 10.0
+        }
+      },
+      "2": {
+        "Recycle": {
+          "NickelIron": 5.0,
+          "CarbonFibers": 2.5,
+          "Alloys": 3.0
+        },
+        "Craft": {
+          "NickelIron": 20.0,
+          "CarbonFibers": 10.0,
+          "Alloys": 15.0
+        }
+      },
+      "3": {
+        "Recycle": {
+          "NickelIron": 5.0,
+          "CarbonFibers": 2.5,
+          "Alloys": 3.0,
+          "Circuits": 1.05000007
+        },
+        "Craft": {
+          "NickelIron": 20.0,
+          "CarbonFibers": 10.0,
+          "Alloys": 15.0,
+          "Circuits": 7.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 500,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "AltairPressurisedJetpack",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 7.5,
+          "CarbonFibers": 5.0
+        },
+        "Craft": {
+          "NickelIron": 30.0,
+          "CarbonFibers": 20.0
+        }
+      },
+      "2": {
+        "Recycle": {
+          "NickelIron": 7.5,
+          "CarbonFibers": 5.0,
+          "Alloys": 5.0
+        },
+        "Craft": {
+          "NickelIron": 30.0,
+          "CarbonFibers": 20.0,
+          "Alloys": 25.0
+        }
+      },
+      "3": {
+        "Recycle": {
+          "NickelIron": 7.5,
+          "CarbonFibers": 5.0,
+          "Alloys": 5.0,
+          "Circuits": 1.80000007
+        },
+        "Craft": {
+          "NickelIron": 30.0,
+          "CarbonFibers": 20.0,
+          "Alloys": 25.0,
+          "Circuits": 12.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 301,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "AltairEVASuit",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 10.0,
+          "CarbonFibers": 15.0
+        },
+        "Craft": {
+          "NickelIron": 40.0,
+          "CarbonFibers": 60.0
+        }
+      },
+      "2": {
+        "Recycle": {
+          "NickelIron": 10.0,
+          "CarbonFibers": 15.0,
+          "Silicates": 10.0
+        },
+        "Craft": {
+          "NickelIron": 40.0,
+          "CarbonFibers": 60.0,
+          "Silicates": 50.0
+        }
+      },
+      "3": {
+        "Recycle": {
+          "NickelIron": 10.0,
+          "CarbonFibers": 15.0,
+          "Silicates": 10.0,
+          "Titanium": 3.75000024
+        },
+        "Craft": {
+          "NickelIron": 40.0,
+          "CarbonFibers": 60.0,
+          "Silicates": 50.0,
+          "Titanium": 25.0
+        }
+      },
+      "4": {
+        "Recycle": {
+          "NickelIron": 10.0,
+          "CarbonFibers": 15.0,
+          "Silicates": 10.0,
+          "Titanium": 3.75000024,
+          "RareElements": 1.2
+        },
+        "Craft": {
+          "NickelIron": 40.0,
+          "CarbonFibers": 60.0,
+          "Silicates": 50.0,
+          "Titanium": 25.0,
+          "RareElements": 12.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 401,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "AltairEVAHelmet",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 2.5,
+          "CarbonFibers": 5.0
+        },
+        "Craft": {
+          "NickelIron": 10.0,
+          "CarbonFibers": 20.0
+        }
+      },
+      "2": {
+        "Recycle": {
+          "NickelIron": 2.5,
+          "CarbonFibers": 5.0,
+          "Silicates": 3.0
+        },
+        "Craft": {
+          "NickelIron": 10.0,
+          "CarbonFibers": 20.0,
+          "Silicates": 15.0
+        }
+      },
+      "3": {
+        "Recycle": {
+          "NickelIron": 2.5,
+          "CarbonFibers": 5.0,
+          "Silicates": 3.0,
+          "Titanium": 1.05000007
+        },
+        "Craft": {
+          "NickelIron": 10.0,
+          "CarbonFibers": 20.0,
+          "Silicates": 15.0,
+          "Titanium": 7.0
+        }
+      },
+      "4": {
+        "Recycle": {
+          "NickelIron": 2.5,
+          "CarbonFibers": 5.0,
+          "Silicates": 3.0,
+          "Titanium": 1.05000007,
+          "RareElements": 0.3
+        },
+        "Craft": {
+          "NickelIron": 10.0,
+          "CarbonFibers": 20.0,
+          "Silicates": 15.0,
+          "Titanium": 7.0,
+          "RareElements": 3.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 501,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "AltairEVAJetpack",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 5.0,
+          "CarbonFibers": 7.5
+        },
+        "Craft": {
+          "NickelIron": 20.0,
+          "CarbonFibers": 30.0
+        }
+      },
+      "2": {
+        "Recycle": {
+          "NickelIron": 5.0,
+          "CarbonFibers": 7.5,
+          "Silicates": 5.0
+        },
+        "Craft": {
+          "NickelIron": 20.0,
+          "CarbonFibers": 30.0,
+          "Silicates": 25.0
+        }
+      },
+      "3": {
+        "Recycle": {
+          "NickelIron": 5.0,
+          "CarbonFibers": 7.5,
+          "Silicates": 5.0,
+          "Titanium": 1.80000007
+        },
+        "Craft": {
+          "NickelIron": 20.0,
+          "CarbonFibers": 30.0,
+          "Silicates": 25.0,
+          "Titanium": 12.0
+        }
+      },
+      "4": {
+        "Recycle": {
+          "NickelIron": 5.0,
+          "CarbonFibers": 7.5,
+          "Silicates": 5.0,
+          "Titanium": 1.80000007,
+          "RareElements": 0.6
+        },
+        "Craft": {
+          "NickelIron": 20.0,
+          "CarbonFibers": 30.0,
+          "Silicates": 25.0,
+          "Titanium": 12.0,
+          "RareElements": 6.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 600,
+    "SubType": 0,
+    "PartType": 11,
+    "Name": "ResourceInjector",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 5.0,
+          "CarbonFibers": 5.0
+        },
+        "Craft": {
+          "NickelIron": 20.0,
+          "CarbonFibers": 20.0
+        }
+      },
+      "2": {
+        "Recycle": {
+          "NickelIron": 5.0,
+          "CarbonFibers": 5.0,
+          "Silicates": 4.0
+        },
+        "Craft": {
+          "NickelIron": 20.0,
+          "CarbonFibers": 20.0,
+          "Silicates": 20.0
+        }
+      },
+      "3": {
+        "Recycle": {
+          "NickelIron": 5.0,
+          "CarbonFibers": 5.0,
+          "Silicates": 4.0,
+          "Titanium": 1.5
+        },
+        "Craft": {
+          "NickelIron": 20.0,
+          "CarbonFibers": 20.0,
+          "Silicates": 20.0,
+          "Titanium": 10.0
+        }
+      },
+      "4": {
+        "Recycle": {
+          "NickelIron": 5.0,
+          "CarbonFibers": 5.0,
+          "Silicates": 4.0,
+          "Titanium": 1.5,
+          "RareElements": 0.5
+        },
+        "Craft": {
+          "NickelIron": 20.0,
+          "CarbonFibers": 20.0,
+          "Silicates": 20.0,
+          "Titanium": 10.0,
+          "RareElements": 5.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 600,
+    "SubType": 0,
+    "PartType": 13,
+    "Name": "ThermonuclearCatalyst",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 6.25,
+          "CarbonFibers": 3.75
+        },
+        "Craft": {
+          "NickelIron": 25.0,
+          "CarbonFibers": 15.0
+        }
+      },
+      "2": {
+        "Recycle": {
+          "NickelIron": 6.25,
+          "CarbonFibers": 3.75,
+          "Alloys": 4.0
+        },
+        "Craft": {
+          "NickelIron": 25.0,
+          "CarbonFibers": 15.0,
+          "Alloys": 20.0
+        }
+      },
+      "3": {
+        "Recycle": {
+          "NickelIron": 5.0,
+          "CarbonFibers": 5.0,
+          "Alloys": 4.0,
+          "Titanium": 1.5
+        },
+        "Craft": {
+          "NickelIron": 20.0,
+          "CarbonFibers": 20.0,
+          "Alloys": 20.0,
+          "Titanium": 10.0
+        }
+      },
+      "4": {
+        "Recycle": {
+          "NickelIron": 5.0,
+          "CarbonFibers": 5.0,
+          "Silicates": 4.0,
+          "Titanium": 1.5,
+          "RareElements": 0.5
+        },
+        "Craft": {
+          "NickelIron": 20.0,
+          "CarbonFibers": 20.0,
+          "Silicates": 20.0,
+          "Titanium": 10.0,
+          "RareElements": 5.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 600,
+    "SubType": 0,
+    "PartType": 10,
+    "Name": "CoreContainmentFieldGenerator",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 3.75,
+          "CarbonFibers": 6.25
+        },
+        "Craft": {
+          "NickelIron": 15.0,
+          "CarbonFibers": 25.0
+        }
+      },
+      "2": {
+        "Recycle": {
+          "NickelIron": 3.75,
+          "CarbonFibers": 6.25,
+          "Silicates": 2.0,
+          "Alloys": 2.0
+        },
+        "Craft": {
+          "NickelIron": 15.0,
+          "CarbonFibers": 25.0,
+          "Silicates": 10.0,
+          "Alloys": 10.0
+        }
+      },
+      "3": {
+        "Recycle": {
+          "NickelIron": 3.75,
+          "CarbonFibers": 6.25,
+          "Silicates": 2.0,
+          "Alloys": 2.0,
+          "Circuits": 1.5
+        },
+        "Craft": {
+          "NickelIron": 15.0,
+          "CarbonFibers": 25.0,
+          "Silicates": 10.0,
+          "Alloys": 10.0,
+          "Circuits": 10.0
+        }
+      },
+      "4": {
+        "Recycle": {
+          "NickelIron": 3.75,
+          "CarbonFibers": 6.25,
+          "Silicates": 2.0,
+          "Alloys": 2.0,
+          "Circuits": 1.5,
+          "RareElements": 0.3,
+          "Superconductors": 0.2
+        },
+        "Craft": {
+          "NickelIron": 15.0,
+          "CarbonFibers": 25.0,
+          "Silicates": 10.0,
+          "Alloys": 10.0,
+          "Circuits": 10.0,
+          "RareElements": 3.0,
+          "Superconductors": 2.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 600,
+    "SubType": 0,
+    "PartType": 2,
+    "Name": "ServoMotor",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 7.5,
+          "CarbonFibers": 2.5
+        },
+        "Craft": {
+          "NickelIron": 30.0,
+          "CarbonFibers": 10.0
+        }
+      },
+      "2": {
+        "Recycle": {
+          "NickelIron": 7.5,
+          "CarbonFibers": 2.5,
+          "Alloys": 4.0
+        },
+        "Craft": {
+          "NickelIron": 30.0,
+          "CarbonFibers": 10.0,
+          "Alloys": 20.0
+        }
+      },
+      "3": {
+        "Recycle": {
+          "NickelIron": 7.5,
+          "CarbonFibers": 2.5,
+          "Alloys": 4.0,
+          "Circuits": 1.5
+        },
+        "Craft": {
+          "NickelIron": 30.0,
+          "CarbonFibers": 10.0,
+          "Alloys": 20.0,
+          "Circuits": 10.0
+        }
+      },
+      "4": {
+        "Recycle": {
+          "NickelIron": 7.5,
+          "CarbonFibers": 2.5,
+          "Alloys": 4.0,
+          "Circuits": 1.5,
+          "Superconductors": 0.5
+        },
+        "Craft": {
+          "NickelIron": 30.0,
+          "CarbonFibers": 10.0,
+          "Alloys": 20.0,
+          "Circuits": 10.0,
+          "Superconductors": 5.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 600,
+    "SubType": 0,
+    "PartType": 6,
+    "Name": "CarbonFilters",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 7.5,
+          "CarbonFibers": 2.5
+        },
+        "Craft": {
+          "NickelIron": 30.0,
+          "CarbonFibers": 10.0
+        }
+      },
+      "2": {
+        "Recycle": {
+          "NickelIron": 7.5,
+          "CarbonFibers": 2.5,
+          "Silicates": 4.0
+        },
+        "Craft": {
+          "NickelIron": 30.0,
+          "CarbonFibers": 10.0,
+          "Silicates": 20.0
+        }
+      },
+      "3": {
+        "Recycle": {
+          "NickelIron": 7.5,
+          "CarbonFibers": 2.5,
+          "Silicates": 4.0,
+          "Titanium": 1.5
+        },
+        "Craft": {
+          "NickelIron": 30.0,
+          "CarbonFibers": 10.0,
+          "Silicates": 20.0,
+          "Titanium": 10.0
+        }
+      },
+      "4": {
+        "Recycle": {
+          "NickelIron": 7.5,
+          "CarbonFibers": 2.5,
+          "Silicates": 4.0,
+          "Titanium": 1.5,
+          "RareElements": 0.5
+        },
+        "Craft": {
+          "NickelIron": 30.0,
+          "CarbonFibers": 10.0,
+          "Silicates": 20.0,
+          "Titanium": 10.0,
+          "RareElements": 5.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 600,
+    "SubType": 0,
+    "PartType": 23,
+    "Name": "SingularityCellDetonator",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 1.25,
+          "CarbonFibers": 8.75
+        },
+        "Craft": {
+          "NickelIron": 5.0,
+          "CarbonFibers": 35.0
+        }
+      },
+      "2": {
+        "Recycle": {
+          "NickelIron": 1.25,
+          "CarbonFibers": 8.75,
+          "Silicates": 1.0,
+          "Alloys": 3.0
+        },
+        "Craft": {
+          "NickelIron": 5.0,
+          "CarbonFibers": 35.0,
+          "Silicates": 5.0,
+          "Alloys": 15.0
+        }
+      },
+      "3": {
+        "Recycle": {
+          "NickelIron": 1.25,
+          "CarbonFibers": 8.75,
+          "Silicates": 1.0,
+          "Alloys": 3.0,
+          "Titanium": 0.3,
+          "Circuits": 1.2
+        },
+        "Craft": {
+          "NickelIron": 5.0,
+          "CarbonFibers": 35.0,
+          "Silicates": 5.0,
+          "Alloys": 15.0,
+          "Titanium": 2.0,
+          "Circuits": 8.0
+        }
+      },
+      "4": {
+        "Recycle": {
+          "NickelIron": 1.25,
+          "CarbonFibers": 8.75,
+          "Silicates": 1.0,
+          "Alloys": 3.0,
+          "Titanium": 0.3,
+          "Circuits": 1.2,
+          "RareElements": 0.1,
+          "Superconductors": 0.4
+        },
+        "Craft": {
+          "NickelIron": 5.0,
+          "CarbonFibers": 35.0,
+          "Silicates": 5.0,
+          "Alloys": 15.0,
+          "Titanium": 2.0,
+          "Circuits": 8.0,
+          "RareElements": 1.0,
+          "Superconductors": 4.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 600,
+    "SubType": 0,
+    "PartType": 19,
+    "Name": "NaniteCore",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 6.25,
+          "CarbonFibers": 6.25
+        },
+        "Craft": {
+          "NickelIron": 50.0,
+          "CarbonFibers": 50.0
+        }
+      },
+      "2": {
+        "Recycle": {
+          "NickelIron": 6.25,
+          "CarbonFibers": 6.25,
+          "Silicates": 2.5,
+          "Alloys": 2.5
+        },
+        "Craft": {
+          "NickelIron": 50.0,
+          "CarbonFibers": 50.0,
+          "Silicates": 25.0,
+          "Alloys": 25.0
+        }
+      },
+      "3": {
+        "Recycle": {
+          "NickelIron": 6.25,
+          "CarbonFibers": 6.25,
+          "Silicates": 2.5,
+          "Alloys": 2.5,
+          "Titanium": 0.9,
+          "Circuits": 0.9
+        },
+        "Craft": {
+          "NickelIron": 50.0,
+          "CarbonFibers": 50.0,
+          "Silicates": 25.0,
+          "Alloys": 25.0,
+          "Titanium": 12.0,
+          "Circuits": 12.0
+        }
+      },
+      "4": {
+        "Recycle": {
+          "NickelIron": 6.25,
+          "CarbonFibers": 6.25,
+          "Silicates": 2.5,
+          "Alloys": 2.5,
+          "Titanium": 0.9,
+          "Circuits": 0.9,
+          "RareElements": 0.3,
+          "Superconductors": 0.3
+        },
+        "Craft": {
+          "NickelIron": 50.0,
+          "CarbonFibers": 50.0,
+          "Silicates": 25.0,
+          "Alloys": 25.0,
+          "Titanium": 12.0,
+          "Circuits": 12.0,
+          "RareElements": 6.0,
+          "Superconductors": 6.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 600,
+    "SubType": 0,
+    "PartType": 28,
+    "Name": "WarpCell",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 10.0,
+          "CarbonFibers": 10.0
+        },
+        "Craft": {
+          "NickelIron": 40.0,
+          "CarbonFibers": 40.0
+        }
+      },
+      "2": {
+        "Recycle": {
+          "NickelIron": 10.0,
+          "CarbonFibers": 10.0,
+          "Silicates": 4.0,
+          "Alloys": 4.0
+        },
+        "Craft": {
+          "NickelIron": 40.0,
+          "CarbonFibers": 40.0,
+          "Silicates": 20.0,
+          "Alloys": 20.0
+        }
+      },
+      "3": {
+        "Recycle": {
+          "NickelIron": 10.0,
+          "CarbonFibers": 10.0,
+          "Silicates": 4.0,
+          "Alloys": 4.0,
+          "Titanium": 1.5,
+          "Circuits": 1.5
+        },
+        "Craft": {
+          "NickelIron": 40.0,
+          "CarbonFibers": 40.0,
+          "Silicates": 20.0,
+          "Alloys": 20.0,
+          "Titanium": 10.0,
+          "Circuits": 10.0
+        }
+      },
+      "4": {
+        "Recycle": {
+          "NickelIron": 10.0,
+          "CarbonFibers": 10.0,
+          "Silicates": 4.0,
+          "Alloys": 4.0,
+          "Titanium": 1.5,
+          "Circuits": 1.5,
+          "RareElements": 0.5,
+          "Superconductors": 0.5
+        },
+        "Craft": {
+          "NickelIron": 40.0,
+          "CarbonFibers": 40.0,
+          "Silicates": 20.0,
+          "Alloys": 20.0,
+          "Titanium": 10.0,
+          "Circuits": 10.0,
+          "RareElements": 5.0,
+          "Superconductors": 5.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 600,
+    "SubType": 0,
+    "PartType": 9,
+    "Name": "RadarSignalAmplifier",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 2.5,
+          "CarbonFibers": 7.5
+        },
+        "Craft": {
+          "NickelIron": 10.0,
+          "CarbonFibers": 30.0
+        }
+      },
+      "2": {
+        "Recycle": {
+          "NickelIron": 2.5,
+          "CarbonFibers": 7.5,
+          "Silicates": 1.0,
+          "Alloys": 3.0
+        },
+        "Craft": {
+          "NickelIron": 10.0,
+          "CarbonFibers": 30.0,
+          "Silicates": 5.0,
+          "Alloys": 15.0
+        }
+      },
+      "3": {
+        "Recycle": {
+          "NickelIron": 2.5,
+          "CarbonFibers": 7.5,
+          "Silicates": 1.0,
+          "Alloys": 3.0,
+          "Titanium": 0.45,
+          "Circuits": 1.05
+        },
+        "Craft": {
+          "NickelIron": 10.0,
+          "CarbonFibers": 30.0,
+          "Silicates": 5.0,
+          "Alloys": 15.0,
+          "Titanium": 3.0,
+          "Circuits": 7.0
+        }
+      },
+      "4": {
+        "Recycle": {
+          "NickelIron": 2.5,
+          "CarbonFibers": 7.5,
+          "Silicates": 1.0,
+          "Alloys": 3.0,
+          "Titanium": 0.45,
+          "Circuits": 1.05,
+          "RareElements": 0.1,
+          "Superconductors": 0.4
+        },
+        "Craft": {
+          "NickelIron": 10.0,
+          "CarbonFibers": 30.0,
+          "Silicates": 5.0,
+          "Alloys": 15.0,
+          "Titanium": 3.0,
+          "Circuits": 7.0,
+          "RareElements": 1.0,
+          "Superconductors": 4.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 1300,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "AltairMedpackSmall",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 1.25,
+          "CarbonFibers": 1.25
+        },
+        "Craft": {
+          "NickelIron": 5.0,
+          "CarbonFibers": 5.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 1301,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "AltairMedpackBig",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 2.0,
+          "CarbonFibers": 1.5,
+          "Silicates": 0.8,
+          "Alloys": 0.6
+        },
+        "Craft": {
+          "NickelIron": 8.0,
+          "CarbonFibers": 6.0,
+          "Silicates": 4.0,
+          "Alloys": 3.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 600,
+    "SubType": 0,
+    "PartType": 12,
+    "Name": "EMFieldController",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "Alloys": 5.0
+        },
+        "Craft": null
+      }
+    }
+  },
+  {
+    "Type": 1400,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "AltairDisposableHackingTool",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 1.25,
+          "CarbonFibers": 2.5
+        },
+        "Craft": {
+          "NickelIron": 5.0,
+          "CarbonFibers": 10.0
+        }
+      },
+      "2": {
+        "Recycle": {
+          "NickelIron": 1.25,
+          "CarbonFibers": 2.5,
+          "Silicates": 1.4
+        },
+        "Craft": {
+          "NickelIron": 5.0,
+          "CarbonFibers": 10.0,
+          "Silicates": 7.0
+        }
+      },
+      "3": {
+        "Recycle": {
+          "NickelIron": 1.25,
+          "CarbonFibers": 2.5,
+          "Silicates": 1.4,
+          "Titanite": 0.6
+        },
+        "Craft": {
+          "NickelIron": 5.0,
+          "CarbonFibers": 10.0,
+          "Silicates": 7.0,
+          "Titanium": 4.0
+        }
+      },
+      "4": {
+        "Recycle": {
+          "NickelIron": 1.25,
+          "CarbonFibers": 2.5,
+          "Silicates": 1.4,
+          "Titanite": 0.6,
+          "RareElements": 0.2
+        },
+        "Craft": {
+          "NickelIron": 5.0,
+          "CarbonFibers": 10.0,
+          "Silicates": 7.0,
+          "Titanium": 4.0,
+          "RareElements": 2.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 1100,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "AltairCrowbar",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 5.0
+        },
+        "Craft": {
+          "NickelIron": 20.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 2000,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "Welder",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 5.0,
+          "CarbonFibers": 2.5
+        },
+        "Craft": {
+          "NickelIron": 20.0,
+          "CarbonFibers": 10.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 2001,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "FireExtinguisher",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 5.0,
+          "CarbonFibers": 1.25
+        },
+        "Craft": {
+          "NickelIron": 20.0,
+          "CarbonFibers": 5.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 402,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "SoePressurisedHelmet",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 5.0,
+          "CarbonFibers": 2.5,
+          "Alloys": 3.0,
+          "Circuits": 1.05000007,
+          "Superconductors": 0.3
+        },
+        "Craft": {
+          "NickelIron": 20.0,
+          "CarbonFibers": 10.0,
+          "Alloys": 15.0,
+          "Circuits": 7.0,
+          "Superconductors": 3.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 502,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "SoePressurisedJetpack",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 7.5,
+          "CarbonFibers": 5.0,
+          "Alloys": 5.0,
+          "Circuits": 1.80000007,
+          "Superconductors": 0.6
+        },
+        "Craft": {
+          "NickelIron": 30.0,
+          "CarbonFibers": 20.0,
+          "Alloys": 25.0,
+          "Circuits": 12.0,
+          "Superconductors": 6.0
+        }
+      }
+    }
+  },
+  {
+    "Type": 302,
+    "SubType": 0,
+    "PartType": 0,
+    "Name": "SoePressurisedSuit",
+    "IngredientsTiers": {
+      "1": {
+        "Recycle": {
+          "NickelIron": 15.0,
+          "CarbonFibers": 10.0,
+          "Alloys": 10.0,
+          "Circuits": 3.75000024,
+          "Superconductors": 1.2
+        },
+        "Craft": {
+          "NickelIron": 60.0,
+          "CarbonFibers": 40.0,
+          "Alloys": 50.0,
+          "Circuits": 25.0,
+          "Superconductors": 12.0
+        }
+      }
+    }
+  }
+]

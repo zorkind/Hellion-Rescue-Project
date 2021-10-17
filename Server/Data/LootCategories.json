@@ -1,0 +1,2198 @@
+[
+  {
+    "CategoryName": "Sample",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "MilitaryHandGun01",
+            "AttachPointPriority": "Default"
+          },
+          {
+            "ItemType": "MilitaryHandGunAmmo01",
+            "AttachPointPriority": "Default",
+            "Count": {
+              "Min": 10,
+              "Max": 20
+            }
+          },
+          {
+            "ItemType": "MachineryPart",
+            "AttachPointPriority": "Default",
+            "MachineryPartType": "WarpCell",
+            "Health": {
+              "Min": 22,
+              "Max": 33
+            }
+          },
+          {
+            "ItemType": "AltairRefinedCanister",
+            "AttachPointPriority": "Default",
+            "Cargo": [
+              {
+                "Resources": [
+                  "Oxygen",
+                  "Nitrogen"
+                ],
+                "Quantity": {
+                  "Min": 54,
+                  "Max": 66
+                }
+              }
+            ]
+          },
+          {
+            "ItemType": "PortableTurret",
+            "AttachPointPriority": "Active"
+          },
+          {
+            "ItemType": "AltairPressurisedJetpack",
+            "AttachPointPriority": "Default",
+            "Power": {
+              "Min": 100,
+              "Max": 100
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Suits 1",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "AltairPressurisedSuit",
+            "AttachPointPriority": "Default"
+          },
+          {
+            "ItemType": "AltairPressurisedHelmet",
+            "AttachPointPriority": "Default"
+          },
+          {
+            "ItemType": "AltairPressurisedJetpack",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      },
+      {
+        "TierName": "T2",
+        "Items": [
+          {
+            "ItemType": "AltairPressurisedSuit",
+            "AttachPointPriority": "Default"
+          },
+          {
+            "ItemType": "AltairPressurisedHelmet",
+            "AttachPointPriority": "Default"
+          },
+          {
+            "ItemType": "AltairPressurisedJetpack",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      },
+      {
+        "TierName": "T3",
+        "Items": [
+          {
+            "ItemType": "AltairPressurisedSuit",
+            "AttachPointPriority": "Default"
+          },
+          {
+            "ItemType": "AltairPressurisedHelmet",
+            "AttachPointPriority": "Default"
+          },
+          {
+            "ItemType": "AltairPressurisedJetpack",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Suits 2",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "AltairEVASuit",
+            "AttachPointPriority": "Default"
+          },
+          {
+            "ItemType": "AltairEVAHelmet",
+            "AttachPointPriority": "Default"
+          },
+          {
+            "ItemType": "AltairEVAJetpack",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      },
+      {
+        "TierName": "T2",
+        "Items": [
+          {
+            "ItemType": "AltairEVASuit",
+            "AttachPointPriority": "Default"
+          },
+          {
+            "ItemType": "AltairEVAHelmet",
+            "AttachPointPriority": "Default"
+          },
+          {
+            "ItemType": "AltairEVAJetpack",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      },
+      {
+        "TierName": "T3",
+        "Items": [
+          {
+            "ItemType": "AltairEVASuit",
+            "AttachPointPriority": "Default"
+          },
+          {
+            "ItemType": "AltairEVAHelmet",
+            "AttachPointPriority": "Default"
+          },
+          {
+            "ItemType": "AltairEVAJetpack",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      },
+      {
+        "TierName": "T4",
+        "Items": [
+          {
+            "ItemType": "AltairEVASuit",
+            "AttachPointPriority": "Default"
+          },
+          {
+            "ItemType": "AltairEVAHelmet",
+            "AttachPointPriority": "Default"
+          },
+          {
+            "ItemType": "AltairEVAJetpack",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Suits Sons",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "SoePressurisedSuit",
+            "AttachPointPriority": "Default"
+          },
+          {
+            "ItemType": "SoePressurisedHelmet",
+            "AttachPointPriority": "Default"
+          },
+          {
+            "ItemType": "SoePressurisedJetpack",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Medical 1",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "AltairMedpackSmall",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Medical 2",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "AltairMedpackBig",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Emergency 1",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "AltairResourceContainer",
+            "Cargo": [
+              {
+                "Resources": [
+                  "Nitro"
+                ],
+                "Quantity": {
+                  "Min": 3,
+                  "Max": 5
+                }
+              }
+            ],
+            "AttachPointPriority": "Default"
+          },
+          {
+            "ItemType": "AltairResourceContainer",
+            "Cargo": [
+              {
+                "Resources": [
+                  "Oxygen"
+                ],
+                "Quantity": {
+                  "Min": 3,
+                  "Max": 5
+                }
+              }
+            ],
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Warp Cells",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "WarpCell",
+            "Health": {
+              "Min": 15,
+              "Max": 30
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          }
+        ]
+      },
+      {
+        "TierName": "T2",
+        "Items": [
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "WarpCell",
+            "Health": {
+              "Min": 30,
+              "Max": 60
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          }
+        ]
+      },
+      {
+        "TierName": "T3",
+        "Items": [
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "WarpCell",
+            "Health": {
+              "Min": 60,
+              "Max": 120
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          }
+        ]
+      },
+      {
+        "TierName": "T4",
+        "Items": [
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "WarpCell",
+            "Health": {
+              "Min": 120,
+              "Max": 240
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "General Parts",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "ServoMotor",
+            "Health": {
+              "Min": 85,
+              "Max": 100
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          },
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "ResourceInjector",
+            "Health": {
+              "Min": 85,
+              "Max": 100
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          }
+        ]
+      },
+      {
+        "TierName": "T2",
+        "Items": [
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "ServoMotor",
+            "Health": {
+              "Min": 85,
+              "Max": 100
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          },
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "ResourceInjector",
+            "Health": {
+              "Min": 85,
+              "Max": 100
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          }
+        ]
+      },
+      {
+        "TierName": "T3",
+        "Items": [
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "ServoMotor",
+            "Health": {
+              "Min": 85,
+              "Max": 100
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          },
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "ResourceInjector",
+            "Health": {
+              "Min": 85,
+              "Max": 100
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          }
+        ]
+      },
+      {
+        "TierName": "T4",
+        "Items": [
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "ServoMotor",
+            "Health": {
+              "Min": 85,
+              "Max": 100
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          },
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "ResourceInjector",
+            "Health": {
+              "Min": 85,
+              "Max": 100
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "LS Parts",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "CarbonFilters",
+            "Health": {
+              "Min": 20,
+              "Max": 75
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          }
+        ]
+      },
+      {
+        "TierName": "T2",
+        "Items": [
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "CarbonFilters",
+            "Health": {
+              "Min": 20,
+              "Max": 75
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          }
+        ]
+      },
+      {
+        "TierName": "T3",
+        "Items": [
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "CarbonFilters",
+            "Health": {
+              "Min": 20,
+              "Max": 75
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          }
+        ]
+      },
+      {
+        "TierName": "T4",
+        "Items": [
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "CarbonFilters",
+            "Health": {
+              "Min": 20,
+              "Max": 75
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Reactor Parts",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "ThermonuclearCatalyst",
+            "Health": {
+              "Min": 80,
+              "Max": 100
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          },
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "CoreContainmentFieldGenerator",
+            "Health": {
+              "Min": 80,
+              "Max": 100
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          }
+        ]
+      },
+      {
+        "TierName": "T2",
+        "Items": [
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "ThermonuclearCatalyst",
+            "Health": {
+              "Min": 80,
+              "Max": 100
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          },
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "CoreContainmentFieldGenerator",
+            "Health": {
+              "Min": 80,
+              "Max": 100
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          }
+        ]
+      },
+      {
+        "TierName": "T3",
+        "Items": [
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "ThermonuclearCatalyst",
+            "Health": {
+              "Min": 80,
+              "Max": 100
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          },
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "CoreContainmentFieldGenerator",
+            "Health": {
+              "Min": 80,
+              "Max": 100
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          }
+        ]
+      },
+      {
+        "TierName": "T4",
+        "Items": [
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "ThermonuclearCatalyst",
+            "Health": {
+              "Min": 80,
+              "Max": 100
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          },
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "CoreContainmentFieldGenerator",
+            "Health": {
+              "Min": 80,
+              "Max": 100
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Engine Parts",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "SingularityCellDetonator",
+            "Health": {
+              "Min": 80,
+              "Max": 100
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          }
+        ]
+      },
+      {
+        "TierName": "T2",
+        "Items": [
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "SingularityCellDetonator",
+            "Health": {
+              "Min": 80,
+              "Max": 100
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          }
+        ]
+      },
+      {
+        "TierName": "T3",
+        "Items": [
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "SingularityCellDetonator",
+            "Health": {
+              "Min": 80,
+              "Max": 100
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          }
+        ]
+      },
+      {
+        "TierName": "T4",
+        "Items": [
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "SingularityCellDetonator",
+            "Health": {
+              "Min": 80,
+              "Max": 100
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Radar Parts",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "RadarSignalAmplifier",
+            "Health": {
+              "Min": 80,
+              "Max": 100
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          }
+        ]
+      },
+      {
+        "TierName": "T2",
+        "Items": [
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "RadarSignalAmplifier",
+            "Health": {
+              "Min": 80,
+              "Max": 100
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          }
+        ]
+      },
+      {
+        "TierName": "T3",
+        "Items": [
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "RadarSignalAmplifier",
+            "Health": {
+              "Min": 80,
+              "Max": 100
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          }
+        ]
+      },
+      {
+        "TierName": "T4",
+        "Items": [
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "RadarSignalAmplifier",
+            "Health": {
+              "Min": 80,
+              "Max": 100
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Melee 1",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "AltairCrowbar",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Weapons 1",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "MilitaryHandGun01",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Weapons 2",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "MilitaryHandGun02",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Weapons 3",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "AltairRifle",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Weapons 4",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "MilitaryAssaultRifle",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Weapons 5",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "MilitarySniperRifle",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Weapons Aegis",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "AegisAssaultRifle",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Ammo 1",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "MilitaryHandGunAmmo01",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Ammo 2",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "MilitaryHandGunAmmo01",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Ammo 3",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "AltairRifleAmmo",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Ammo 4",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "MilitaryAssaultRifleAmmo",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Ammo 5",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "MilitarySniperRifleAmmo",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Explosives 1",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "APGrenade",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Explosives 2",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "EMPGrenade",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Industrial 1",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "AltairHandDrill",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      },
+      {
+        "TierName": "T2",
+        "Items": [
+          {
+            "ItemType": "AltairHandDrill",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      },
+      {
+        "TierName": "T3",
+        "Items": [
+          {
+            "ItemType": "AltairHandDrill",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      },
+      {
+        "TierName": "T4",
+        "Items": [
+          {
+            "ItemType": "AltairHandDrill",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Industrial 2",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "AltairHandDrillBattery",
+            "AttachPointPriority": "Item"
+          }
+        ]
+      },
+      {
+        "TierName": "T2",
+        "Items": [
+          {
+            "ItemType": "AltairHandDrillBattery",
+            "AttachPointPriority": "Item"
+          }
+        ]
+      },
+      {
+        "TierName": "T3",
+        "Items": [
+          {
+            "ItemType": "AltairHandDrillBattery",
+            "AttachPointPriority": "Item"
+          }
+        ]
+      },
+      {
+        "TierName": "T4",
+        "Items": [
+          {
+            "ItemType": "AltairHandDrillBattery",
+            "AttachPointPriority": "Item"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Industrial 3",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "GenericItem",
+            "GenericItemSubType": "DiamondCoreDrillBit",
+            "Health": {
+              "Min": 15,
+              "Max": 100
+            },
+            "AttachPointPriority": "Item"
+          }
+        ]
+      },
+      {
+        "TierName": "T2",
+        "Items": [
+          {
+            "ItemType": "GenericItem",
+            "GenericItemSubType": "DiamondCoreDrillBit",
+            "Health": {
+              "Min": 15,
+              "Max": 100
+            },
+            "AttachPointPriority": "Item"
+          }
+        ]
+      },
+      {
+        "TierName": "T3",
+        "Items": [
+          {
+            "ItemType": "GenericItem",
+            "GenericItemSubType": "DiamondCoreDrillBit",
+            "Health": {
+              "Min": 15,
+              "Max": 100
+            },
+            "AttachPointPriority": "Item"
+          }
+        ]
+      },
+      {
+        "TierName": "T4",
+        "Items": [
+          {
+            "ItemType": "GenericItem",
+            "GenericItemSubType": "DiamondCoreDrillBit",
+            "Health": {
+              "Min": 15,
+              "Max": 100
+            },
+            "AttachPointPriority": "Item"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Industrial 4",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "AltairHandheldAsteroidScanningTool",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      },
+      {
+        "TierName": "T2",
+        "Items": [
+          {
+            "ItemType": "AltairHandheldAsteroidScanningTool",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Utility 1",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "Welder",
+            "AttachPointPriority": "Default"
+          },
+          {
+            "ItemType": "FireExtinguisher",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Utility 2",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "AltairDisposableHackingTool",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      },
+      {
+        "TierName": "T2",
+        "Items": [
+          {
+            "ItemType": "AltairDisposableHackingTool",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      },
+      {
+        "TierName": "T3",
+        "Items": [
+          {
+            "ItemType": "AltairDisposableHackingTool",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      },
+      {
+        "TierName": "T4",
+        "Items": [
+          {
+            "ItemType": "AltairDisposableHackingTool",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Fuel",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "AltairRefinedCanister",
+            "Cargo": [
+              {
+                "Resources": [
+                  "Nitro"
+                ],
+                "Quantity": {
+                  "Min": 25,
+                  "Max": 33
+                }
+              }
+            ],
+            "AttachPointPriority": "Default"
+          },
+          {
+            "ItemType": "AltairRefinedCanister",
+            "Cargo": [
+              {
+                "Resources": [
+                  "Hydrogen"
+                ],
+                "Quantity": {
+                  "Min": 25,
+                  "Max": 33
+                }
+              }
+            ],
+            "AttachPointPriority": "Default"
+          }
+        ]
+      },
+      {
+        "TierName": "T2",
+        "Items": [
+          {
+            "ItemType": "AltairRefinedCanister",
+            "Cargo": [
+              {
+                "Resources": [
+                  "Nitro"
+                ],
+                "Quantity": {
+                  "Min": 25,
+                  "Max": 33
+                }
+              }
+            ],
+            "AttachPointPriority": "Default"
+          },
+          {
+            "ItemType": "AltairRefinedCanister",
+            "Cargo": [
+              {
+                "Resources": [
+                  "Hydrogen"
+                ],
+                "Quantity": {
+                  "Min": 25,
+                  "Max": 33
+                }
+              }
+            ],
+            "AttachPointPriority": "Default"
+          }
+        ]
+      },
+      {
+        "TierName": "T3",
+        "Items": [
+          {
+            "ItemType": "AltairRefinedCanister",
+            "Cargo": [
+              {
+                "Resources": [
+                  "Nitro"
+                ],
+                "Quantity": {
+                  "Min": 25,
+                  "Max": 33
+                }
+              }
+            ],
+            "AttachPointPriority": "Default"
+          },
+          {
+            "ItemType": "AltairRefinedCanister",
+            "Cargo": [
+              {
+                "Resources": [
+                  "Hydrogen"
+                ],
+                "Quantity": {
+                  "Min": 25,
+                  "Max": 33
+                }
+              }
+            ],
+            "AttachPointPriority": "Default"
+          }
+        ]
+      },
+      {
+        "TierName": "T4",
+        "Items": [
+          {
+            "ItemType": "AltairRefinedCanister",
+            "Cargo": [
+              {
+                "Resources": [
+                  "Nitro"
+                ],
+                "Quantity": {
+                  "Min": 25,
+                  "Max": 33
+                }
+              }
+            ],
+            "AttachPointPriority": "Default"
+          },
+          {
+            "ItemType": "AltairRefinedCanister",
+            "Cargo": [
+              {
+                "Resources": [
+                  "Hydrogen"
+                ],
+                "Quantity": {
+                  "Min": 25,
+                  "Max": 33
+                }
+              }
+            ],
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Refined",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "AltairRefinedCanister",
+            "Cargo": [
+              {
+                "Resources": [
+                  "Oxygen"
+                ],
+                "Quantity": {
+                  "Min": 25,
+                  "Max": 33
+                }
+              }
+            ],
+            "AttachPointPriority": "Default"
+          },
+          {
+            "ItemType": "AltairRefinedCanister",
+            "Cargo": [
+              {
+                "Resources": [
+                  "Nitrogen"
+                ],
+                "Quantity": {
+                  "Min": 25,
+                  "Max": 33
+                }
+              }
+            ],
+            "AttachPointPriority": "Default"
+          }
+        ]
+      },
+      {
+        "TierName": "T2",
+        "Items": [
+          {
+            "ItemType": "AltairRefinedCanister",
+            "Cargo": [
+              {
+                "Resources": [
+                  "Oxygen"
+                ],
+                "Quantity": {
+                  "Min": 25,
+                  "Max": 33
+                }
+              }
+            ],
+            "AttachPointPriority": "Default"
+          },
+          {
+            "ItemType": "AltairRefinedCanister",
+            "Cargo": [
+              {
+                "Resources": [
+                  "Nitrogen"
+                ],
+                "Quantity": {
+                  "Min": 25,
+                  "Max": 33
+                }
+              }
+            ],
+            "AttachPointPriority": "Default"
+          }
+        ]
+      },
+      {
+        "TierName": "T3",
+        "Items": [
+          {
+            "ItemType": "AltairRefinedCanister",
+            "Cargo": [
+              {
+                "Resources": [
+                  "Oxygen"
+                ],
+                "Quantity": {
+                  "Min": 25,
+                  "Max": 33
+                }
+              }
+            ],
+            "AttachPointPriority": "Default"
+          },
+          {
+            "ItemType": "AltairRefinedCanister",
+            "Cargo": [
+              {
+                "Resources": [
+                  "Nitrogen"
+                ],
+                "Quantity": {
+                  "Min": 25,
+                  "Max": 33
+                }
+              }
+            ],
+            "AttachPointPriority": "Default"
+          }
+        ]
+      },
+      {
+        "TierName": "T4",
+        "Items": [
+          {
+            "ItemType": "AltairRefinedCanister",
+            "Cargo": [
+              {
+                "Resources": [
+                  "Oxygen"
+                ],
+                "Quantity": {
+                  "Min": 25,
+                  "Max": 33
+                }
+              }
+            ],
+            "AttachPointPriority": "Default"
+          },
+          {
+            "ItemType": "AltairRefinedCanister",
+            "Cargo": [
+              {
+                "Resources": [
+                  "Nitrogen"
+                ],
+                "Quantity": {
+                  "Min": 25,
+                  "Max": 33
+                }
+              }
+            ],
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Raw",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "AltairHandDrillCanister",
+            "Cargo": [
+              {
+                "Resources": [
+                  "DryIce"
+                ],
+                "Quantity": {
+                  "Min": 25,
+                  "Max": 33
+                }
+              }
+            ],
+            "AttachPointPriority": "Default"
+          },
+          {
+            "ItemType": "AltairHandDrillCanister",
+            "Cargo": [
+              {
+                "Resources": [
+                  "NitrateMinerals"
+                ],
+                "Quantity": {
+                  "Min": 25,
+                  "Max": 33
+                }
+              }
+            ],
+            "AttachPointPriority": "Item"
+          }
+        ]
+      },
+      {
+        "TierName": "T2",
+        "Items": [
+          {
+            "ItemType": "AltairHandDrillCanister",
+            "Cargo": [
+              {
+                "Resources": [
+                  "DryIce"
+                ],
+                "Quantity": {
+                  "Min": 25,
+                  "Max": 33
+                }
+              }
+            ],
+            "AttachPointPriority": "Item"
+          },
+          {
+            "ItemType": "AltairHandDrillCanister",
+            "Cargo": [
+              {
+                "Resources": [
+                  "NitrateMinerals"
+                ],
+                "Quantity": {
+                  "Min": 25,
+                  "Max": 33
+                }
+              }
+            ],
+            "AttachPointPriority": "Item"
+          }
+        ]
+      },
+      {
+        "TierName": "T3",
+        "Items": [
+          {
+            "ItemType": "AltairHandDrillCanister",
+            "Cargo": [
+              {
+                "Resources": [
+                  "DryIce"
+                ],
+                "Quantity": {
+                  "Min": 25,
+                  "Max": 33
+                }
+              }
+            ],
+            "AttachPointPriority": "Item"
+          },
+          {
+            "ItemType": "AltairHandDrillCanister",
+            "Cargo": [
+              {
+                "Resources": [
+                  "NitrateMinerals"
+                ],
+                "Quantity": {
+                  "Min": 25,
+                  "Max": 33
+                }
+              }
+            ],
+            "AttachPointPriority": "Item"
+          }
+        ]
+      },
+      {
+        "TierName": "T4",
+        "Items": [
+          {
+            "ItemType": "AltairHandDrillCanister",
+            "Cargo": [
+              {
+                "Resources": [
+                  "DryIce"
+                ],
+                "Quantity": {
+                  "Min": 25,
+                  "Max": 33
+                }
+              }
+            ],
+            "AttachPointPriority": "Item"
+          },
+          {
+            "ItemType": "AltairHandDrillCanister",
+            "Cargo": [
+              {
+                "Resources": [
+                  "NitrateMinerals"
+                ],
+                "Quantity": {
+                  "Min": 25,
+                  "Max": 33
+                }
+              }
+            ],
+            "AttachPointPriority": "Item"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Vanity Small 1",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "GenericItem",
+            "GenericItemSubType": "BasketBall",
+            "Health": {
+              "Min": 15,
+              "Max": 100
+            },
+            "AttachPointPriority": "Default"
+          },
+          {
+            "ItemType": "GenericItem",
+            "GenericItemSubType": "AltCorp_Cup",
+            "Health": {
+              "Min": 15,
+              "Max": 100
+            },
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Vanity Small 2",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "GenericItem",
+            "GenericItemSubType": "LavaLamp",
+            "Health": {
+              "Min": 15,
+              "Max": 100
+            },
+            "AttachPointPriority": "Default"
+          },
+          {
+            "ItemType": "GenericItem",
+            "GenericItemSubType": "CoffeeMachine",
+            "Health": {
+              "Min": 15,
+              "Max": 100
+            },
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Vanity Small 3",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "GenericItem",
+            "GenericItemSubType": "TeslaBall",
+            "Health": {
+              "Min": 15,
+              "Max": 100
+            },
+            "AttachPointPriority": "Default"
+          },
+          {
+            "ItemType": "GenericItem",
+            "GenericItemSubType": "PlantZikaLeaf",
+            "Health": {
+              "Min": 15,
+              "Max": 100
+            },
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Vanity Small 4",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "GenericItem",
+            "GenericItemSubType": "BookHolder",
+            "Health": {
+              "Min": 85,
+              "Max": 100
+            },
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Vanity Large 1",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "GenericItem",
+            "GenericItemSubType": "Hoop",
+            "Health": {
+              "Min": 15,
+              "Max": 100
+            },
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Vanity Large 2",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "GenericItem",
+            "GenericItemSubType": "PlantCanister",
+            "Health": {
+              "Min": 15,
+              "Max": 100
+            },
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Vanity Large 3",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "GenericItem",
+            "GenericItemSubType": "PlantRing",
+            "Health": {
+              "Min": 15,
+              "Max": 100
+            },
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Vanity Posters 1",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "GenericItem",
+            "GenericItemSubType": "PosterBethyr",
+            "Health": {
+              "Min": 15,
+              "Max": 100
+            },
+            "AttachPointPriority": "Active"
+          },
+          {
+            "ItemType": "GenericItem",
+            "GenericItemSubType": "PosterBurner",
+            "Health": {
+              "Min": 15,
+              "Max": 100
+            },
+            "AttachPointPriority": "Active"
+          },
+          {
+            "ItemType": "GenericItem",
+            "GenericItemSubType": "PosterEverest",
+            "Health": {
+              "Min": 15,
+              "Max": 100
+            },
+            "AttachPointPriority": "Active"
+          },
+          {
+            "ItemType": "GenericItem",
+            "GenericItemSubType": "PosterHellion",
+            "Health": {
+              "Min": 15,
+              "Max": 100
+            },
+            "AttachPointPriority": "Active"
+          },
+          {
+            "ItemType": "GenericItem",
+            "GenericItemSubType": "PosterCrewQuarters",
+            "Health": {
+              "Min": 15,
+              "Max": 100
+            },
+            "AttachPointPriority": "Active"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Vanity Posters 2",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "GenericItem",
+            "GenericItemSubType": "PosterTurret",
+            "Health": {
+              "Min": 15,
+              "Max": 100
+            },
+            "AttachPointPriority": "Active"
+          },
+          {
+            "ItemType": "GenericItem",
+            "GenericItemSubType": "PosterSonsOfEarth",
+            "Health": {
+              "Min": 15,
+              "Max": 100
+            },
+            "AttachPointPriority": "Active"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Vanity Flag 1",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "GenericItem",
+            "GenericItemSubType": "Flag",
+            "Health": {
+              "Min": 15,
+              "Max": 100
+            },
+            "Look": [
+              "Flag_AltCorp01_MAT"
+            ],
+            "AttachPointPriority": "Active"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Vanity Pictures 1",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "GenericItem",
+            "GenericItemSubType": "Picture",
+            "Look": [
+              "Picture_Atlas01_MAT"
+            ],
+            "AttachPointPriority": "Active"
+          },
+          {
+            "ItemType": "GenericItem",
+            "GenericItemSubType": "Picture",
+            "Look": [
+              "Picture_Actaeon01_MAT"
+            ],
+            "AttachPointPriority": "Active"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Turrets 1",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "PortableTurret",
+            "AttachPointPriority": "Active"
+          }
+        ]
+      },
+      {
+        "TierName": "T2",
+        "Items": [
+          {
+            "ItemType": "PortableTurret",
+            "AttachPointPriority": "Active"
+          }
+        ]
+      },
+      {
+        "TierName": "T3",
+        "Items": [
+          {
+            "ItemType": "PortableTurret",
+            "AttachPointPriority": "Active"
+          }
+        ]
+      },
+      {
+        "TierName": "T4",
+        "Items": [
+          {
+            "ItemType": "PortableTurret",
+            "AttachPointPriority": "Active"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Turrets 2",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "PortableTurret",
+            "AttachPointPriority": "Simple"
+          }
+        ]
+      },
+      {
+        "TierName": "T2",
+        "Items": [
+          {
+            "ItemType": "PortableTurret",
+            "AttachPointPriority": "Simple"
+          }
+        ]
+      },
+      {
+        "TierName": "T3",
+        "Items": [
+          {
+            "ItemType": "PortableTurret",
+            "AttachPointPriority": "Simple"
+          }
+        ]
+      },
+      {
+        "TierName": "T4",
+        "Items": [
+          {
+            "ItemType": "PortableTurret",
+            "AttachPointPriority": "Simple"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Scrap 1",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "GenericItem",
+            "GenericItemSubType": "ShatteredPlating",
+            "Health": {
+              "Min": 15,
+              "Max": 100
+            },
+            "AttachPointPriority": "Scrap"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Scrap 2",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "GenericItem",
+            "GenericItemSubType": "BrokenArmature",
+            "Health": {
+              "Min": 15,
+              "Max": 100
+            },
+            "AttachPointPriority": "Scrap"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Scrap 3",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "GenericItem",
+            "GenericItemSubType": "FriedElectronics",
+            "Health": {
+              "Min": 15,
+              "Max": 100
+            },
+            "AttachPointPriority": "Scrap"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Scrap 4",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "GenericItem",
+            "GenericItemSubType": "BurnedPDU",
+            "Health": {
+              "Min": 15,
+              "Max": 100
+            },
+            "AttachPointPriority": "Scrap"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Scrap 5",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "GenericItem",
+            "GenericItemSubType": "RupturedInsulation",
+            "Health": {
+              "Min": 15,
+              "Max": 100
+            },
+            "AttachPointPriority": "Scrap"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Scrap 6",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "GenericItem",
+            "GenericItemSubType": "DamagedTransmiter",
+            "Health": {
+              "Min": 15,
+              "Max": 100
+            },
+            "AttachPointPriority": "Scrap"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Armor Parts 1",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "NaniteCore",
+            "Health": {
+              "Min": 125000,
+              "Max": 225000
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          }
+        ]
+      },
+      {
+        "TierName": "T2",
+        "Items": [
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "NaniteCore",
+            "Health": {
+              "Min": 500000,
+              "Max": 900000
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          }
+        ]
+      },
+      {
+        "TierName": "T3",
+        "Items": [
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "NaniteCore",
+            "Health": {
+              "Min": 1062500,
+              "Max": 1912500
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          }
+        ]
+      },
+      {
+        "TierName": "T4",
+        "Items": [
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "NaniteCore",
+            "Health": {
+              "Min": 1875000,
+              "Max": 3375000
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Armor Parts 2",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "MillitaryNaniteCore",
+            "Health": {
+              "Min": 22000,
+              "Max": 24000
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          }
+        ]
+      },
+      {
+        "TierName": "T2",
+        "Items": [
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "MillitaryNaniteCore",
+            "Health": {
+              "Min": 31000,
+              "Max": 34000
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          }
+        ]
+      },
+      {
+        "TierName": "T3",
+        "Items": [
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "MillitaryNaniteCore",
+            "Health": {
+              "Min": 46000,
+              "Max": 51000
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          }
+        ]
+      },
+      {
+        "TierName": "T4",
+        "Items": [
+          {
+            "ItemType": "MachineryPart",
+            "MachineryPartType": "MillitaryNaniteCore",
+            "Health": {
+              "Min": 64000,
+              "Max": 71000
+            },
+            "AttachPointPriority": "MachineryPartSlot"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "Box",
+    "Tiers": [
+      {
+        "TierName": "T1",
+        "Items": [
+          {
+            "ItemType": "GenericItem",
+            "GenericItemSubType": "TransportBox",
+            "AttachPointPriority": "Default"
+          }
+        ]
+      }
+    ]
+  }
+]

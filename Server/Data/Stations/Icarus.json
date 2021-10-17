@@ -1,0 +1,130 @@
+[
+  {
+    "Version": "0.3",
+    "Name": "",
+    "Invulnerable": true,
+    "SystemsOnline": true,
+    "DoorsLocked": false,
+    "HealthMultiplier": 0.79,
+    "DockingControlsDisabled": false,
+    "AirPressure": 0.65,
+    "AirQuality": 0.41,
+    "LocalAngularVelocity": [
+      0,
+      5,
+      0
+    ],
+    "AutoStabilizationDisabled": true,
+    "Structures": [
+      {
+        "StructureID": 0,
+        "StructureType": "CQM",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": false,
+        "HealthMultiplier": 0.84,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0.6,
+        "AirQuality": 0.41,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 1,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 1,
+        "StructureType": "SPM",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": false,
+        "HealthMultiplier": 0.79,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0.71,
+        "AirQuality": 0.35,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 0,
+            "Locked": true
+          },
+          {
+            "OrderID": 2,
+            "DockedStructureID": 2,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 2,
+        "StructureType": "AltCorp_StartingModule",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": true,
+        "HealthMultiplier": 0.82,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0.64,
+        "AirQuality": 0.43,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 1,
+            "Locked": true
+          },
+          {
+            "OrderID": 2,
+            "DockedStructureID": 3,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 3,
+        "StructureType": "SPM",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": false,
+        "HealthMultiplier": 0.92,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0.6,
+        "AirQuality": 0.44,
+        "DockingPorts": [
+          {
+            "OrderID": 1,
+            "DockedStructureID": 2,
+            "Locked": true
+          },
+          {
+            "OrderID": 2,
+            "DockedStructureID": 4,
+            "Locked": true
+          }
+        ]
+      },
+      {
+        "StructureID": 4,
+        "StructureType": "AltCorp_AirLock",
+        "Invulnerable": true,
+        "SystemsOnline": true,
+        "DoorsLocked": false,
+        "HealthMultiplier": 0.87,
+        "DockingControlsDisabled": false,
+        "AirPressure": 0.62,
+        "AirQuality": 0.41,
+        "DockingPorts": [
+          {
+            "OrderID": 2,
+            "DockedStructureID": 3,
+            "Locked": true
+          },
+          {
+            "OrderID": 1,
+            "Locked": true
+          }
+        ]
+      }
+    ]
+  }
+]

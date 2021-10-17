@@ -1,0 +1,28 @@
+[
+  {
+    "Version": "0.3",
+    "Name": "Recall Coordinates",
+    "Invulnerable": true,
+    "SystemsOnline": false,
+    "DoorsLocked": false,
+    "HealthMultiplier": 0.15,
+    "DockingControlsDisabled": true,
+    "AirPressure": 0,
+    "AirQuality": 0,
+    "Structures": [
+      {
+        "StructureID": 0,
+        "StructureType": "AltCorp_Destroyed_Shuttle_CECA",
+        "Invulnerable": true,
+        "SystemsOnline": false,
+        "DoorsLocked": false,
+        "HealthMultiplier": 0.15,
+        "DockingControlsDisabled": false,
+        "Tag": "KnossosD1",
+        "AirPressure": 0,
+        "AirQuality": 0,
+        "DockingPorts": []
+      }
+    ]
+  }
+]

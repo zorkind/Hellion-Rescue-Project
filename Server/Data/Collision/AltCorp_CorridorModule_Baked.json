@@ -1,0 +1,19 @@
+{
+  "PrimitiveCollidersData": [
+    {
+      "Type": 1,
+      "Center": [
+        0.05706668,
+        1.34030318,
+        0.45980835
+      ],
+      "Size": [
+        6.47616243,
+        4.8,
+        11.0214729
+      ],
+      "AffectingCenterOfMass": true
+    }
+  ],
+  "MeshCollidersData": []
+}
