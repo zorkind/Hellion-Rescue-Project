@@ -19,7 +19,7 @@ This project was started to bring some life back in to the game Hellion. It was 
 
 # How do I install?
 
-The only version of Hellion Rescue Project currently released is HRP-L 1.0. To install this version, please go to http://hellionrp.space/install and run the downloaded file. This will install our launcher, from which you can install the main mod.
+The only versions of Hellion Rescue Project currently released are HRP-L 1.0 and HRP-L 1.1. To install this version, please go to http://hellionrp.space/install and run the downloaded file. This will install our launcher, from which you can install the main mod.
 
 -------------------------
 
@@ -50,7 +50,7 @@ We highly recommend you join our Discord at https://discord.gg/RCeBAqw. It is th
     
     HRP-Light is smaller, and mostly contains quality of life changes to the client. HRP-L 1.0 has very few server changes currently, although HRP-L 1.1 will have some bigger server changes that allow HRP-L 1.1 players to have new features. HRP-L is also compatible with the original, vanilla servers for Hellion.
 
-    HRP-Light 1.0 is the <b>only</b> version released currently. 
+    HRP-Light 1.0 and HRP-Light 1.1 are the <b>only</b> versions released currently. 
 
 - Q: Do I need to own Hellion?
   - A: Unfortunately, you do need to own a legitimate copy of Hellion. Hellion Rescue Project will not work on pirated versions, and we will not provide support for those copies.
