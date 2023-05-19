@@ -19,7 +19,7 @@ This project was started to bring some life back in to the game Hellion. It was 
 
 # How do I install?
 
-The only versions of Hellion Rescue Project currently released are HRP-L 1.0 and HRP-L 1.1. To install this version, please go to http://hellionrp.space/install and run the downloaded file. This will install our launcher, from which you can install the main mod.
+The only version of Hellion Rescue Project currently released is HRP-L 1.1. To install this version, please go to http://hellionrp.space/install and run the downloaded file. This will install our launcher, from which you can install the main mod.
 
 -------------------------
 
