@@ -17,6 +17,12 @@ This project was started to bring some life back in to the game Hellion. It was 
 
 -------------------------
 
+# What is this github repo about?
+
+This repo is only used to store old ideas and thoughts we had when we started HRP, it is no longer kept updated, but it is available so everyone can checkout our old ideas for the mod.
+
+-------------------------
+
 # How do I install?
 
 The only version of Hellion Rescue Project currently released is HRP-L 1.1. To install this version, please go to http://hellionrp.space/install and run the downloaded file. This will install our launcher, from which you can install the main mod.
